@@ -1,0 +1,1 @@
+scoreboard objectives add rp-saber_click minecraft.used:minecraft.warped_fungus_on_a_stick
