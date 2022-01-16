@@ -1,0 +1,2 @@
+
+give @s minecraft:warped_fungus_on_a_stick{CustomModelData:3,LightSaber:0,display:{Name:'{"text":"Vader\'s Lightsaber","italic":"false","color":"dark_red"}',Lore:['{"text":""}','{"text":"I find your lack of faith disturbing!","color":"dark_red"}']}}
