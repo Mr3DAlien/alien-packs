@@ -65,11 +65,6 @@
                             "function": "enchant_randomly"
                         }
                     ]
-                },
-                {
-                    "type": "loot_table",
-                    "weight": 10,
-                    "name": "rp-light_sabers:chests/light_sabers"
                 }
             ]
         },
@@ -261,6 +256,16 @@
                             }
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "loot_table",
+                    "weight": 1,
+                    "name": "rp-light_sabers:chests/light_sabers"
                 }
             ]
         }
