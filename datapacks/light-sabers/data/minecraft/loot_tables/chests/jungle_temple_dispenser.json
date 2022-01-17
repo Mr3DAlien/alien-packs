@@ -28,7 +28,7 @@
               {
                   "type": "loot_table",
                   "weight": 1,
-                  "name": "rp-light_sabers:chests/light_sabers_100"
+                  "name": "rp-light_sabers:chests/jungle_temple_dispenser"
               }
           ]
       }

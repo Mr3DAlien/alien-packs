@@ -5,7 +5,7 @@
             "entries": [
                 {
                     "type": "item",
-                    "weight": 1,
+                    "weight": 6,
                     "name": "minecraft:warped_fungus_on_a_stick",
                     "functions": [
                         {
@@ -92,10 +92,6 @@
                             "tag": "{CustomModelData:3,LightSaber:0,display:{Name:'{\"text\":\"Vader\\'s Lightsaber\",\"italic\":\"false\",\"color\":\"dark_red\"}',Lore:['{\"text\":\"\"}','{\"text\":\"I find your lack of faith disturbing!\",\"color\":\"dark_red\"}']}}"
                         }
                     ]
-                },
-                {
-                    "type": "empty",
-                    "weight": 6
                 }
             ]
         }
