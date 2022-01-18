@@ -1,0 +1,29 @@
+[
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "equipment": {
+          "offhand": {
+            "items": [
+              "minecraft:netherite_sword"
+            ],
+            "count": 1,
+            "nbt": "{VaderHelmet:1b}"
+          }
+        }
+      }
+    },
+    {
+      "condition": "minecraft:inverted",
+      "term": {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "type": "minecraft:player",
+          "nbt": "{Inventory:[{Slot:103b}]}"
+        }
+      }
+    }
+  ]
+  

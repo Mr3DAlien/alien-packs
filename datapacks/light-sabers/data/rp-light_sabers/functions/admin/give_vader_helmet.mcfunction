@@ -1,0 +1,2 @@
+
+give @s minecraft:netherite_sword{Unbreakable:1b,RepairCost:999999,HideFlags:63s,CustomModelData:1,VaderHelmet:1b,AttributeModifiers:[{}],display:{Name:'{"text":"Darth Vader\'s Helmet","color":"dark_red","italic":"false"}',Lore:['{"text":""}','{"text":"Be careful not to choke on your aspirations.","color":"dark_red"}','{"text":"[Put in offhand to equip!]","color":"yellow","italic":"false"}']},HideFlags:63s} 1
