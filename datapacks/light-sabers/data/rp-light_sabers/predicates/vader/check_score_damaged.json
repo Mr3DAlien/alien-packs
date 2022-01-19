@@ -4,8 +4,7 @@
     "entity": "this",
     "scores": {
       "rp-vader_sound": {
-        "min": 80,
-        "max": 9999999
+        "min": 80
       },
       "rp-health": {
         "min": 0,
