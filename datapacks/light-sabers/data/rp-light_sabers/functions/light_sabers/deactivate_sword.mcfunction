@@ -6,8 +6,8 @@ item modify entity @a[nbt={SelectedItem:{tag:{LightSaber:1,CustomModelData:8}}}]
 item modify entity @a[nbt={SelectedItem:{tag:{LightSaber:1,CustomModelData:10}}}] weapon.mainhand rp-light_sabers:custommodeldata/9
 item modify entity @a[nbt={SelectedItem:{tag:{LightSaber:1,CustomModelData:12}}}] weapon.mainhand rp-light_sabers:custommodeldata/11
 
-item modify entity @s weapon.mainhand rp-light_sabers:light_saber/0
-
 playsound minecraft:custom.lightsaber_turn_off player @a[distance=..15]
+
+item modify entity @s weapon.mainhand rp-light_sabers:light_saber/0
 
 scoreboard players reset @a[scores={rp-saber_click=1..}] rp-saber_click
