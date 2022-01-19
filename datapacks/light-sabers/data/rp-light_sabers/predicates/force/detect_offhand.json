@@ -3,6 +3,21 @@
       "condition": "minecraft:entity_properties",
       "entity": "this",
       "predicate": {
+        "type": "minecraft:player",
+        "equipment": {
+          "mainhand": {
+            "items": [
+              "minecraft:air"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "type": "minecraft:player",
         "flags": {
           "is_sneaking": false
         },
@@ -11,6 +26,7 @@
             "items": [
               "minecraft:warped_fungus_on_a_stick"
             ],
+            "count": 1,
             "nbt": "{LightSaber:0}"
           }
         }
