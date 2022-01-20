@@ -17,23 +17,13 @@
     "hidden": false
   },
   "criteria": {
-    "netherite_sword": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "items": [
-              "minecraft:netherite_sword"
-            ],
-            "nbt": "{CustomModelData:1}"
-          }
-        ]
-      }
+    "impossible": {
+      "trigger": "minecraft:impossible"
     }
   },
   "requirements": [
     [
-      "netherite_sword"
+      "impossible"
     ]
   ]
 }
