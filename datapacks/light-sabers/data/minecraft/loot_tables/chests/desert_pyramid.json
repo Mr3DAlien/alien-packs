@@ -231,7 +231,7 @@
               {
                   "type": "loot_table",
                   "weight": 1,
-                  "name": "rp-light_sabers:chests/desert_pyramid"
+                  "name": "ap-light_sabers:chests/desert_pyramid"
               },
               {
                   "type": "empty",

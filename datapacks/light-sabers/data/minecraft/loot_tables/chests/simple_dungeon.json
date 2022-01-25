@@ -265,7 +265,7 @@
                 {
                     "type": "loot_table",
                     "weight": 1,
-                    "name": "rp-light_sabers:chests/simple_dungeon"
+                    "name": "ap-light_sabers:chests/simple_dungeon"
                 },
                 {
                     "type": "empty",

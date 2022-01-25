@@ -119,7 +119,7 @@
               {
                   "type": "loot_table",
                   "weight": 1,
-                  "name": "rp-light_sabers:chests/nether_bridge"
+                  "name": "ap-light_sabers:chests/nether_bridge"
               },
               {
                   "type": "empty",
