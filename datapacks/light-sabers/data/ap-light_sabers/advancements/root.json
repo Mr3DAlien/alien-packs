@@ -1,5 +1,5 @@
 {
-    "parent": "random-packs:tutorial/root",
+    "parent": "alien-packs:tutorial/root",
     "display": {
       "icon": {
         "item": "minecraft:shears",
