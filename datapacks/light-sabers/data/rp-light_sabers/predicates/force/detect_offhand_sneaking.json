@@ -1,29 +1,34 @@
 [
-    {
-      "condition": "minecraft:entity_properties",
-      "entity": "this",
-      "predicate": {
-        "flags": {
-          "is_sneaking": true
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "flags": {
+        "is_sneaking": true
+      },
+      "equipment": {
+        "offhand": {
+          "items": [
+            "minecraft:warped_fungus_on_a_stick"
+          ],
+          "nbt": "{DarkSaber:1}"
         },
-        "equipment": {
-          "offhand": {
-            "items": [
-              "minecraft:warped_fungus_on_a_stick"
-            ],
-            "nbt": "{LightSaber:0}"
-          }
-        }
-      }
-    },
-    {
-      "condition": "minecraft:entity_scores",
-      "entity": "this",
-      "scores": {
-        "rp-saber_click": {
-          "min": 1
+        "head": {
+          "items": [
+            "minecraft:netherite_sword"
+          ],
+          "nbt": "{VaderHelmet:1b}"
         }
       }
     }
-  ]
-  
+  },
+  {
+    "condition": "minecraft:entity_scores",
+    "entity": "this",
+    "scores": {
+      "rp-saber_click": {
+        "min": 1
+      }
+    }
+  }
+]

@@ -1,2 +1,2 @@
 
-give @s minecraft:warped_fungus_on_a_stick{Unbreakable:1b,RepairCost:999999,HideFlags:61s,CustomModelData:3,LightSaber:0,display:{Name:'{"text":"Vader\'s Lightsaber","italic":"false","color":"dark_red"}',Lore:['{"text":""}','{"text":"I find your lack of faith disturbing!","color":"dark_red"}']}}
+give @s minecraft:warped_fungus_on_a_stick{Unbreakable:1b,RepairCost:999999,HideFlags:61s,CustomModelData:3,LightSaber:0,DarkSaber:1,display:{Name:'{"text":"Vader\'s Lightsaber","italic":"false","color":"dark_red"}',Lore:['{"text":""}','{"text":"I find your lack of faith disturbing!","color":"dark_red"}']}}
