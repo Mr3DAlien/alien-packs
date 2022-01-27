@@ -1,0 +1,39 @@
+{
+  "parent": "ap-light_sabers:misc/get_vader_helmet",
+  "display": {
+    "icon": {
+      "item": "minecraft:netherite_sword",
+      "nbt": "{CustomModelData:2}"
+    },
+    "title": {
+      "translate": "\u00a74\u00a7oYou have learned much."
+    },
+    "description": {
+      "translate": "Break your vader helmet by beeing low life"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "netherite_sword": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:netherite_sword"
+            ],
+            "nbt": "{CustomModelData:2}"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "netherite_sword"
+    ]
+  ]
+}

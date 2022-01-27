@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/warped_fungus_on_a_stick"
+  },
+  "overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "custom/alien-packs/light_sabers/item/anakin_lightsaber_off"},
+    { "predicate": { "custom_model_data": 2 }, "model": "custom/alien-packs/light_sabers/item/anakin_lightsaber"},
+    { "predicate": { "custom_model_data": 3 }, "model": "custom/alien-packs/light_sabers/item/vader_lightsaber_off"},
+    { "predicate": { "custom_model_data": 4 }, "model": "custom/alien-packs/light_sabers/item/vader_lightsaber"},
+    { "predicate": { "custom_model_data": 5 }, "model": "custom/alien-packs/light_sabers/item/kylo_ren_lightsaber_off"},
+    { "predicate": { "custom_model_data": 6 }, "model": "custom/alien-packs/light_sabers/item/kylo_ren_lightsaber"},
+    { "predicate": { "custom_model_data": 7 }, "model": "custom/alien-packs/light_sabers/item/mace_lightsaber_off"},
+    { "predicate": { "custom_model_data": 8 }, "model": "custom/alien-packs/light_sabers/item/mace_lightsaber"},
+    { "predicate": { "custom_model_data": 9 }, "model": "custom/alien-packs/light_sabers/item/rey_lightsaber_off"},
+    { "predicate": { "custom_model_data": 10 }, "model": "custom/alien-packs/light_sabers/item/rey_lightsaber"},
+    { "predicate": { "custom_model_data": 11 }, "model": "custom/alien-packs/light_sabers/item/luke_lightsaber_off"},
+    { "predicate": { "custom_model_data": 12 }, "model": "custom/alien-packs/light_sabers/item/luke_lightsaber"}
+	]
+}

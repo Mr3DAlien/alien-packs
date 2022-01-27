@@ -1,0 +1,89 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "weight": 6,
+                    "name": "minecraft:warped_fungus_on_a_stick",
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Unbreakable:1b,RepairCost:999999,HideFlags:61s,CustomModelData:1,LightSaber:0,display:{Name:'{\"text\":\"Anakin\\'s Lightsaber\",\"italic\":\"false\",\"color\":\"aqua\"}',Lore:['{\"text\":\"\"}','{\"text\":\"You took her away from me!\",\"color\":\"aqua\"}']}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:warped_fungus_on_a_stick",
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Unbreakable:1b,RepairCost:999999,HideFlags:61s,CustomModelData:5,LightSaber:0,DarkSaber:1,display:{Name:'{\"text\":\"Kylo Ren\\'s Lightsaber\",\"italic\":\"false\",\"color\":\"dark_red\"}',Lore:['{\"text\":\"\"}','{\"text\":\"Let the past die. Kill it if you have too!\",\"color\":\"dark_red\"}']}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:warped_fungus_on_a_stick",
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Unbreakable:1b,RepairCost:999999,HideFlags:61s,CustomModelData:11,LightSaber:0,display:{Name:'{\"text\":\"Luke\\'s Lightsaber\",\"italic\":\"false\",\"color\":\"green\"}',Lore:['{\"text\":\"\"}','{\"text\":\"The force is strong in my family.\",\"color\":\"green\"}']}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:warped_fungus_on_a_stick",
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Unbreakable:1b,RepairCost:999999,HideFlags:61s,CustomModelData:7,LightSaber:0,display:{Name:'{\"text\":\"Mace Windu\\'s Lightsaber\",\"italic\":\"false\",\"color\":\"light_purple\"}',Lore:['{\"text\":\"\"}','{\"text\":\"He is to dangerous to be kept alive!\",\"color\":\"light_purple\"}']}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:warped_fungus_on_a_stick",
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Unbreakable:1b,RepairCost:999999,HideFlags:61s,CustomModelData:9,LightSaber:0,display:{Name:'{\"text\":\"Rey\\'s Lightsaber\",\"italic\":\"false\",\"color\":\"yellow\"}',Lore:['{\"text\":\"\"}','{\"text\":\"I need someone to show me my place in all of this.\",\"color\":\"yellow\"}']}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "loot_table",
+                    "weight": 1,
+                    "name": "ap-light_sabers:chests/vader_loot"
+                }
+            ]
+        }
+    ]
+}

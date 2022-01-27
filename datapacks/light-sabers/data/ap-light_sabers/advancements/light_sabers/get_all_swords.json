@@ -1,0 +1,69 @@
+{
+  "parent": "ap-light_sabers:light_sabers/get_rey_saber",
+  "display": {
+    "icon": {
+      "item": "minecraft:shears",
+      "nbt": "{CustomModelData:3}"
+    },
+    "title": {
+      "translate": "\u00a76\u00a7oUNLIMITED POWAAAAA!"
+    },
+    "description": {
+      "translate": "Aquire yourself all light sabers."
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "warped_fungus_on_a_stick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:warped_fungus_on_a_stick"
+            ],
+            "nbt": "{CustomModelData:1}"
+          },
+          {
+            "items": [
+              "minecraft:warped_fungus_on_a_stick"
+            ],
+            "nbt": "{CustomModelData:3}"
+          },
+          {
+            "items": [
+              "minecraft:warped_fungus_on_a_stick"
+            ],
+            "nbt": "{CustomModelData:5}"
+          },
+          {
+            "items": [
+              "minecraft:warped_fungus_on_a_stick"
+            ],
+            "nbt": "{CustomModelData:7}"
+          },
+          {
+            "items": [
+              "minecraft:warped_fungus_on_a_stick"
+            ],
+            "nbt": "{CustomModelData:9}"
+          },
+          {
+            "items": [
+              "minecraft:warped_fungus_on_a_stick"
+            ],
+            "nbt": "{CustomModelData:11}"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "warped_fungus_on_a_stick"
+    ]
+  ]
+}

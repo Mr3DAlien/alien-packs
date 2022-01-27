@@ -11,3 +11,5 @@
 /level.dat_old
 /level.dat
 /session.lock
+/poi/*
+/generated/*

@@ -1,0 +1,39 @@
+{
+  "parent": "ap-light_sabers:light_sabers/get_mace_saber",
+  "display": {
+    "icon": {
+      "item": "minecraft:warped_fungus_on_a_stick",
+      "nbt": "{CustomModelData:1}"
+    },
+    "title": {
+      "translate": "\u00a7b\u00a7oThis is where the fun begins!"
+    },
+    "description": {
+      "translate": "Aquire yourself an anakin light saber. \u00a74[Can mostly be found in spawner chests]"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "warped_fungus_on_a_stick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:warped_fungus_on_a_stick"
+            ],
+            "nbt": "{CustomModelData:1}"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "warped_fungus_on_a_stick"
+    ]
+  ]
+}

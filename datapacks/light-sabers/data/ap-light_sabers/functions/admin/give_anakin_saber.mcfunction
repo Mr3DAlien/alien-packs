@@ -1,0 +1,2 @@
+
+give @s minecraft:warped_fungus_on_a_stick{Unbreakable:1b,RepairCost:999999,HideFlags:61s,CustomModelData:1,LightSaber:0,display:{Name:'{"text":"Anakin\'s Lightsaber","italic":"false","color":"aqua"}',Lore:['{"text":""}','{"text":"You took her away from me!","color":"aqua"}']}}
