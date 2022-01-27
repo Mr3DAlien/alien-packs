@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_sword"
+  },
+  "overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "custom/alien-packs/base/skin/mr3dalien"},
+    { "predicate": { "custom_model_data": 2 }, "model": "custom/alien-packs/base/skin/mr3dalien_sitting"},
+    { "predicate": { "custom_model_data": 3 }, "model": "custom/alien-packs/base/skin/mr3dalien_flying"}
+	]
+}
