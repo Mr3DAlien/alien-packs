@@ -1,0 +1,2 @@
+
+scoreboard objectives add ap-rm_portal_click minecraft.used:minecraft.warped_fungus_on_a_stick
