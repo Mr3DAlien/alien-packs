@@ -1,0 +1,38 @@
+{
+    "parent": "alien-packs:tutorial/root",
+    "display": {
+      "icon": {
+        "item": "minecraft:diamond_hoe",
+        "nbt": "{CustomModelData:1}"
+      },
+      "title": {
+        "translate": "\u00a7bPortal Gun"
+      },
+      "description": {
+        "translate": "The Tutorial Tab for the \u00a7b\"Portal Gun Datapack\""
+      },
+      "frame": "task",
+      "show_toast": false,
+      "announce_to_chat": false,
+      "hidden": false
+    },
+    "criteria": {
+      "crafting_table": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:crafting_table"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "crafting_table"
+      ]
+    ]
+  }
