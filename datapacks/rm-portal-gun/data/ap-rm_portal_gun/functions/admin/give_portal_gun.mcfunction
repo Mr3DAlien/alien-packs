@@ -1,2 +1,2 @@
 
-give @s minecraft:warped_fungus_on_a_stick{Unbreakable:1b,RMPortalGun:1b,RMFuelLevel:3b,HideFlags:63s,RepairCost:999999,CustomModelData:14,display:{Name:'{"text":"Portal Gun","italic":"false","color":"green"}'}}
+give @s minecraft:warped_fungus_on_a_stick{Unbreakable:1b,RMPortalGun:1b,RMFuelLevel:4b,HideFlags:63s,RepairCost:999999,CustomModelData:14,display:{Name:'{"text":"Portal Gun","italic":"false","color":"green"}'}}

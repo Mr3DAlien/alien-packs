@@ -6,6 +6,8 @@
   "overrides": [
 		{ "predicate": { "custom_model_data": 1 }, "model": "custom/alien-packs/base/skin/mr3dalien"},
     { "predicate": { "custom_model_data": 2 }, "model": "custom/alien-packs/base/skin/mr3dalien_sitting"},
-    { "predicate": { "custom_model_data": 3 }, "model": "custom/alien-packs/base/skin/mr3dalien_flying"}
+    { "predicate": { "custom_model_data": 3 }, "model": "custom/alien-packs/base/skin/mr3dalien_flying"},
+    { "predicate": { "custom_model_data": 4 }, "model": "custom/alien-packs/rm_portal_gun/item/liquid_capsule_empty"},
+    { "predicate": { "custom_model_data": 5 }, "model": "custom/alien-packs/rm_portal_gun/item/liquid_capsule_full"}
 	]
 }

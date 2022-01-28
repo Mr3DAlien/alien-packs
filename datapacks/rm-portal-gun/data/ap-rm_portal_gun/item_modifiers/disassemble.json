@@ -1,0 +1,5 @@
+
+{
+    "function": "minecraft:set_nbt",
+    "tag": "{RMFuelLevel:0b,CustomModelData:13}"
+}
