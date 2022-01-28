@@ -13,3 +13,4 @@
 /session.lock
 /poi/*
 /generated/*
+/dimensions/*
