@@ -20,7 +20,7 @@
             "items": [
               "minecraft:warped_fungus_on_a_stick"
             ],
-            "nbt": "{RMFuelLevel:0b,CustomModelData:17}"
+            "nbt": "{CustomModelData:17}"
           }
         }
       }
