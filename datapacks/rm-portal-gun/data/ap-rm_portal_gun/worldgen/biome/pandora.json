@@ -1,0 +1,69 @@
+{
+  "temperature": 0.8,
+  "downfall": 0.4,
+  "precipitation": "none",
+  "category": "none",
+  "creature_spawn_probability": 0,
+  "effects": {
+    "sky_color": 7929578,
+    "fog_color": 12638463,
+    "water_color": 4159204,
+    "water_fog_color": 329011,
+    "grass_color": 1368232,
+    "foliage_color": 16360699
+  },
+  "spawners": {
+    "creature": [
+      {
+        "type": "minecraft:sheep",
+        "weight": 5,
+        "minCount": 100,
+        "maxCount": 200
+      },
+      {
+        "type": "minecraft:pig",
+        "weight": 5,
+        "minCount": 100,
+        "maxCount": 200
+      },
+      {
+        "type": "minecraft:cow",
+        "weight": 5,
+        "minCount": 100,
+        "maxCount": 200
+      }
+    ]
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [
+      "minecraft:flower_default",
+      "minecraft:flower_flower_forest",
+      "minecraft:flower_forest_flowers",
+      "minecraft:patch_grass_forest"
+    ],
+    [
+      "minecraft:cave_vines",
+      "minecraft:classic_vines_cave_feature",
+      "minecraft:lush_caves_ceiling_vegetation",
+      "minecraft:lush_caves_vegetation",
+      "minecraft:lush_caves_clay"
+    ],
+    [
+      "minecraft:ore_coal_lower",
+      "minecraft:ore_coal_upper",
+      "minecraft:ore_diamond",
+      "minecraft:ore_diamond_buried",
+      "minecraft:ore_diamond_large",
+      "minecraft:ore_redstone",
+      "minecraft:ore_redstone_lower",
+      "minecraft:ore_emerald",
+      "minecraft:ore_lapis_buried",
+      "minecraft:ore_lapis",
+      "minecraft:ore_iron_middle",
+      "minecraft:ore_iron_small",
+      "minecraft:ore_iron_upper"
+    ]
+  ]
+}

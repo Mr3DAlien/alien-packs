@@ -1,0 +1,13 @@
+{
+    "type": "ap-rm_portal_gun:pandora",
+    "generator": {
+      "type": "minecraft:noise",
+      "seed": 763051765,
+      "settings": "minecraft:floating_islands",
+      "biome_source": {
+        "type": "minecraft:fixed",
+        "biome": "ap-rm_portal_gun:pandora"
+      }
+    }
+  }
+  
