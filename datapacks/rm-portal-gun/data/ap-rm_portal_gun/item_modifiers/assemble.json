@@ -1,5 +1,0 @@
-
-{
-    "function": "minecraft:set_nbt",
-    "tag": "{RMFuelLevel:4b,CustomModelData:14,display:{Name:'{\"text\":\"Portal Gun\",\"italic\":\"false\",\"color\":\"green\"}'}}"
-}
