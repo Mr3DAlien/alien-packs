@@ -1,0 +1,2 @@
+
+give @s minecraft:diamond_sword{RMLiquidCapsule:1b,Unbreakable:1b,HideFlags:63s,RepairCost:999999,CustomModelData:7,display:{Name:'{"text":"Liquid Capsule","italic":"false"}'},AttributeModifiers:[{}]}

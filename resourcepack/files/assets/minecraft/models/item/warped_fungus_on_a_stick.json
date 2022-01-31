@@ -21,6 +21,10 @@
     { "predicate": { "custom_model_data": 15 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun_fluid_level_2"},
     { "predicate": { "custom_model_data": 16 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun_fluid_level_1"},
     { "predicate": { "custom_model_data": 17 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun_fluid_level_0"},
-    { "predicate": { "custom_model_data": 18 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun_broken_capsule"}
+    { "predicate": { "custom_model_data": 18 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun_no_fluid_selected"},
+    { "predicate": { "custom_model_data": 19 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun_fluid_level_3_selected"},
+    { "predicate": { "custom_model_data": 20 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun_fluid_level_2_selected"},
+    { "predicate": { "custom_model_data": 21 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun_fluid_level_1_selected"},
+    { "predicate": { "custom_model_data": 22 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun_fluid_level_0_selected"}
 	]
 }
