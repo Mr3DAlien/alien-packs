@@ -1,4 +1,6 @@
 
+playsound minecraft:custom.alien-packs.rm_portal_gun.activate player @a[distance=..15]
+
 item modify entity @s[nbt={SelectedItem:{tag:{RMPortalGun:1b,CustomModelData:13}}}] weapon.mainhand ap-rm_portal_gun:activate_gun_00
 item modify entity @s[nbt={SelectedItem:{tag:{RMPortalGun:1b,CustomModelData:17}}}] weapon.mainhand ap-rm_portal_gun:activate_gun_01
 item modify entity @s[nbt={SelectedItem:{tag:{RMPortalGun:1b,CustomModelData:16}}}] weapon.mainhand ap-rm_portal_gun:activate_gun_02
