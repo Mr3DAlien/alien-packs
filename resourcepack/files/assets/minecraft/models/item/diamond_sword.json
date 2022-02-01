@@ -10,6 +10,7 @@
     { "predicate": { "custom_model_data": 4 }, "model": "custom/alien-packs/rm_portal_gun/item/liquid_capsule_00"},
     { "predicate": { "custom_model_data": 5 }, "model": "custom/alien-packs/rm_portal_gun/item/liquid_capsule_03"},
     { "predicate": { "custom_model_data": 6 }, "model": "custom/alien-packs/rm_portal_gun/item/liquid_capsule_02"},
-    { "predicate": { "custom_model_data": 7 }, "model": "custom/alien-packs/rm_portal_gun/item/liquid_capsule_01"}
+    { "predicate": { "custom_model_data": 7 }, "model": "custom/alien-packs/rm_portal_gun/item/liquid_capsule_01"},
+    { "predicate": { "custom_model_data": 8 }, "model": "custom/alien-packs/rm_portal_gun/item/laser_capsule"}
 	]
 }
