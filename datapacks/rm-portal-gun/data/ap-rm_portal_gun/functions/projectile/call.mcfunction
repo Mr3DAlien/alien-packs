@@ -1,5 +1,5 @@
 
-function ap-rm_portal_gun:projectile/click_detection
+execute as @e[tag=ap-rm_portal_core,predicate=ap-rm_portal_gun:council_check] run function ap-rm_portal_gun:projectile/click_detection
 function ap-rm_portal_gun:projectile/particle
 
 execute as @e[tag=ap-rm_projectile,nbt={inGround:1b}] at @s run function ap-rm_portal_gun:projectile/create_portal
