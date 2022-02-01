@@ -1,5 +1,5 @@
 
 {
     "function": "minecraft:set_nbt",
-    "tag": "{RMPortalGun:1b,CustomModelData:16}"
+    "tag": "{RMPortalGun:1b,CustomModelData:15}"
 }
