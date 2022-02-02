@@ -36,6 +36,9 @@
   },
   "spawn_costs": {},
   "carvers": {},
+  "starts": [
+    "ap-rm_portal_gun:alien"
+  ],
   "features": [
     [
       "minecraft:flower_default",

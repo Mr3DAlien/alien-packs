@@ -1,0 +1,12 @@
+{
+  "type": "ap-rm_portal_gun:crystal_world",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": -1952088778,
+    "settings": "ap-rm_portal_gun:crystal_world",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "ap-rm_portal_gun:crystal_world"
+    }
+  }
+}
