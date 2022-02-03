@@ -1,0 +1,2 @@
+
+give @s minecraft:warped_fungus_on_a_stick{Unbreakable:1b,RMPortalGun:3b,RMFuelLevel:3b,HideFlags:63s,RepairCost:999999,CustomModelData:21,display:{Name:'{"text":"Portal Gun","italic":"false","color":"dark_purple"}'}}

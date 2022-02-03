@@ -103,5 +103,51 @@
                 "preload": false
             }
         ]
+    },
+    "custom.alien-packs.rm_portal_gun.evil_morty": {
+        "subtitle": "Evil Morty Theme",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/alien-packs/rm_portal_gun/evil_morty",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.alien-packs.rm_portal_gun.activate": {
+        "subtitle": "Portal Gun Activate",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/alien-packs/rm_portal_gun/activate",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.alien-packs.rm_portal_gun.capsule_put_in": {
+        "subtitle": "Capsule Put In Sound",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/alien-packs/rm_portal_gun/capsule_put_in",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
     }
+    
 }
