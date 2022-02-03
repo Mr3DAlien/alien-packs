@@ -15,6 +15,8 @@
     
     { "predicate": { "custom_model_data": 8 }, "model": "custom/alien-packs/rm_portal_gun/item/laser_capsule_03"},
     { "predicate": { "custom_model_data": 9 }, "model": "custom/alien-packs/rm_portal_gun/item/laser_capsule_02"},
-    { "predicate": { "custom_model_data": 10 }, "model": "custom/alien-packs/rm_portal_gun/item/laser_capsule_01"}
+    { "predicate": { "custom_model_data": 10 }, "model": "custom/alien-packs/rm_portal_gun/item/laser_capsule_01"},
+
+    { "predicate": { "custom_model_data": 11 }, "model": "custom/alien-packs/rm_portal_gun/item/plasma_orb"}
 	]
 }
