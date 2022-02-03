@@ -1,2 +1,2 @@
 
-give @s minecraft:diamond_sword{RMLiquidCapsule:3b,Unbreakable:1b,HideFlags:63s,RepairCost:999999,CustomModelData:5,display:{Name:'{"text":"Liquid Capsule","italic":"false"}'},AttributeModifiers:[{}]}
+give @s minecraft:diamond_sword{RMLiquidCapsule:3b,Unbreakable:1b,HideFlags:63s,RepairCost:999999,CustomModelData:5,display:{Name:'{"text":"Liquid Capsule","italic":"false"}',Lore:['{"text":"[Portal Fluid]","italic":"false","color":"green"}']},AttributeModifiers:[{}]}
