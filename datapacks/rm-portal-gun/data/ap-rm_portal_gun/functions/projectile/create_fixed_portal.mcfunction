@@ -1,8 +1,5 @@
 
-summon minecraft:armor_stand ~ ~ ~ {Invisible:1b,Marker:1b,ArmorItems:[{},{},{},{id:"minecraft:diamond_hoe",Count:1b,tag:{CustomModelData:1}}],Tags:["ap-rm_fixed_portal"]}
-execute as @e[tag=ap-rm_fixed_portal,tag=!ap-rm_is_rotated] at @s run tp @s ~ ~ ~ facing entity @a[tag=ap-rm_shooter,sort=nearest,limit=1]
+data merge entity @s {NoGravity:1b}
+item replace entity @s armor.head with minecraft:diamond_hoe{CustomModelData:1}
 
-tag @e[tag=!ap-rm_is_rotated] add ap-rm_is_rotated
-tag @e[tag=ap-rm_shooter] remove ap-rm_shooter
-
-kill @s
+tag @s add ap-rm_fixed_portal_setup
