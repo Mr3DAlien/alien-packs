@@ -17,6 +17,7 @@
     { "predicate": { "custom_model_data": 11 }, "model": "custom/alien-packs/light_sabers/item/luke_lightsaber_off"},
     { "predicate": { "custom_model_data": 12 }, "model": "custom/alien-packs/light_sabers/item/luke_lightsaber"},
 
+
     { "predicate": { "custom_model_data": 13 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun_no_fluid"},
     { "predicate": { "custom_model_data": 14 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun_fluid_level_3"},
     { "predicate": { "custom_model_data": 15 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun_fluid_level_2"},
@@ -29,6 +30,8 @@
     
     { "predicate": { "custom_model_data": 21 }, "model": "custom/alien-packs/rm_portal_gun/item/laser_portal_gun_03"},
     { "predicate": { "custom_model_data": 22 }, "model": "custom/alien-packs/rm_portal_gun/item/laser_portal_gun_02"},
-    { "predicate": { "custom_model_data": 23 }, "model": "custom/alien-packs/rm_portal_gun/item/laser_portal_gun_01"}
+    { "predicate": { "custom_model_data": 23 }, "model": "custom/alien-packs/rm_portal_gun/item/laser_portal_gun_01"},
+
+    { "predicate": { "custom_model_data": 24 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun_broken_capsule"}
 	]
 }

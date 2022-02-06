@@ -8,6 +8,7 @@
     { "predicate": { "custom_model_data": 2 }, "model": "custom/alien-packs/base/skin/mr3dalien_sitting"},
     { "predicate": { "custom_model_data": 3 }, "model": "custom/alien-packs/base/skin/mr3dalien_flying"},
 
+    
     { "predicate": { "custom_model_data": 4 }, "model": "custom/alien-packs/rm_portal_gun/item/liquid_capsule_00"},
     { "predicate": { "custom_model_data": 5 }, "model": "custom/alien-packs/rm_portal_gun/item/liquid_capsule_03"},
     { "predicate": { "custom_model_data": 6 }, "model": "custom/alien-packs/rm_portal_gun/item/liquid_capsule_02"},
@@ -17,6 +18,7 @@
     { "predicate": { "custom_model_data": 9 }, "model": "custom/alien-packs/rm_portal_gun/item/laser_capsule_02"},
     { "predicate": { "custom_model_data": 10 }, "model": "custom/alien-packs/rm_portal_gun/item/laser_capsule_01"},
 
-    { "predicate": { "custom_model_data": 11 }, "model": "custom/alien-packs/rm_portal_gun/item/plasma_orb"}
+    { "predicate": { "custom_model_data": 11 }, "model": "custom/alien-packs/rm_portal_gun/item/plasma_orb"},
+    { "predicate": { "custom_model_data": 12 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun_broken"}
 	]
 }
