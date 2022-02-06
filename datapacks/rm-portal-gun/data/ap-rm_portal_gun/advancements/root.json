@@ -12,7 +12,7 @@
         "translate": "The Tutorial Tab for the \u00a7b\"Portal Gun Datapack\""
       },
       "frame": "task",
-      "show_toast": false,
+      "show_toast": true,
       "announce_to_chat": false,
       "hidden": false
     },
