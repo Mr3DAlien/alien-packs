@@ -17,7 +17,7 @@
             "items": [
               "minecraft:warped_fungus_on_a_stick"
             ],
-            "nbt": "{CustomModelData:24}"
+            "nbt": "{RMBrokenGun:1b}"
           }
         }
       }
