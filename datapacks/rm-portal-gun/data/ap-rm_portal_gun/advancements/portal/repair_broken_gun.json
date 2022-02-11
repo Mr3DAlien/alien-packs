@@ -1,14 +1,14 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:diamond_sword",
-      "nbt": "{CustomModelData:6}"
+      "item": "minecraft:warped_fungus_on_a_stick",
+      "nbt": "{CustomModelData:24}"
     },
     "title": {
-      "translate": "Shady Plasma"
+      "translate": "Not quite Perfect"
     },
     "description": {
-      "translate": "Aquire yourself some portal plasma by trading with a rick"
+      "translate": "Level a tool smith to the max and repair your portal gun"
     },
     "frame": "task",
     "show_toast": true,
@@ -17,15 +17,15 @@
   },
   "parent": "ap-rm_portal_gun:portal/find_broken_portal_gun",
   "criteria": {
-    "shady_plasma": {
+    "broken_portal_gun": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "items": [
-              "minecraft:diamond_sword"
+              "minecraft:warped_fungus_on_a_stick"
             ],
-            "nbt": "{CustomModelData:6}"
+            "nbt": "{CustomModelData:24}"
           }
         ]
       }
@@ -33,7 +33,7 @@
   },
   "requirements": [
     [
-      "shady_plasma"
+      "broken_portal_gun"
     ]
   ]
 }

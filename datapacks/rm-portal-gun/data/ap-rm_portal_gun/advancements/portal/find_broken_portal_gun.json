@@ -2,10 +2,10 @@
   "display": {
     "icon": {
       "item": "minecraft:diamond_sword",
-      "nbt": "{CustomModelData:7}"
+      "nbt": "{CustomModelData:12}"
     },
     "title": {
-      "translate": "Broken Toy"
+      "translate": "Mysterious Gun"
     },
     "description": {
       "translate": "Find a broken portal gun in a ruined portal chest"
@@ -25,7 +25,7 @@
             "items": [
               "minecraft:diamond_sword"
             ],
-            "nbt": "{CustomModelData:7}"
+            "nbt": "{CustomModelData:12}"
           }
         ]
       }

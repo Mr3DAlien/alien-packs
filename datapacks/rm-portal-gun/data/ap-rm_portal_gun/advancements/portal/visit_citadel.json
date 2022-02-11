@@ -1,0 +1,26 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:player_head",
+        "nbt": "{SkullOwner: {Properties: {textures: [{Value: \"ewogICJ0aW1lc3RhbXAiIDogMTY0NDU1NzgzMzI1NiwKICAicHJvZmlsZUlkIiA6ICI2YTUwMDQ0ZGIyODI0NDMzYjQyZjk3NTk5OTkwMTA0ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbGllbnRhc3Rpc2NoIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE2MzgwZTVhY2FiMWM1NDIzNGI2ZDdhMDBkNjNkNjE5NjAzM2U2NjdiZmJlOGFiMTY2YWZjNjM4OTRhOGU1ZjgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMzQwYzBlMDNkZDI0YTExYjE1YThiMzNjMmE3ZTllMzJhYmIyMDUxYjI0ODFkMGJhN2RlZmQ2MzVjYTdhOTMzIgogICAgfQogIH0KfQ==\", Signature: \"mtRBz6OD4OVsIZzBbSZT+MoY2gWeeDlxfRe0iqHspbDQRUaJlT8fX9nUJOJcHrxkeInDjrNGcI937rd3WbDQNK4/E1F5JN4rhIuDUECDOkbI1bxCumRNB/ak5ufv1SocL70AsfMgkO//Hehv6D1+a+v0pFoVRUzKZAharoLv06HWGtXJxgyfljX2EqVGSKfVs3o3+6KQp5wBpdSCtlOg7B+Jt4ofQ3+Bx1dR6xzavPcbEBlQhbc05zJADIqH9/x8KqbM1vPkXxmkE+PD/RurY6H4yiti/zvk0d/+4eFQWT/VK3zAqmjaON2/5HrK+h9s3DXgJF7HhRtfDV8ptxhwebl2Smb7cmE/gc2+ZIa6wdcK0hwynNFEVsSBXjoa4xtCY9Ec1G9SxqmFwto1xs6qweC6DTVe7/a4M9E7yDHCp/FzUCp0FL1oNt7R+J5MV3AYN4D1gu9c7ylDi82yl9MOokEQXdMTuAClEMap5dMTe0ei257F+FMqVdSMfb8/R6MfTosTg+V6Sc8eD4u0k4UacnzpCJ+OJ1O9/LCY2PPQjyl+/ukweSEZkui94jpkFiquwGUH6oekd3B5SKRwRuMNUw6gcZD6GNqmuFMt2NklAu8NZJv2QfhAESDYjJGcGHZiooe5uPM5X452zjtjIoCxeii85jsrDrphGznsRDsWuOg=\"}]}, Name: \"Rick\"}}"
+      },
+      "title": "One Rick isn't enough!",
+      "description": "Visit the citadel of ricks by shooting a portal on the ground",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": false,
+      "hidden": false
+    },
+    "parent": "ap-rm_portal_gun:portal/repair_broken_gun",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:location",
+        "conditions": {
+          "location": {
+            "dimension": "ap-rm_portal_gun:rick_council"
+          }
+        }
+      }
+    }
+  }
+  
