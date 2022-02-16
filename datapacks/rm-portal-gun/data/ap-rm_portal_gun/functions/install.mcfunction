@@ -10,6 +10,7 @@ scoreboard objectives add ap-rm_settings dummy
 scoreboard objectives add ap-rm_doRMSpawning trigger
 
 scoreboard players add %rickSpawning ap-rm_settings 0
+scoreboard players add %portalFunction ap-rm_settings 0
 
 team add ap-rm_dungeon
 
