@@ -7,5 +7,7 @@ team join ap-rm_dungeon @e[tag=ap-rm_dungeon_portal,tag=!ap-rm_dungeon_portal_se
 
 spreadplayers ~ ~ 10 100 true @e[team=ap-rm_dungeon,tag=!ap-rm_dungeon_portal_setup,tag=!ap-rm_dungeon_rm_setup]
 
+execute as @e[tag=ap-rm_dungeon_portal,tag=!ap-rm_dungeon_portal_setup] at @s run forceload add ~ ~
+
 tag @e[type=minecraft:armor_stand,tag=ap-rm_dungeon_portal,tag=!ap-rm_dungeon_portal_setup] add ap-rm_dungeon_portal_setup
 tag @e[type=minecraft:villager,tag=ap-rm_dungeon_portal,tag=!ap-rm_dungeon_rm_setup] add ap-rm_dungeon_rm_setup
