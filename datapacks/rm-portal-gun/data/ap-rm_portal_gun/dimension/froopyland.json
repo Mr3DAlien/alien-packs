@@ -3,7 +3,7 @@
     "generator": {
       "type": "minecraft:noise",
       "seed": 1092619166,
-      "settings": "minecraft:overworld",
+      "settings": "ap-rm_portal_gun:froopyland",
       "biome_source": {
         "type": "minecraft:fixed",
         "biome": "ap-rm_portal_gun:froopyland"
