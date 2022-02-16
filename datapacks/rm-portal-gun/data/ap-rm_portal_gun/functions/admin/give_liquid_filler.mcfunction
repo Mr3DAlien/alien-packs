@@ -1,2 +1,2 @@
 
-give @s minecraft:bat_spawn_egg{CustomModelData:1,EntityTag:{id:"minecraft:marker",data:{RMLiquidFillerPlace:1b}},display:{Name:'{"text":"Liquid Filler","color":"white","italic":"false"}'}}
+give @s minecraft:armor_stand{CustomModelData:1,EntityTag:{Invisible:1b,Tags:["ap-rm_liquid_placer"]},display:{Name:'{"text":"Liquid Filler","italic":"false"}'}}
