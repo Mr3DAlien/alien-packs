@@ -148,6 +148,21 @@
                 "preload": false
             }
         ]
+    },
+    "custom.alien-packs.rm_portal_gun.space_station": {
+        "subtitle": "Space Station Ambient Sound",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/alien-packs/rm_portal_gun/space_station",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
     }
     
 }

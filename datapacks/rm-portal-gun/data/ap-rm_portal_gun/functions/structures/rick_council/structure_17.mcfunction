@@ -3,6 +3,9 @@ setblock -81 14 -54 minecraft:structure_block{metadata: "", mirror: "NONE", igno
 setblock -81 13 -54 minecraft:redstone_block
 fill -81 14 -54 -81 13 -54 minecraft:air replace
 
+function ap-rm_portal_gun:npc/spawn/call
+
 scoreboard players set %councilBuild ap-rm_settings 17
+
 forceload remove -81 144 127 -112
 forceload add 0 0

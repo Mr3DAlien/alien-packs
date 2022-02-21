@@ -1,5 +1,5 @@
 {
-    "logical_height": 256,
+    "logical_height": 8,
     "infiniburn": "tutorial:infiniburn_tutorial",
     "effects": "minecraft:the_end",
     "ambient_light": 0.3,
