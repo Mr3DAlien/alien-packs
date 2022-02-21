@@ -4,5 +4,5 @@ setblock -81 13 -54 minecraft:redstone_block
 fill -81 14 -54 -81 13 -54 minecraft:air replace
 
 scoreboard players set %councilBuild ap-rm_settings 17
-forceload remove 89 -90 -108 136
+forceload remove -81 144 127 -112
 forceload add 0 0
