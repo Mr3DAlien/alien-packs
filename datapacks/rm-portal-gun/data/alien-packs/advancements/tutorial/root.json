@@ -5,10 +5,10 @@
       "nbt": "{CustomModelData:1}"
     },
     "title": {
-      "translate": "\u00a7aAlien\u00a75-\u00a76Packs \u00a7e[Tutorial Tab]"
+      "translate": "advancements.alien-packs.base.tutorial.root.title"
     },
     "description": {
-      "translate": "Tutorial Tab of \u00a72\"Mr3DAlien's Alien-Packs\" \u00a7aSeries"
+      "translate": "advancements.alien-packs.base.tutorial.root.description"
     },
     "frame": "task",
     "show_toast": false,

@@ -5,7 +5,7 @@
       "nbt": "{CustomModelData:12}"
     },
     "title": {
-      "translate": "Mysterious Gun"
+      "translate": "advancements.alien-packs.tutorial.broken_portal_gun.title"
     },
     "description": {
       "translate": "Find a broken portal gun in a ruined portal chest"

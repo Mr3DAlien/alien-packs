@@ -6,10 +6,10 @@
         "nbt": "{CustomModelData:1}"
       },
       "title": {
-        "translate": "\u00a7bPortal Gun"
+        "translate": "advancements.alien-packs.rm_portal_gun.tutorial.root.title"
       },
       "description": {
-        "translate": "The Tutorial Tab for the \u00a7b\"Portal Gun Datapack\""
+        "translate": "advancements.alien-packs.rm_portal_gun.tutorial.root.description"
       },
       "frame": "task",
       "show_toast": true,
