@@ -1,5 +1,5 @@
 
-tellraw @a[tag=admin] [{"text":"R&M","color":"green"},{"text":" Portal-Gun","color":"gold"},{"text":" Reloaded!","color":"aqua"}]
+tellraw @a[tag=admin] [{"translate":"commands.alien-packs.rm_portal_gun.reload_message"}]
 
 execute in ap-rm_portal_gun:rick_council run forceload add 0 0
 
