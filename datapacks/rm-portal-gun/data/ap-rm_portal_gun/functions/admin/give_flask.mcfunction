@@ -1,1 +1,0 @@
-give @s minecraft:potion{CustomModelData:1,CustomPotionEffects:[{Id:9,Duration:200},{Id:11,Duration:200},{Id:22,Duration:200}],display:{Name:'{"text":"Hip Flask","italic":"false"}'}}
