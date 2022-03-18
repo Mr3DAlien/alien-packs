@@ -23,8 +23,9 @@
     "item.alien-packs.rm_portal_gun.hip_flask.name": "\u00a7fHip Flask",
 
     "entity.alien-packs.rm_portal_gun.npc.name.tool_smith_rick": "Tool Smith Rick",
-    "entity.alien-packs.rm_portal_gun.npc.name.bartender_rick": "Barmann Rick",
+    "entity.alien-packs.rm_portal_gun.npc.name.bartender_rick": "Bartender Rick",
     "entity.alien-packs.rm_portal_gun.npc.name.cosmetic_rick": "Cosmetic Rick",
+    "entity.alien-packs.rm_portal_gun.npc.name.shady_rick": "Shady Rick",
     "entity.alien-packs.rm_portal_gun.npc.display_stand.name.datapackby": "Datapack & Models by",
     "entity.alien-packs.rm_portal_gun.npc.display_stand.name.mapby": "Map by",
 
@@ -34,5 +35,7 @@
     "advancements.alien-packs.rm_portal_gun.tutorial.root.description": "The Tutorial Tab for the \u00a7b\"Portal Gun Datapack\"",
     "advancements.alien-packs.tutorial.broken_portal_gun.title": "Mysterious Gun",
 
-    "commands.alien-packs.rm_portal_gun.reload_message": "\u00a7aR&M \u00a76Portal-Gun\u00a7b Reloaded!"
+    "commands.alien-packs.rm_portal_gun.reload_message": "\u00a7aR&M \u00a76Portal-Gun\u00a7b Reloaded!",
+
+    "tellraw.alien-packs.rm_portal_gun.quest.npc.evil_morty": "<Definitely not Evil Morty> Hey what's going on. I want to run for president and you look like an \"intelligent\" person to help me out achieve my goals!"
 }
