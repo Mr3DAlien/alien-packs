@@ -1,1 +1,2 @@
-tp @s ~ ~ ~ facing entity @p
+execute as @e[tag=ap-rm_shop_npc] at @s run tp @s ~ ~ ~ facing entity @p
+execute as @e[tag=ap-rm_council_rick] at @s in ap-rm_portal_gun:rick_council run tp @s ~ ~ ~ facing entity @p[x=11,y=17,z=1127,distance=..3]
