@@ -1,0 +1,1 @@
+give @s minecraft:diamond_sword{CustomModelData:12,Unbreakable:1b,RepairCost:999999,HideFlags:63s,display:{Name:'{"translate":"item.alien-packs.rm_portal_gun.gear.name","italic":"false"}',Lore:['[{"translate":"item.alien-packs.rm_portal_gun.gear.description","italic":"false","color":"aqua"}]']},AttributeModifiers:[{}]}
