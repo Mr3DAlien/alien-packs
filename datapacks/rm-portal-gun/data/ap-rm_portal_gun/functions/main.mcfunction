@@ -2,7 +2,6 @@
 function ap-rm_portal_gun:structures/call
 function ap-rm_portal_gun:npc/call
 function ap-rm_portal_gun:projectile/call
-function ap-rm_portal_gun:portal_gun/call
 function ap-rm_portal_gun:gun/call
 function ap-rm_portal_gun:portal/call
 function ap-rm_portal_gun:liquid_filler/call
