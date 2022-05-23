@@ -104,6 +104,21 @@
             }
         ]
     },
+    "custom.alien-packs.rm_portal_gun.laser_gun_activate": {
+        "subtitle": "Laser Gun Activate Sound",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/alien-packs/rm_portal_gun/laser_gun_activate",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
     "custom.alien-packs.rm_portal_gun.evil_morty": {
         "subtitle": "Evil Morty Theme",
         "replace": false,
