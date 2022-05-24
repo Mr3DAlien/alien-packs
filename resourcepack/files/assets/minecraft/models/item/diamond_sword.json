@@ -22,7 +22,9 @@
     { "predicate": { "custom_model_data": 12 }, "model": "custom/alien-packs/rm_portal_gun/item/gear"},
     { "predicate": { "custom_model_data": 13 }, "model": "custom/alien-packs/rm_portal_gun/item/quartz_gear"},
     { "predicate": { "custom_model_data": 14 }, "model": "custom/alien-packs/rm_portal_gun/item/basic_machinery"},
-    { "predicate": { "custom_model_data": 15 }, "model": "custom/alien-packs/rm_portal_gun/item/advanced_machinery"}
-     
+    { "predicate": { "custom_model_data": 15 }, "model": "custom/alien-packs/rm_portal_gun/item/advanced_machinery"},
+  
+    { "predicate": { "custom_model_data": 16 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun_broken"}
+ 
 	]
 }

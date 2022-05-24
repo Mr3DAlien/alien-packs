@@ -1,4 +1,6 @@
 
+kill @e[tag=ap-rm_npc]
+
 execute if score %councilBuild ap-rm_settings matches 0 in ap-rm_portal_gun:rick_council run forceload add 127 896 -96 1167
 
 execute if score %councilBuild ap-rm_settings matches 0 in ap-rm_portal_gun:rick_council run function ap-rm_portal_gun:structures/rick_council/structure_01
