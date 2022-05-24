@@ -17,6 +17,7 @@ scoreboard players add %rickSpawning ap-rm_settings 0
 scoreboard players add %portalFunction ap-rm_settings 0
 scoreboard players add %mapVersion ap-rm_settings 0
 scoreboard players add %councilBuild ap-rm_settings 0
+scoreboard players add %lostPlaceBuild ap-rm_settings 0
 
 team add ap-rm_dungeon
 

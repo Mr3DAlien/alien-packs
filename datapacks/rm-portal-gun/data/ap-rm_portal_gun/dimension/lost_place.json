@@ -1,0 +1,13 @@
+{
+  "type": "ap-rm_portal_gun:lost_place",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "ap-rm_portal_gun:lost_place",
+      "lakes": false,
+      "features": false,
+      "layers": [],
+      "structure_overrides": []
+    }
+  }
+}
