@@ -1,5 +1,7 @@
 
 kill @e[tag=ap-rm_npc]
+kill @e[type=minecraft:armor_stand]
+kill @e[type=minecraft:glow_item_frame]
 
 execute if score %councilBuild ap-rm_settings matches 0 in ap-rm_portal_gun:rick_council run forceload add 127 896 -96 1167
 
