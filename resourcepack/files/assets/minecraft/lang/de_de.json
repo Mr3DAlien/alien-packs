@@ -44,5 +44,7 @@
     "advancements.alien-packs.rm_portal_gun.tutorial.root.description": "Der Tutorial Tab vom \u00a7b\"Portal Gun Datapack\"",
     "advancements.alien-packs.tutorial.broken_portal_gun.title": "Mysteriöse Waffe",
 
-    "commands.alien-packs.rm_portal_gun.reload_message": "\u00a7aR&M \u00a76Portal-Gun\u00a7b neu geladen!"
+    "commands.alien-packs.rm_portal_gun.reload_message": "\u00a7aR&M \u00a76Portal-Gun\u00a7b neu geladen!",
+    "commands.alien-packs.rm_portal_gun.deinstall_message": "\u00a7aR&M \u00a76Portal-Gun\u00a74 De-Installiert!"
+
 }

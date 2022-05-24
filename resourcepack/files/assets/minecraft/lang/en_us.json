@@ -45,6 +45,7 @@
     "advancements.alien-packs.tutorial.broken_portal_gun.title": "Mysterious Gun",
 
     "commands.alien-packs.rm_portal_gun.reload_message": "\u00a7aR&M \u00a76Portal-Gun\u00a7b Reloaded!",
+    "commands.alien-packs.rm_portal_gun.deinstall_message": "\u00a7aR&M \u00a76Portal-Gun\u00a74 De-Installed!",
 
     "tellraw.alien-packs.rm_portal_gun.quest.npc.evil_morty": "<Definitely not Evil Morty> Hey what's going on. I want to run for president and you look like an \"intelligent\" person to help me out achieve my goals!"
 }
