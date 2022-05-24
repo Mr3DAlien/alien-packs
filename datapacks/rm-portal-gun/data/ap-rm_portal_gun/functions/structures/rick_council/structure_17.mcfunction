@@ -6,5 +6,6 @@ fill -81 14 946 -81 13 946 minecraft:air replace
 function ap-rm_portal_gun:npc/spawn/call
 
 scoreboard players set %councilBuild ap-rm_settings 17
+scoreboard players set %mapVersion ap-rm_settings 1
 
 forceload remove 127 896 -96 1167
