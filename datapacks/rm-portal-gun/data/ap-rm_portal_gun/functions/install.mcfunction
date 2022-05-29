@@ -8,6 +8,7 @@ scoreboard objectives add ap-rm_spawnZ dummy
 scoreboard objectives add ap-rm_portal_cooldown dummy
 scoreboard objectives add ap-rm_portal_id dummy
 scoreboard objectives add ap-rm_settings dummy
+scoreboard objectives add ap-rm_chunk_loading dummy
 scoreboard objectives add ap-rm_doRMSpawning trigger
 
 scoreboard players add %rickSpawning ap-rm_settings 0
