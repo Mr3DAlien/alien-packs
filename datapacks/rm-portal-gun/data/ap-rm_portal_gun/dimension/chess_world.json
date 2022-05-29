@@ -1,16 +1,14 @@
 {
-    "type": "ap-rm_portal_gun:chess_world",
-    "generator": {
-      "type": "minecraft:noise",
-      "seed": 123060996,
-      "settings": "minecraft:overworld",
-      "biome_source": {
-        "type": "minecraft:checkerboard",
-        "biomes": [
-          "ap-rm_portal_gun:chess_black",
-          "ap-rm_portal_gun:chess_white"
-        ]
-      }
+  "type": "ap-rm_portal_gun:chess_world",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "minecraft:overworld",
+    "biome_source": {
+      "type": "minecraft:checkerboard",
+      "biomes": [
+        "ap-rm_portal_gun:chess_black",
+        "ap-rm_portal_gun:chess_white"
+      ]
     }
   }
-  
+}

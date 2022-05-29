@@ -1,18 +1,25 @@
 {
-  "ultrawarm": false,
-  "natural": false,
-  "piglin_safe": false,
-  "respawn_anchor_works": true,
-  "bed_works": true,
+  "ambient_light": 0.3,
+  "bed_works": false,
+  "coordinate_scale": 1.0,
+  "effects": "minecraft:the_end",
+  "has_ceiling": false,
   "has_raids": false,
   "has_skylight": true,
-  "has_ceiling": false,
-  "coordinate_scale": 1,
-  "ambient_light": 0.3,
-  "fixed_time": 18000,
-  "logical_height": 8,
-  "effects": "minecraft:the_end",
-  "infiniburn": "#tutorial:infiniburn_tutorial",
+  "height": 256,
+  "infiniburn": "#minecraft:infiniburn_overworld",
+  "logical_height": 0,
   "min_y": 0,
-  "height": 256
+  "monster_spawn_block_light_limit": 0,
+  "monster_spawn_light_level": {
+    "type": "minecraft:uniform",
+    "value": {
+      "max_inclusive": 7,
+      "min_inclusive": 0
+    }
+  },
+  "natural": false,
+  "piglin_safe": false,
+  "respawn_anchor_works": false,
+  "ultrawarm": false
 }
