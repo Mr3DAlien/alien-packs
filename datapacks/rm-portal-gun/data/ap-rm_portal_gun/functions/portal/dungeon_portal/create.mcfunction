@@ -6,9 +6,7 @@ summon minecraft:husk ~ ~-1000 ~ {Silent:1b,IsBaby:1b,CustomName:'{"text":"Evil 
 team join ap-rm_dungeon @e[tag=ap-rm_dungeon,tag=!ap-rm_dungeon_portal_setup,tag=!ap-rm_dungeon_npc_setup]
 spreadplayers ~ ~ 10 100 true @e[team=ap-rm_dungeon,tag=!ap-rm_dungeon_portal_setup,tag=!ap-rm_dungeon_npc_setup]
 
-scoreboard players add @e[tag=ap-rm_dungeon_portal,tag=!ap-rm_dungeon_portal_setup] ap-rm_chunk_loading 0
-execute as @e[tag=ap-rm_dungeon_portal,tag=!ap-rm_dungeon_portal_setup] at @s store success score @s ap-rm_chunk_loading run forceload query ~ ~
-execute as @e[tag=ap-rm_dungeon_portal,tag=!ap-rm_dungeon_portal_setup] at @s if score @s ap-rm_chunk_loading matches 0 run forceload add ~ ~
+execute as @e[tag=ap-rm_dungeon_portal,tag=!ap-rm_dungeon_portal_setup] at @s run function ap-rm_portal_gun:misc/forceload
 
 tag @e[type=minecraft:armor_stand,tag=ap-rm_dungeon_portal,tag=!ap-rm_dungeon_portal_setup] add ap-rm_dungeon_portal_setup
 tag @e[type=#ap-rm_portal_gun:evil_rick_and_morty,tag=ap-rm_dungeon_npc,tag=!ap-rm_dungeon_npc_setup] add ap-rm_dungeon_npc_setup
