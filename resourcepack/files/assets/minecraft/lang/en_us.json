@@ -31,6 +31,7 @@
     "item.alien-packs.rm_portal_gun.advanced_machinery.name": "Advanced Machinery",
     "item.alien-packs.rm_portal_gun.advanced_machinery.description": "[TIER IV]",
 
+
     "entity.alien-packs.rm_portal_gun.npc.name.tool_smith_rick": "Tool Smith Rick",
     "entity.alien-packs.rm_portal_gun.npc.name.bartender_rick": "Bartender Rick",
     "entity.alien-packs.rm_portal_gun.npc.name.cosmetic_rick": "Cosmetic Rick",
@@ -38,14 +39,29 @@
     "entity.alien-packs.rm_portal_gun.npc.display_stand.name.datapackby": "Datapack & Models by",
     "entity.alien-packs.rm_portal_gun.npc.display_stand.name.mapby": "Map by",
 
+
     "advancements.alien-packs.base.tutorial.root.title": "\u00a7aAlien\u00a75-\u00a76Packs \u00a7e[Tutorial Tab]",
     "advancements.alien-packs.base.tutorial.root.description": "Tutorial Tab of \u00a72\"Mr3DAlien's Alien-Packs\" \u00a7aSeries",
+
     "advancements.alien-packs.rm_portal_gun.tutorial.root.title": "\u00a7bPortal Gun",
     "advancements.alien-packs.rm_portal_gun.tutorial.root.description": "The Tutorial Tab for the \u00a7b\"Portal Gun Datapack\"",
-    "advancements.alien-packs.tutorial.broken_portal_gun.title": "Mysterious Gun",
+    "advancements.alien-packs.rm_portal_gun.broken_portal_gun.title": "Mysterious Gun",
+    "advancements.alien-packs.rm_portal_gun.broken_portal_gun.description": "Walk through a randomly blue spawned portal",
+    "advancements.alien-packs.rm_portal_gun.repair_broken_portal_gun.title": "Not quite Perfect",
+    "advancements.alien-packs.rm_portal_gun.repair_broken_portal_gun.description": "Level a tool smith to the max and repair your portal gun",
+    "advancements.alien-packs.rm_portal_gun.visit_citadel.title": "One Rick isn't enough!",
+    "advancements.alien-packs.rm_portal_gun.visit_citadel.description": "Visit the citadel of ricks by shooting a portal on the ground",
+    "advancements.alien-packs.rm_portal_gun.get_advanced_machinery.title": "Shady Business...",
+    "advancements.alien-packs.rm_portal_gun.get_advanced_machinery.description": "Make a trade with shady rick to get yourself an Advanced Machinery",
+    "advancements.alien-packs.rm_portal_gun.repair_portal_gun.title": "Shiny White",
+    "advancements.alien-packs.rm_portal_gun.repair_portal_gun.description": "Repair the Broken Portal Gun with an Advanced Machinery",
+    "advancements.alien-packs.rm_portal_gun.fill_portal_gun.title": "The coolest of all Portal Guns",
+    "advancements.alien-packs.rm_portal_gun.fill_portal_gun.description": "Put some Portal Fluid in your Portal Gun, by holding the gun in the \u00a7cOff Hand\u00a7a with a Portal Capsule in your \u00a7cMain Hand\u00a7a and press \u00a7eshift+right click",
+
 
     "commands.alien-packs.rm_portal_gun.reload_message": "\u00a7aR&M \u00a76Portal-Gun\u00a7b Reloaded!",
     "commands.alien-packs.rm_portal_gun.deinstall_message": "\u00a7aR&M \u00a76Portal-Gun\u00a74 De-Installed!",
+
 
     "tellraw.alien-packs.rm_portal_gun.quest.npc.evil_morty": "<Definitely not Evil Morty> Hey what's going on. I want to run for president and you look like an \"intelligent\" person to help me out achieve my goals!"
 }

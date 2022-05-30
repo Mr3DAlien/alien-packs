@@ -2,22 +2,22 @@
   "display": {
     "icon": {
       "item": "minecraft:warped_fungus_on_a_stick",
-      "nbt": "{CustomModelData:24}"
+      "nbt": "{CustomModelData:14}"
     },
     "title": {
-      "translate": "Not quite Perfect"
+      "translate": "advancements.alien-packs.rm_portal_gun.fill_portal_gun.title"
     },
     "description": {
-      "translate": "Level a tool smith to the max and repair your portal gun"
+      "translate": "advancements.alien-packs.rm_portal_gun.fill_portal_gun.description"
     },
-    "frame": "task",
+    "frame": "goal",
     "show_toast": true,
     "announce_to_chat": false,
     "hidden": false
   },
-  "parent": "ap-rm_portal_gun:portal/find_broken_portal_gun",
+  "parent": "ap-rm_portal_gun:portal_gun/repair_portal_gun",
   "criteria": {
-    "broken_portal_gun": {
+    "fill_portal_gun": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -25,7 +25,7 @@
             "items": [
               "minecraft:warped_fungus_on_a_stick"
             ],
-            "nbt": "{CustomModelData:24}"
+            "nbt": "{CustomModelData:14}"
           }
         ]
       }
@@ -33,7 +33,7 @@
   },
   "requirements": [
     [
-      "broken_portal_gun"
+      "fill_portal_gun"
     ]
   ]
 }

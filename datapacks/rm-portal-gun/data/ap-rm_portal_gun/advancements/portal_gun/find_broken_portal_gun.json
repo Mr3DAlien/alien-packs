@@ -2,13 +2,13 @@
   "display": {
     "icon": {
       "item": "minecraft:diamond_sword",
-      "nbt": "{CustomModelData:12}"
+      "nbt": "{CustomModelData:16}"
     },
     "title": {
-      "translate": "advancements.alien-packs.tutorial.broken_portal_gun.title"
+      "translate": "advancements.alien-packs.rm_portal_gun.broken_portal_gun.title"
     },
     "description": {
-      "translate": "Find a broken portal gun in a ruined portal chest"
+      "translate": "advancements.alien-packs.rm_portal_gun.broken_portal_gun.description"
     },
     "frame": "task",
     "show_toast": true,
@@ -25,7 +25,7 @@
             "items": [
               "minecraft:diamond_sword"
             ],
-            "nbt": "{CustomModelData:12}"
+            "nbt": "{CustomModelData:16}"
           }
         ]
       }

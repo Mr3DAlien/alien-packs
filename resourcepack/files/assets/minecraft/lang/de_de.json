@@ -31,6 +31,7 @@
     "item.alien-packs.rm_portal_gun.advanced_machinery.name": "Fortschrittliche Maschine",
     "item.alien-packs.rm_portal_gun.advanced_machinery.description": "[TIER IV]",
 
+
     "entity.alien-packs.rm_portal_gun.npc.name.tool_smith_rick": "Grobschmied Rick",
     "entity.alien-packs.rm_portal_gun.npc.name.bartender_rick": "Barmann Rick",
     "entity.alien-packs.rm_portal_gun.npc.name.cosmetic_rick": "Kosmetischer Rick",
@@ -38,11 +39,25 @@
     "entity.alien-packs.rm_portal_gun.npc.display_stand.name.datapackby": "Datapack & Modele von",
     "entity.alien-packs.rm_portal_gun.npc.display_stand.name.mapby": "Map von",
 
+
     "advancements.alien-packs.base.tutorial.root.title": "\u00a7aAlien\u00a75-\u00a76Packs \u00a7e[Tutorial Tab]",
     "advancements.alien-packs.base.tutorial.root.description": "Tutorial Tab von \u00a72\"Mr3DAlien's Alien-Packs\" \u00a7aSerie",
+    
     "advancements.alien-packs.rm_portal_gun.tutorial.root.title": "\u00a7bPortal Gun",
     "advancements.alien-packs.rm_portal_gun.tutorial.root.description": "Der Tutorial Tab vom \u00a7b\"Portal Gun Datapack\"",
-    "advancements.alien-packs.tutorial.broken_portal_gun.title": "Mysteriöse Waffe",
+    "advancements.alien-packs.rm_portal_gun.broken_portal_gun.title": "Mysteriöse Waffe",
+    "advancements.alien-packs.rm_portal_gun.broken_portal_gun.description": "Gehe durch ein zufällig gespawntes blaues Portal",
+    "advancements.alien-packs.rm_portal_gun.repair_broken_portal_gun.title": "Nicht ganz perfekt",
+    "advancements.alien-packs.rm_portal_gun.repair_broken_portal_gun.description": "Level einen Waffenschmied aufs maximum und repariere deine Portal Gun",
+    "advancements.alien-packs.rm_portal_gun.visit_citadel.title": "Ein Rick ist nicht genug!",
+    "advancements.alien-packs.rm_portal_gun.visit_citadel.description": "Besuche die Zitadelle der Ricks, indem du ein Portal auf den Boden schießt",
+    "advancements.alien-packs.rm_portal_gun.get_advanced_machinery.title": "Zwielichtiges Geschäft...",
+    "advancements.alien-packs.rm_portal_gun.get_advanced_machinery.description": "Mache einen Tausch mit dem Zwielichtigen Rick und besorge dir eine Fortschrittliche Maschine",
+    "advancements.alien-packs.rm_portal_gun.repair_portal_gun.title": "Glänzendes Weiß",
+    "advancements.alien-packs.rm_portal_gun.repair_portal_gun.description": "Repariere die Kaputte Portal Gun mit einer Fortschrittlichen Maschine",
+    "advancements.alien-packs.rm_portal_gun.fill_portal_gun.title": "Die coolste aller Portal Guns",
+    "advancements.alien-packs.rm_portal_gun.fill_portal_gun.description": "Befülle Portal Flüssigkeit in deine Portal Gun, indem du deine Gun in der \u00a7cZweithand\u00a7a und eine Flüssigkeiten Kapsel in der \u00a7cHaupthand\u00a7a hältst, während du dabei \u00a7eShift+Rechtsklickst",
+
 
     "commands.alien-packs.rm_portal_gun.reload_message": "\u00a7aR&M \u00a76Portal-Gun\u00a7b neu geladen!",
     "commands.alien-packs.rm_portal_gun.deinstall_message": "\u00a7aR&M \u00a76Portal-Gun\u00a74 De-Installiert!"
