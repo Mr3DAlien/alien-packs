@@ -1,0 +1,14 @@
+{
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 14357617,
+      "separation": 8,
+      "spacing": 24
+    },
+    "structures": [
+      {
+        "structure": "ap-rm_portal_gun:laboratory",
+        "weight": 1
+      }
+    ]
+  }
