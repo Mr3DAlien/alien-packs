@@ -8,6 +8,7 @@
 
     { "predicate": { "custom_model_data": 2 }, "model": "custom/alien-packs/rm_portal_gun/item/dimension_globe"},
     { "predicate": { "custom_model_data": 3 }, "model": "custom/alien-packs/rm_portal_gun/item/froopyland_globe"},
-    { "predicate": { "custom_model_data": 4 }, "model": "custom/alien-packs/rm_portal_gun/item/chess_globe"}
+    { "predicate": { "custom_model_data": 4 }, "model": "custom/alien-packs/rm_portal_gun/item/chess_globe"},
+    { "predicate": { "custom_model_data": 5 }, "model": "custom/alien-packs/rm_portal_gun/item/glass_world_globe"}
 	]
 }

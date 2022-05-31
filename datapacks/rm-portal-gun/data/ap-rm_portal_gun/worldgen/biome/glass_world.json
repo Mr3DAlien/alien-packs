@@ -2,12 +2,11 @@
   "temperature": 0.8,
   "downfall": 0.4,
   "precipitation": "none",
-  "category": "extreme_hills",
   "effects": {
     "sky_color": 7907327,
     "fog_color": 12638463,
-    "water_color": 12354055,
-    "water_fog_color": 15651117,
+    "water_color": 5961968,
+    "water_fog_color": 2356715,
     "grass_color": 7464009,
     "foliage_color": 7793711
   },
@@ -69,56 +68,29 @@
     [],
     [],
     [
-      "minecraft:amethyst_geode"
+      "ap-rm_portal_gun:glass_world/amethyst_geode"
     ],
     [
-      "minecraft:monster_room",
-      "minecraft:monster_room_deep"
     ],
     [],
     [],
     [
-      "minecraft:ore_dirt",
-      "minecraft:ore_gravel",
-      "minecraft:ore_granite_upper",
-      "minecraft:ore_granite_lower",
-      "minecraft:ore_diorite_upper",
-      "minecraft:ore_diorite_lower",
-      "minecraft:ore_andesite_upper",
-      "minecraft:ore_andesite_lower",
-      "minecraft:ore_tuff",
-      "minecraft:ore_gold_extra",
-      "minecraft:ore_coal_upper",
-      "minecraft:ore_coal_lower",
-      "minecraft:ore_gold",
-      "minecraft:ore_gold_lower",
-      "minecraft:ore_diamond",
-      "minecraft:ore_diamond_large",
-      "minecraft:ore_diamond_buried",
-      "minecraft:ore_lapis",
-      "minecraft:ore_lapis_buried",
-      "minecraft:ore_copper",
-      "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "minecraft:disk_clay",
-      "minecraft:disk_gravel"
+      "ap-rm_portal_gun:glass_world/ore_granite_upper",
+      "ap-rm_portal_gun:glass_world/ore_granite_lower",
+      "ap-rm_portal_gun:glass_world/ore_diorite_upper",
+      "ap-rm_portal_gun:glass_world/ore_diorite_lower",
+      "ap-rm_portal_gun:glass_world/ore_gold_lower",
+      "ap-rm_portal_gun:glass_world/ore_diamond",
+      "ap-rm_portal_gun:glass_world/minecraft:ore_diamond_large",
+      "ap-rm_portal_gun:glass_world/minecraft:ore_diamond_buried",
+      "ap-rm_portal_gun:glass_world/ore_copper"
     ],
     [],
     [
       "minecraft:spring_water"
     ],
     [
-      "minecraft:glow_lichen",
-      "minecraft:flower_forest_flowers",
-      "minecraft:patch_tall_grass_2",
-      "ap-rm_portal_gun:froopyland/trees",
-      "minecraft:flower_flower_forest",
-      "minecraft:flower_plains",
-      "minecraft:patch_grass_plain",
-      "minecraft:brown_mushroom_normal",
-      "minecraft:red_mushroom_normal",
-      "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin"
+      "ap-rm_portal_gun:glass_world/trees"
     ],
     [
       "minecraft:freeze_top_layer"

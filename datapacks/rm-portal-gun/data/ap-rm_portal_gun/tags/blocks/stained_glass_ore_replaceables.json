@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+      "minecraft:light_gray_stained_glass",
+      "minecraft:orange_stained_glass",
+      "minecraft:white_stained_glass",
+      "minecraft:gray_stained_glass"
+    ]
+  }

@@ -1,0 +1,7 @@
+{
+    "condition": "minecraft:location_check",
+    "predicate": {
+      "dimension": "ap-rm_portal_gun:glass_world"
+    }
+  }
+  
