@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/slime_ball"
+    "layer0": "minecraft:item/green_dye"
   },
   "overrides": [
 		{ "predicate": { "custom_model_data": 1 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_substance"}
