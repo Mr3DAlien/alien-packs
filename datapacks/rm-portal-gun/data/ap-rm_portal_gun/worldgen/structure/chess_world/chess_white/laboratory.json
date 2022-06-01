@@ -1,9 +1,7 @@
 {
     "type": "minecraft:jigsaw",
     "biomes": [
-      "ap-rm_portal_gun:froopyland",
-      "ap-rm_portal_gun:chess_white",
-      "ap-rm_portal_gun:glass_world"
+      "ap-rm_portal_gun:chess_white"
     ],
     "step": "surface_structures",
     "spawn_overrides": {},
