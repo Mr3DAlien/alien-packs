@@ -1,7 +1,7 @@
 {
     "aquifers_enabled": true,
     "default_block": {
-      "Name": "minecraft:honeycomb_block"
+      "Name": "minecraft:smooth_sandstone"
     },
     "default_fluid": {
       "Name": "minecraft:water",

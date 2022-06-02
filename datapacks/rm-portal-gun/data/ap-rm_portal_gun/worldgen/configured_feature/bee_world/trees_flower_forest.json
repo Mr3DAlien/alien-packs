@@ -8,6 +8,10 @@
           "feature": "minecraft:birch_bees_002"
         },
         {
+          "chance": 0.01,
+          "feature": "ap-rm_portal_gun:bee_world/honey_trees_001"
+        },
+        {
           "chance": 0.1,
           "feature": "ap-rm_portal_gun:bee_world/fancy_oak_bees_002"
         }
