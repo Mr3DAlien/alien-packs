@@ -13,6 +13,7 @@
     { "predicate": { "custom_model_data": 6 }, "model": "custom/alien-packs/rm_portal_gun/item/desert_world_globe"},
     { "predicate": { "custom_model_data": 7 }, "model": "custom/alien-packs/rm_portal_gun/item/endless_forest_globe"},
     { "predicate": { "custom_model_data": 8 }, "model": "custom/alien-packs/rm_portal_gun/item/bee_world_globe"},
-    { "predicate": { "custom_model_data": 9 }, "model": "custom/alien-packs/rm_portal_gun/item/35-c_globe"}
+    { "predicate": { "custom_model_data": 9 }, "model": "custom/alien-packs/rm_portal_gun/item/35-c_globe"},
+    { "predicate": { "custom_model_data": 10 }, "model": "custom/alien-packs/rm_portal_gun/item/doopidoo_dimension_globe"}
 	]
 }
