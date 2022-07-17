@@ -5,6 +5,7 @@ execute if predicate ap-rm_portal_gun:dimension_check/in_glass_world run data me
 execute if predicate ap-rm_portal_gun:dimension_check/in_desert_world run data merge entity @s {Item:{tag:{CustomModelData:6,RMGlobe:4,display:{Lore:['[{"translate":"item.alien-packs.rm_portal_gun.dimension_globe.description.desert_world"}]']}}}}
 execute if predicate ap-rm_portal_gun:dimension_check/in_endless_forest run data merge entity @s {Item:{tag:{CustomModelData:7,RMGlobe:5,display:{Lore:['[{"translate":"item.alien-packs.rm_portal_gun.dimension_globe.description.endless_forest"}]']}}}}
 execute if predicate ap-rm_portal_gun:dimension_check/in_bee_world run data merge entity @s {Item:{tag:{CustomModelData:8,RMGlobe:6,display:{Lore:['[{"translate":"item.alien-packs.rm_portal_gun.dimension_globe.description.bee_world"}]']}}}}
+execute if predicate ap-rm_portal_gun:dimension_check/in_35-c run data merge entity @s {Item:{tag:{CustomModelData:9,RMGlobe:7,display:{Lore:['[{"translate":"item.alien-packs.rm_portal_gun.dimension_globe.description.35-c"}]']}}}}
 
 
 
