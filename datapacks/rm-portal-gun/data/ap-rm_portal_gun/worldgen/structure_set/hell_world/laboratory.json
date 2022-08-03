@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "ap-rm_portal_gun:hell_world/laboratory",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 722766255,
+    "spacing": 100,
+    "separation": 50
+  }
+}
