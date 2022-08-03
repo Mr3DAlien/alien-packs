@@ -24,14 +24,20 @@
     }
   },
   "spawners": {
-    "ambient": [],
     "axolotls": [],
-    "creature": [],
     "misc": [],
     "monster": [],
     "underground_water_creature": [],
     "water_ambient": [],
-    "water_creature": []
+    "water_creature": [],
+    "creature": [
+      {
+        "type": "minecraft:llama",
+        "weight": 1,
+        "minCount": 4,
+        "maxCount": 4
+      }
+    ]
   },
   "spawn_costs": {},
   "carvers": {
