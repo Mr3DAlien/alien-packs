@@ -8,6 +8,7 @@ execute if predicate ap-rm_portal_gun:dimension_check/in_bee_world run data merg
 execute if predicate ap-rm_portal_gun:dimension_check/in_35-c run data merge entity @s {Item:{tag:{CustomModelData:9,RMGlobe:7,display:{Lore:['[{"translate":"item.alien-packs.rm_portal_gun.dimension_globe.description.35-c"}]']}}}}
 execute if predicate ap-rm_portal_gun:dimension_check/in_doopidoo_dimension run data merge entity @s {Item:{tag:{CustomModelData:10,RMGlobe:8,display:{Lore:['[{"translate":"item.alien-packs.rm_portal_gun.dimension_globe.description.doopidoo_dimension"}]']}}}}
 execute if predicate ap-rm_portal_gun:dimension_check/in_hell_world run data merge entity @s {Item:{tag:{CustomModelData:11,RMGlobe:9,display:{Lore:['[{"translate":"item.alien-packs.rm_portal_gun.dimension_globe.description.hell_world"}]']}}}}
+execute if predicate ap-rm_portal_gun:dimension_check/in_warped_world run data merge entity @s {Item:{tag:{CustomModelData:12,RMGlobe:10,display:{Lore:['[{"translate":"item.alien-packs.rm_portal_gun.dimension_globe.description.warped_world"}]']}}}}
 
 
 

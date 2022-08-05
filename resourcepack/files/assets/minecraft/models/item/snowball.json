@@ -15,6 +15,7 @@
     { "predicate": { "custom_model_data": 8 }, "model": "custom/alien-packs/rm_portal_gun/item/bee_world_globe"},
     { "predicate": { "custom_model_data": 9 }, "model": "custom/alien-packs/rm_portal_gun/item/35-c_globe"},
     { "predicate": { "custom_model_data": 10 }, "model": "custom/alien-packs/rm_portal_gun/item/doopidoo_dimension_globe"},
-    { "predicate": { "custom_model_data": 11 }, "model": "custom/alien-packs/rm_portal_gun/item/hell_world_globe"}
+    { "predicate": { "custom_model_data": 11 }, "model": "custom/alien-packs/rm_portal_gun/item/hell_world_globe"},
+    { "predicate": { "custom_model_data": 12 }, "model": "custom/alien-packs/rm_portal_gun/item/warped_world_globe"}
 	]
 }

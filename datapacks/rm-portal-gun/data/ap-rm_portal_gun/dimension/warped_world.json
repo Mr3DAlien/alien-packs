@@ -1,0 +1,11 @@
+{
+  "type": "ap-rm_portal_gun:warped_world",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "ap-rm_portal_gun:warped_world",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "ap-rm_portal_gun:warped_world"
+    }
+  }
+}
