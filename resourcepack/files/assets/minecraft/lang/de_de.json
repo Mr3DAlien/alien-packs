@@ -9,6 +9,8 @@
     "item.alien-packs.rm_portal_gun.portal_gun.description.empty": "\u00a7f[Leer]",
     "item.alien-packs.rm_portal_gun.plasma_orb.name": "\u00a7fPlasma Kugel",
     "item.alien-packs.rm_portal_gun.portal_substance.name": "\u00a7fPortal Substanz",
+    "item.alien-packs.rm_portal_gun.coords_device.name": "\u00a7fKoordinaten-Gerät",
+    "item.alien-packs.rm_portal_gun.coords_device.description": "Koordinaten:",
     "item.alien-packs.rm_portal_gun.dimension_globe.name": "\u00a7aDimensions Kugel",
     "item.alien-packs.rm_portal_gun.dimension_globe.description.empty": "\u00a7f[Leer]",
     "item.alien-packs.rm_portal_gun.dimension_globe.description.froppyland": "\u00a7b[Froopy-Land]",

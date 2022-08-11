@@ -9,6 +9,8 @@
     "item.alien-packs.rm_portal_gun.portal_gun.description.empty": "\u00a7f[Empty]",
     "item.alien-packs.rm_portal_gun.plasma_orb.name": "\u00a7fPlasma Orb",
     "item.alien-packs.rm_portal_gun.portal_substance.name": "\u00a7fPortal Substance",
+    "item.alien-packs.rm_portal_gun.coords_device.name": "\u00a7fCoords Device",
+    "item.alien-packs.rm_portal_gun.coords_device.description": "Coordinates:",
     "item.alien-packs.rm_portal_gun.dimension_globe.name": "\u00a7aDimension Globe",
     "item.alien-packs.rm_portal_gun.dimension_globe.description.empty": "\u00a7f[Empty]",
     "item.alien-packs.rm_portal_gun.dimension_globe.description.froppyland": "\u00a7b[Froopy-Land]",

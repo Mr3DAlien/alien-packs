@@ -32,6 +32,8 @@
     { "predicate": { "custom_model_data": 22 }, "model": "custom/alien-packs/rm_portal_gun/item/laser_portal_gun_02"},
     { "predicate": { "custom_model_data": 23 }, "model": "custom/alien-packs/rm_portal_gun/item/laser_portal_gun_01"},
 
-    { "predicate": { "custom_model_data": 24 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun_broken_capsule"}
+    { "predicate": { "custom_model_data": 24 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun_broken_capsule"},
+
+    { "predicate": { "custom_model_data": 25 }, "model": "custom/alien-packs/rm_portal_gun/item/coords_device"}
 	]
 }
