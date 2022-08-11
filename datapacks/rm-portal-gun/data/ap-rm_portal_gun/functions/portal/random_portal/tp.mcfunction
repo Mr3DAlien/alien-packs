@@ -9,3 +9,4 @@ execute if score @s ap-rm_portal_id matches 7 in ap-rm_portal_gun:35-c run tp @s
 execute if score @s ap-rm_portal_id matches 8 in ap-rm_portal_gun:doopidoo_dimension run tp @s ~ ~ ~ 
 execute if score @s ap-rm_portal_id matches 9 in ap-rm_portal_gun:hell_world run tp @s ~ ~ ~ 
 execute if score @s ap-rm_portal_id matches 10 in ap-rm_portal_gun:warped_world run tp @s ~ ~ ~ 
+execute if score @s ap-rm_portal_id matches 11 in ap-rm_portal_gun:village_world run tp @s ~ ~ ~ 

@@ -9,3 +9,4 @@ execute if score @s ap-rm_portal_id matches 7 if predicate ap-rm_portal_gun:dime
 execute if score @s ap-rm_portal_id matches 8 if predicate ap-rm_portal_gun:dimension_check/in_doopidoo_dimension store result score @s ap-rm_portal_id run loot spawn ~ ~ ~ loot ap-rm_portal_gun:chests/world_selector
 execute if score @s ap-rm_portal_id matches 9 if predicate ap-rm_portal_gun:dimension_check/in_hell_world store result score @s ap-rm_portal_id run loot spawn ~ ~ ~ loot ap-rm_portal_gun:chests/world_selector
 execute if score @s ap-rm_portal_id matches 10 if predicate ap-rm_portal_gun:dimension_check/in_warped_world store result score @s ap-rm_portal_id run loot spawn ~ ~ ~ loot ap-rm_portal_gun:chests/world_selector
+execute if score @s ap-rm_portal_id matches 11 if predicate ap-rm_portal_gun:dimension_check/in_village_world store result score @s ap-rm_portal_id run loot spawn ~ ~ ~ loot ap-rm_portal_gun:chests/world_selector
