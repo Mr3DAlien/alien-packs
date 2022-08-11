@@ -1,0 +1,17 @@
+[
+  {
+    "function": "minecraft:copy_nbt",
+    "source": "this",
+    "ops": [
+      {
+        "source": "Pos",
+        "target": "Pos",
+        "op": "replace"
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{RMCoordsDevice:2,Enchantments:[{id:\"\"}],display:{Lore:['[{\"translate\":\"item.alien-packs.rm_portal_gun.coords_device.description\",\"italic\":\"false\"}]','[{\"text\":\"[ \",\"italic\":\"false\"},{\"text\":\"\",\"italic\":\"false\"},{\"text\":\",\",\"italic\":\"false\"},{\"text\":\" \",\"italic\":\"false\"},{\"text\":\"\",\"italic\":\"false\"},{\"text\":\",\",\"italic\":\"false\"},{\"text\":\" \",\"italic\":\"false\"},{\"text\":\"\",\"italic\":\"false\"},{\"text\":\"]\",\"italic\":\"false\"}]']}}"
+  }
+]
