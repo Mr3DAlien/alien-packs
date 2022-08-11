@@ -9,6 +9,7 @@
     "item.alien-packs.rm_portal_gun.portal_gun.description.empty": "\u00a7f[Lahr]",
     "item.alien-packs.rm_portal_gun.plasma_orb.name": "\u00a7fPlasma Kugl",
     "item.alien-packs.rm_portal_gun.portal_substance.name": "\u00a7fPortal Substanz",
+    "item.alien-packs.rm_portal_gun.broken_coords_device.name": "\u00a7fKaputts Koordinatn-Gerät",
     "item.alien-packs.rm_portal_gun.coords_device.name": "\u00a7fKoordinatn-Gerät",
     "item.alien-packs.rm_portal_gun.coords_device.description": "Koordinatn:",
     "item.alien-packs.rm_portal_gun.dimension_globe.name": "\u00a7aDimensions Kugl",

@@ -1,0 +1,1 @@
+give @s minecraft:diamond_sword{HideFlags:63s,Unbreakable:1b,CustomModelData:17,display:{Name:'{"translate":"item.alien-packs.rm_portal_gun.broken_coords_device.name"}'},AttributeModifiers:[{}]}
