@@ -25,6 +25,8 @@
     "item.alien-packs.rm_portal_gun.dimension_globe.description.hell_world": "\u00a7b[Hölln Welt]",
     "item.alien-packs.rm_portal_gun.dimension_globe.description.warped_world": "\u00a7b[Wirr Welt]",
     "item.alien-packs.rm_portal_gun.dimension_globe.description.village_world": "\u00a7b[Dorf Welt]",
+    "item.alien-packs.rm_portal_gun.dimension_globe.description.the_nether": "\u00a7b[Nether]",
+    "item.alien-packs.rm_portal_gun.dimension_globe.description.the_end": "\u00a7b[End]",
     "item.alien-packs.rm_portal_gun.liquid_capsule.name": "\u00a7fFlüssigkeitn Kapsl",
     "item.alien-packs.rm_portal_gun.liquid_capsule.description.empty": "\u00a7f[Lahr]",
     "item.alien-packs.rm_portal_gun.liquid_capsule.description.portal_fluid": "\u00a7a[Portal Flüssigkeit]",
