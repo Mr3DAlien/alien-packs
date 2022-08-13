@@ -9,12 +9,17 @@ scoreboard objectives add ap-rm_portal_cooldown dummy
 scoreboard objectives add ap-rm_portal_id dummy
 scoreboard objectives add ap-rm_settings dummy
 scoreboard objectives add ap-rm_chunk_loading dummy
+scoreboard objectives add ap-rm_device_coords dummy
 scoreboard objectives add ap-rm_doRMSpawning trigger
 
 scoreboard players add %rickSpawning ap-rm_settings 0
 scoreboard players add %portalFunction ap-rm_settings 0
 scoreboard players add %mapVersion ap-rm_settings 0
 scoreboard players add %councilBuild ap-rm_settings 0
+scoreboard players add %X ap-rm_device_coords 0
+scoreboard players add %Y ap-rm_device_coords 0
+scoreboard players add %Z ap-rm_device_coords 0
+
 scoreboard players add %lostPlaceBuild ap-rm_settings 0
 
 team add ap-rm_dungeon
