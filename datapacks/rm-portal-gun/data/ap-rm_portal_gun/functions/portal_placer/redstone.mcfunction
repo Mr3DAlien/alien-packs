@@ -35,6 +35,7 @@ execute if block ~-1 ~ ~ #minecraft:buttons[powered=true] run scoreboard players
 execute if block ~ ~-1 ~ #minecraft:buttons[powered=true] run scoreboard players set %portalPlacer ap-rm_settings 1
 execute if block ~ ~1 ~ #minecraft:buttons[powered=true] run scoreboard players set %portalPlacer ap-rm_settings 1
 
+
 execute if block ~ ~1 ~1 #minecraft:buttons[powered=true,face=floor] run scoreboard players set %portalPlacer ap-rm_settings 1
 execute if block ~ ~1 ~-1 #minecraft:buttons[powered=true,face=floor] run scoreboard players set %portalPlacer ap-rm_settings 1
 execute if block ~1 ~1 ~ #minecraft:buttons[powered=true,face=floor] run scoreboard players set %portalPlacer ap-rm_settings 1
