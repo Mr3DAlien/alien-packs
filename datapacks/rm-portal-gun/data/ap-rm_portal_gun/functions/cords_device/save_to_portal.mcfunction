@@ -3,5 +3,5 @@ data modify entity @e[type=minecraft:armor_stand,tag=ap-rm_portal_setup,sort=nea
 # Executes particles at the nearest portal
 execute as @e[type=minecraft:armor_stand,tag=ap-rm_portal_setup,sort=nearest,limit=1,distance=..5] at @s run particle minecraft:item minecraft:diamond_hoe{CustomModelData:1} ^ ^ ^ 1 2 1 0.1 100
 # Checks if there is the portal entity nearby and if so plays the activate sound and if not plays the denied sound
-execute if entity @e[type=minecraft:armor_stand,tag=ap-rm_portal_setup,sort=nearest,limit=1,distance=..5] run playsound minecraft:custom.alien-packs.rm_portal_gun.coords_device_activate master @a
-execute unless entity @e[type=minecraft:armor_stand,tag=ap-rm_portal_setup,sort=nearest,limit=1,distance=..5] run playsound minecraft:custom.alien-packs.rm_portal_gun.coords_device_denied master @a
+execute if entity @e[type=minecraft:armor_stand,tag=ap-rm_portal_setup,sort=nearest,limit=1,distance=..5] run playsound minecraft:custom.alien-packs.rm_portal_gun.coords_device_activate player @a
+execute unless entity @e[type=minecraft:armor_stand,tag=ap-rm_portal_setup,sort=nearest,limit=1,distance=..5] run playsound minecraft:custom.alien-packs.rm_portal_gun.coords_device_denied player @a
