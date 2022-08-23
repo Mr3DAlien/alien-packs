@@ -2,7 +2,7 @@
 name: Alien-Packs Resourcepack Bug Report
 about: Report your bugs with the Alien-Packs Resourcepack here
 title: ''
-labels: light-sabers
+labels: alien-packs-rp, bug
 assignees: ''
 
 ---

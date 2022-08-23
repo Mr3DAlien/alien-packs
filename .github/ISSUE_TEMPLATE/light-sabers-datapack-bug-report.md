@@ -2,7 +2,7 @@
 name: Light-Sabers Datapack Bug Report
 about: Report your bugs with the Light-Sabers Datapack here
 title: ''
-labels: light-sabers
+labels: bug, light-sabers
 assignees: ''
 
 ---

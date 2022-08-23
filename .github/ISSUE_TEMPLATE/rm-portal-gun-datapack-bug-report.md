@@ -2,7 +2,7 @@
 name: RM Portal Gun Datapack Bug Report
 about: Report your bugs with the RM Portal Gun Datapack here
 title: ''
-labels: rm portal gun
+labels: bug, rm portal gun
 assignees: ''
 
 ---
