@@ -1,6 +1,6 @@
 
 function ap-rm_portal_gun:misc/gamemode_switch/call
-function ap-rm_portal_gun:misc/spawnpoint/call
+function ap-rm_portal_gun:misc/gui_clear
 function ap-rm_portal_gun:misc/blacklist
 function ap-rm_portal_gun:misc/council_door
 function ap-rm_portal_gun:misc/rick_gamerule
