@@ -14,6 +14,7 @@ execute unless block ~ ~-1 ~ minecraft:barrel{Items:[{Slot:10b,tag:{RMGui:1b}}]}
 execute unless block ~ ~-1 ~ minecraft:barrel{Items:[{Slot:12b,tag:{RMGui:1b}}]} run data modify entity @s Item set from block ~ ~-1 ~ Items[{Slot:12b}]
 execute unless block ~ ~-1 ~ minecraft:barrel{Items:[{Slot:14b,tag:{RMGui:1b}}]} run data modify entity @s Item set from block ~ ~-1 ~ Items[{Slot:14b}]
 execute unless block ~ ~-1 ~ minecraft:barrel{Items:[{Slot:16b,tag:{RMGui:1b}}]} run data modify entity @s Item set from block ~ ~-1 ~ Items[{Slot:16b}]
+execute unless block ~ ~-1 ~ minecraft:barrel{Items:[{Slot:17b,tag:{RMGui:1b}}]} run data modify entity @s Item set from block ~ ~-1 ~ Items[{Slot:17b}]
 execute unless block ~ ~-1 ~ minecraft:barrel{Items:[{Slot:18b,tag:{RMGui:1b}}]} run data modify entity @s Item set from block ~ ~-1 ~ Items[{Slot:18b}]
 
 execute unless block ~ ~-1 ~ minecraft:barrel{Items:[{Slot:19b,tag:{RMGui:1b}}]} run data modify entity @s Item set from block ~ ~-1 ~ Items[{Slot:19b}]
