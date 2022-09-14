@@ -208,5 +208,20 @@
                 "preload": false
             }
         ]
+    },
+    "custom.alien-packs.rm_portal_gun.break_portal_gun": {
+        "subtitle": "Portal Gun Breaks",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/alien-packs/rm_portal_gun/break_portal_gun",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
     }
 }
