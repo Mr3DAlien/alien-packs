@@ -9,23 +9,23 @@
     { "predicate": { "custom_model_data": 3 }, "model": "custom/alien-packs/base/skin/mr3dalien_flying"},
 
     
-    { "predicate": { "custom_model_data": 4 }, "model": "custom/alien-packs/rm_portal_gun/item/liquid_capsule_00"},
-    { "predicate": { "custom_model_data": 5 }, "model": "custom/alien-packs/rm_portal_gun/item/liquid_capsule_03"},
-    { "predicate": { "custom_model_data": 6 }, "model": "custom/alien-packs/rm_portal_gun/item/liquid_capsule_02"},
-    { "predicate": { "custom_model_data": 7 }, "model": "custom/alien-packs/rm_portal_gun/item/liquid_capsule_01"},
+    { "predicate": { "custom_model_data": 4 }, "model": "custom/alien-packs/rm_portal_gun/item/capsules/liquid_capsule_00"},
+    { "predicate": { "custom_model_data": 5 }, "model": "custom/alien-packs/rm_portal_gun/item/capsules/liquid_capsule_03"},
+    { "predicate": { "custom_model_data": 6 }, "model": "custom/alien-packs/rm_portal_gun/item/capsules/liquid_capsule_02"},
+    { "predicate": { "custom_model_data": 7 }, "model": "custom/alien-packs/rm_portal_gun/item/capsules/liquid_capsule_01"},
     
-    { "predicate": { "custom_model_data": 8 }, "model": "custom/alien-packs/rm_portal_gun/item/laser_capsule_03"},
-    { "predicate": { "custom_model_data": 9 }, "model": "custom/alien-packs/rm_portal_gun/item/laser_capsule_02"},
-    { "predicate": { "custom_model_data": 10 }, "model": "custom/alien-packs/rm_portal_gun/item/laser_capsule_01"},
+    { "predicate": { "custom_model_data": 8 }, "model": "custom/alien-packs/rm_portal_gun/item/capsules/laser_capsule_03"},
+    { "predicate": { "custom_model_data": 9 }, "model": "custom/alien-packs/rm_portal_gun/item/capsules/laser_capsule_02"},
+    { "predicate": { "custom_model_data": 10 }, "model": "custom/alien-packs/rm_portal_gun/item/capsules/laser_capsule_01"},
 
-    { "predicate": { "custom_model_data": 11 }, "model": "custom/alien-packs/rm_portal_gun/item/plasma_orb"},
-    { "predicate": { "custom_model_data": 12 }, "model": "custom/alien-packs/rm_portal_gun/item/gear"},
-    { "predicate": { "custom_model_data": 13 }, "model": "custom/alien-packs/rm_portal_gun/item/quartz_gear"},
-    { "predicate": { "custom_model_data": 14 }, "model": "custom/alien-packs/rm_portal_gun/item/basic_machinery"},
-    { "predicate": { "custom_model_data": 15 }, "model": "custom/alien-packs/rm_portal_gun/item/advanced_machinery"},
+    { "predicate": { "custom_model_data": 11 }, "model": "custom/alien-packs/rm_portal_gun/item/gears/plasma_orb"},
+    { "predicate": { "custom_model_data": 12 }, "model": "custom/alien-packs/rm_portal_gun/item/gears/gear"},
+    { "predicate": { "custom_model_data": 13 }, "model": "custom/alien-packs/rm_portal_gun/item/gears/quartz_gear"},
+    { "predicate": { "custom_model_data": 14 }, "model": "custom/alien-packs/rm_portal_gun/item/gears/basic_machinery"},
+    { "predicate": { "custom_model_data": 15 }, "model": "custom/alien-packs/rm_portal_gun/item/gears/advanced_machinery"},
   
-    { "predicate": { "custom_model_data": 16 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun_broken"},
-    { "predicate": { "custom_model_data": 17 }, "model": "custom/alien-packs/rm_portal_gun/item/broken_coords_device"}
+    { "predicate": { "custom_model_data": 16 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun/broken_gun/portal_gun"},
+    { "predicate": { "custom_model_data": 17 }, "model": "custom/alien-packs/rm_portal_gun/item/coords_device/broken_coords_device"}
  
 	]
 }

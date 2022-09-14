@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:custom/alien-packs/rm_portal_gun/item/dimension_globes/bee_world_globe"
+  }
+}
