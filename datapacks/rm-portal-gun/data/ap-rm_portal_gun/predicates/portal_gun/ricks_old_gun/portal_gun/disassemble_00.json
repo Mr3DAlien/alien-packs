@@ -1,0 +1,29 @@
+[
+  {
+    "condition": "minecraft:entity_scores",
+    "entity": "this",
+    "scores": {
+      "ap-rm_portal_click": {
+        "min": 1
+      }
+    }
+  },
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "flags": {
+        "is_sneaking": true
+      },
+      "equipment": {
+        "offhand": {
+          "items": [
+            "minecraft:warped_fungus_on_a_stick"
+          ],
+          "count": 1,
+          "nbt": "{RMFuelLevel:0b,CustomModelData:30}"
+        }
+      }
+    }
+  }
+]
