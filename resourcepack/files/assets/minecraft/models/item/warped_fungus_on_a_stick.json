@@ -23,17 +23,29 @@
     { "predicate": { "custom_model_data": 15 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_gun/portal_gun_fluid_level_2"},
     { "predicate": { "custom_model_data": 16 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_gun/portal_gun_fluid_level_1"},
     { "predicate": { "custom_model_data": 17 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_gun/portal_gun_fluid_level_0"},
-
     { "predicate": { "custom_model_data": 18 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_gun/portal_gun_fluid_level_3_selected"},
     { "predicate": { "custom_model_data": 19 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_gun/portal_gun_fluid_level_2_selected"},
     { "predicate": { "custom_model_data": 20 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_gun/portal_gun_fluid_level_1_selected"},
-    
     { "predicate": { "custom_model_data": 21 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_gun/laser_portal_gun_03"},
     { "predicate": { "custom_model_data": 22 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_gun/laser_portal_gun_02"},
     { "predicate": { "custom_model_data": 23 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_gun/laser_portal_gun_01"},
 
     { "predicate": { "custom_model_data": 24 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun/broken_gun/portal_gun_full"},
 
-    { "predicate": { "custom_model_data": 25 }, "model": "custom/alien-packs/rm_portal_gun/item/coords_device/coords_device"}
+    { "predicate": { "custom_model_data": 25 }, "model": "custom/alien-packs/rm_portal_gun/item/coords_device/coords_device"},
+
+    { "predicate": { "custom_model_data": 26 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_old_gun/portal_gun_no_fluid"},
+    { "predicate": { "custom_model_data": 27 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_old_gun/portal_gun_fluid_level_3"},
+    { "predicate": { "custom_model_data": 28 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_old_gun/portal_gun_fluid_level_2"},
+    { "predicate": { "custom_model_data": 29 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_old_gun/portal_gun_fluid_level_1"},
+    { "predicate": { "custom_model_data": 30 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_old_gun/portal_gun_fluid_level_0"},
+    { "predicate": { "custom_model_data": 31 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_old_gun/portal_gun_fluid_level_3_selected"},
+    { "predicate": { "custom_model_data": 32 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_old_gun/portal_gun_fluid_level_2_selected"},
+    { "predicate": { "custom_model_data": 33 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_old_gun/portal_gun_fluid_level_1_selected"},  
+    { "predicate": { "custom_model_data": 34 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_old_gun/laser_portal_gun_03"},
+    { "predicate": { "custom_model_data": 35 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_old_gun/laser_portal_gun_02"},
+    { "predicate": { "custom_model_data": 36 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_old_gun/laser_portal_gun_01"},
+
+    { "predicate": { "custom_model_data": 37 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun/mortys_gun/portal_gun"}
 	]
 }

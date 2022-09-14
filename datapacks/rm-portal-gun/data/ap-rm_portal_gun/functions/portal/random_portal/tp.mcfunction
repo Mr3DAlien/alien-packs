@@ -13,3 +13,4 @@ execute if score @s ap-rm_portal_id matches 11 in ap-rm_portal_gun:village_world
 
 execute if score @s ap-rm_portal_id matches 999998 in minecraft:the_nether run tp @s ~ ~ ~ 
 execute if score @s ap-rm_portal_id matches 999999 in minecraft:the_end run tp @s ~ ~ ~ 
+execute if score @s ap-rm_portal_id matches 1000000 in minecraft:the_end run tp @s ~ ~ ~ 
