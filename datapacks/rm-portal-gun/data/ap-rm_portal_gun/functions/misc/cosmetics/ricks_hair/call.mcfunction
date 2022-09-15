@@ -1,0 +1,2 @@
+execute as @a[nbt={Inventory:[{Slot:103b,id:"minecraft:iron_helmet",tag:{CustomModelData:1}}]}] run function ap-rm_portal_gun:misc/cosmetics/ricks_hair/helmet
+execute as @a[nbt={SelectedItem:{id:"minecraft:diamond_sword",tag:{CustomModelData:18}}}] run item replace entity @s weapon.mainhand with minecraft:iron_helmet{CustomModelData:1,HideFlags:63s,Unbreakable:1b,RepairCost:999999,display:{Name:'{"translate":"item.alien-packs.rm_portal_gun.ricks_hair.name","italic":"false","color":"yellow"}'}}

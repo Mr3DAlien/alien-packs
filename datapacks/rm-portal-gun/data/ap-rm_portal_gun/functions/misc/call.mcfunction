@@ -1,5 +1,6 @@
 
 function ap-rm_portal_gun:misc/gamemode_switch/call
+function ap-rm_portal_gun:misc/cosmetics/call
 function ap-rm_portal_gun:misc/gui_clear
 function ap-rm_portal_gun:misc/blacklist
 function ap-rm_portal_gun:misc/council_door
