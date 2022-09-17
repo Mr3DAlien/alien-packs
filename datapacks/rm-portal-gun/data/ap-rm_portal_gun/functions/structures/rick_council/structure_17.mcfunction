@@ -3,6 +3,7 @@ setblock -81 14 946 minecraft:structure_block{metadata: "", mirror: "NONE", igno
 setblock -81 13 946 minecraft:redstone_block
 fill -81 14 946 -81 13 946 minecraft:air replace
 
+kill @e[type=minecraft:item,nbt={Item:{tag:{RMGui:1b}}}]
 function ap-rm_portal_gun:npc/spawn/call
 
 scoreboard players set %councilBuild ap-rm_settings 17
