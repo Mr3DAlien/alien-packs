@@ -1,0 +1,5 @@
+
+{
+    "function": "minecraft:set_nbt",
+    "tag": "{RMPortalGun:3b,RMFuelLevel:3b,CustomModelData:46,display:{Name:'{\"translate\":\"item.alien-packs.rm_portal_gun.laser_gun.name\"}',Lore:['{\"translate\":\"item.alien-packs.rm_portal_gun.laser_gun.description.laser_fluid\"}']}}"
+}

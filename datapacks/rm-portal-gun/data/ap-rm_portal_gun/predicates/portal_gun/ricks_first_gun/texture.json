@@ -10,7 +10,7 @@
     "condition": "minecraft:inverted",
     "term": {
       "condition": "minecraft:reference",
-      "name": "ap-rm_portal_gun:portal_gun/ricks_first_gun/detect"
+      "name": "ap-rm_portal_gun:portal_gun/ricks_old_gun/detect"
     }
   },
   {
@@ -25,7 +25,7 @@
               "items": [
                 "minecraft:warped_fungus_on_a_stick"
               ],
-              "nbt": "{RMTexture:2b}"
+              "nbt": "{RMTexture:3b}"
             }
           }
         }
@@ -39,7 +39,7 @@
               "items": [
                 "minecraft:warped_fungus_on_a_stick"
               ],
-              "nbt": "{RMTexture:2b}"
+              "nbt": "{RMTexture:3b}"
             }
           }
         }

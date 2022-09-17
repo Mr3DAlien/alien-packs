@@ -7,6 +7,13 @@
     }
   },
   {
+    "condition": "minecraft:inverted",
+    "term": {
+      "condition": "minecraft:reference",
+      "name": "ap-rm_portal_gun:portal_gun/ricks_first_gun/detect"
+    }
+  },
+  {
     "condition": "minecraft:alternative",
     "terms": [
       {
