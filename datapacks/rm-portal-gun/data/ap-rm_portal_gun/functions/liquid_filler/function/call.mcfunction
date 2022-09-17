@@ -1,2 +1,2 @@
-
-execute as @e[type=minecraft:glow_item_frame,tag=ap-rm_liquid_filler] at @s if block ~ ~ ~ minecraft:barrel{Items:[{Slot:26b,id:"minecraft:green_dye",tag:{RMSubstance:1}}]} run function ap-rm_portal_gun:liquid_filler/function/detect
+function ap-rm_portal_gun:liquid_filler/gui/call
+execute if block ~ ~ ~ minecraft:barrel{Items:[{Slot:26b,id:"minecraft:green_dye",tag:{RMSubstance:1}}]} run function ap-rm_portal_gun:liquid_filler/function/detect
