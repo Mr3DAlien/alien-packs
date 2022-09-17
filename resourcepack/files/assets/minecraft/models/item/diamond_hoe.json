@@ -10,7 +10,7 @@
     { "predicate": { "custom_model_data": 4 }, "model": "custom/alien-packs/rm_portal_gun/misc/purple_portal"},
     { "predicate": { "custom_model_data": 5 }, "model": "custom/alien-packs/rm_portal_gun/misc/blue_portal_facing_down"},
     { "predicate": { "custom_model_data": 6 }, "model": "custom/alien-packs/rm_portal_gun/block/portal_placer"},
-    { "predicate": { "custom_model_data": 7 }, "model": "custom/alien-packs/rm_portal_gun/block/portal_filler"},
+    { "predicate": { "custom_model_data": 7 }, "model": "custom/alien-packs/rm_portal_gun/block/capsule_filler"},
     { "predicate": { "custom_model_data": 8 }, "model": "custom/alien-packs/rm_portal_gun/misc/yellow_portal"}
 	]
 }
