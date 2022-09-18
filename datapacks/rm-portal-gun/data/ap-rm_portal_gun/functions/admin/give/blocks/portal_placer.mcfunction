@@ -1,1 +1,1 @@
-give @s minecraft:armor_stand{EntityTag:{Tags:["ap-rm_placer_stand"]},display:{Name:'{"text":"Portal Placer","italic":"false"}'}}
+give @s minecraft:bat_spawn_egg{CustomModelData:2,EntityTag:{id:"minecraft:marker",Tags:["ap-rm_placer_marker"]},display:{Name:'{"translate":"item.alien-packs.rm_portal_gun.portal_placer.name","italic":"false"}'}}

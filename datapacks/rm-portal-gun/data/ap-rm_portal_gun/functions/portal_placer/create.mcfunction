@@ -1,16 +1,15 @@
 
-#tp @s ~ ~ ~ facing entity @a[sort=nearest,limit=1,scores={ap-rm_stand_click=1..}]
+playsound minecraft:block.stone.place block @a
 
-execute store result score %standRotation ap-rm_settings run data get entity @s Rotation[0]
-execute store result score %standRotationY ap-rm_settings run data get entity @s Rotation[1]
+execute positioned ~ ~1 ~ if entity @a[scores={ap-rm_use_spawn_egg=1..},distance=..1] run setblock ~ ~-1 ~ minecraft:barrel[facing=up]
+execute positioned ~ ~1 ~ if entity @a[scores={ap-rm_use_spawn_egg=1..},distance=..1] run summon minecraft:glow_item_frame ~ ~-1 ~ {Facing:1b,Fixed:1b,Invisible:1b,Item:{id:"minecraft:diamond_hoe",Count:1b,tag:{CustomModelData:6}},Tags:["ap-rm_portal_placer"]}
+execute positioned ~ ~1 ~ if entity @a[scores={ap-rm_use_spawn_egg=1..},distance=..1] run kill @s
 
-execute if score %standRotation ap-rm_settings matches ..135 run summon minecraft:glow_item_frame ~ ~ ~ {Facing:3b}
-execute if score %standRotation ap-rm_settings matches -135..-44 run summon minecraft:glow_item_frame ~ ~ ~ {Facing:5b}
-execute if score %standRotation ap-rm_settings matches -45..44 run summon minecraft:glow_item_frame ~ ~ ~ {Facing:3b}
-execute if score %standRotation ap-rm_settings matches 45..134 run data merge entity @s {Rotation:[90f,0f]}
-execute if score %standRotation ap-rm_settings matches 135.. run data merge entity @s {Rotation:[-180f,0f]}
+execute positioned ~ ~-2 ~ if entity @a[scores={ap-rm_use_spawn_egg=1..},distance=..1] run setblock ~ ~2 ~ minecraft:barrel[facing=down]
+execute positioned ~ ~-2 ~ if entity @a[scores={ap-rm_use_spawn_egg=1..},distance=..1] run summon minecraft:glow_item_frame ~ ~2 ~ {Facing:6b,Fixed:1b,Invisible:1b,Item:{id:"minecraft:diamond_hoe",Count:1b,tag:{CustomModelData:6}},Tags:["ap-rm_portal_placer"]}
+execute positioned ~ ~-2 ~ if entity @a[scores={ap-rm_use_spawn_egg=1..},distance=..1] run kill @s
+
+execute unless block ~ ~ ~ minecraft:barrel run summon minecraft:armor_stand ~ ~ ~ {Tags:["ap-rm_portal_placer_stand"]}
+execute as @e[tag=ap-rm_portal_placer_stand,limit=1,sort=nearest] at @s run function ap-rm_portal_gun:portal_placer/stand_rotation
 
 kill @s
-
-scoreboard players reset %standRotation ap-rm_settings
-scoreboard players reset %standRotationY ap-rm_settings

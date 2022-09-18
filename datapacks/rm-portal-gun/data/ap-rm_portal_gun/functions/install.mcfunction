@@ -1,6 +1,7 @@
 execute in ap-rm_portal_gun:rick_council run forceload add 0 0
 
 scoreboard objectives add ap-rm_portal_click minecraft.used:minecraft.warped_fungus_on_a_stick
+scoreboard objectives add ap-rm_use_spawn_egg minecraft.used:minecraft.bat_spawn_egg
 scoreboard objectives add ap-rm_sleeping minecraft.custom:minecraft.sleep_in_bed
 scoreboard objectives add ap-rm_spawnX dummy
 scoreboard objectives add ap-rm_spawnY dummy

@@ -8,3 +8,5 @@ execute as @s[tag=!ap-rm_empty] at @s unless block ~ ~ ~ minecraft:barrel{Items:
 execute as @s[tag=ap-rm_empty] at @s if block ~ ~ ~ minecraft:barrel{Items:[{Slot:11b}]} run tag @s remove ap-rm_empty
 # Detects if the hopper underneath is enabled and if so calls the disable_hopper function
 execute if block ~ ~-1 ~ minecraft:hopper[enabled=true] run function ap-rm_portal_gun:portal_placer/disable_hopper
+# Detects if the hopper underneath is enabled and if so calls the disable_hopper function
+execute unless block ~ ~ ~ minecraft:barrel run function ap-rm_portal_gun:portal_placer/destroy

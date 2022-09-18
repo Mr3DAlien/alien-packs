@@ -1,6 +1,7 @@
 execute in ap-rm_portal_gun:rick_council run forceload remove 0 0
 
 scoreboard objectives remove ap-rm_portal_click
+scoreboard objectives remove ap-rm_use_spawn_egg
 scoreboard objectives remove ap-rm_sleeping
 scoreboard objectives remove ap-rm_spawnX
 scoreboard objectives remove ap-rm_spawnY
