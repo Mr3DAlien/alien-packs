@@ -1,6 +1,13 @@
 
 scoreboard players set %portalPlacer ap-rm_settings 0
 
+execute if block ~ ~1 ~ minecraft:redstone_lamp[lit=true] run scoreboard players set %portalPlacer ap-rm_settings 1
+execute if block ~ ~-1 ~ minecraft:redstone_lamp[lit=true] run scoreboard players set %portalPlacer ap-rm_settings 1
+execute if block ~ ~ ~1 minecraft:redstone_lamp[lit=true] run scoreboard players set %portalPlacer ap-rm_settings 1
+execute if block ~ ~ ~-1 minecraft:redstone_lamp[lit=true] run scoreboard players set %portalPlacer ap-rm_settings 1
+execute if block ~1 ~ ~ minecraft:redstone_lamp[lit=true] run scoreboard players set %portalPlacer ap-rm_settings 1
+execute if block ~-1 ~ ~ minecraft:redstone_lamp[lit=true] run scoreboard players set %portalPlacer ap-rm_settings 1
+
 execute if block ~ ~ ~1 minecraft:repeater[powered=true,facing=south] run scoreboard players set %portalPlacer ap-rm_settings 1
 execute if block ~ ~ ~-1 minecraft:repeater[powered=true,facing=north] run scoreboard players set %portalPlacer ap-rm_settings 1
 execute if block ~1 ~ ~ minecraft:repeater[powered=true,facing=east] run scoreboard players set %portalPlacer ap-rm_settings 1
