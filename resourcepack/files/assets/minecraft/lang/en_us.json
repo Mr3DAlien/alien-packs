@@ -85,6 +85,9 @@
     "advancements.alien-packs.rm_portal_gun.home_portal.description": "Go through this Portal to spawn at your Home or the Citadel of Ricks, depending on which Dimension you're currently in",
     "advancements.alien-packs.rm_portal_gun.remove_portal_gun_capsule.title": "NEED FUEL!1!!11!",
     "advancements.alien-packs.rm_portal_gun.remove_portal_gun_capsule.description": "Remove the Fluid Capsule again by putting the Portal Gun in your \u00a7cOff Hand\u00a7a and press \u00a7eshift+right click",
+    "advancements.alien-packs.rm_portal_gun.alcoholic.title": "Congrats! You're an Alcoholic!",
+    "advancements.alien-packs.rm_portal_gun.alcoholic.description": "Drink every Hip Flask",
+
 
     "commands.alien-packs.rm_portal_gun.reload_message": "\u00a7aR&M \u00a76Portal-Gun\u00a7b Reloaded!",
     "commands.alien-packs.rm_portal_gun.deinstall_message": "\u00a7aR&M \u00a76Portal-Gun\u00a74 De-Installed!",

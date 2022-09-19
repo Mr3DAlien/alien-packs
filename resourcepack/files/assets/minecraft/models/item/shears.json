@@ -9,6 +9,8 @@
     { "predicate": { "custom_model_data": 2 }, "model": "custom/alien-packs/light_sabers/advancement/star_wars"},
     { "predicate": { "custom_model_data": 3 }, "model": "custom/alien-packs/light_sabers/advancement/unlimited_powaaa"},
     { "predicate": { "custom_model_data": 4 }, "model": "custom/alien-packs/light_sabers/advancement/force"},
-    { "predicate": { "custom_model_data": 5 }, "model": "custom/alien-packs/light_sabers/advancement/force_choke"}
+    { "predicate": { "custom_model_data": 5 }, "model": "custom/alien-packs/light_sabers/advancement/force_choke"},
+
+    { "predicate": { "custom_model_data": 6 }, "model": "custom/alien-packs/rm_portal_gun/advancement/rick_meme"}
 	]
 }
