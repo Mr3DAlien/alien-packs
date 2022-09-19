@@ -17,32 +17,14 @@
   },
   "parent": "ap-rm_portal_gun:portal_gun/visit_dimension",
   "criteria": {
-    "activated_gun": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:player",
-              "equipment": {
-                "mainhand": {
-                  "items": [
-                    "minecraft:warped_fungus_on_a_stick"
-                  ],
-                  "nbt": "{RMPortalGun:2b}"
-                }
-              }
-            }
-          }
-        ]
-      }
+    "remove_portal_gun_capsule": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
     }
   },
   "requirements": [
     [
-      "activated_gun"
+      "remove_portal_gun_capsule"
     ]
   ]
 }

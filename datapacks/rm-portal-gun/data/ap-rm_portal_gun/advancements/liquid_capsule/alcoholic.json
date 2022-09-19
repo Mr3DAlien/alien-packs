@@ -15,7 +15,7 @@
     "announce_to_chat": true,
     "hidden": true
   },
-  "parent": "ap-rm_portal_gun:liquid_capsule/laser_fluid",
+  "parent": "ap-rm_portal_gun:liquid_capsule/get_laser_fluid",
   "criteria": {
     "consume_resistance_potion": {
       "trigger": "minecraft:consume_item",

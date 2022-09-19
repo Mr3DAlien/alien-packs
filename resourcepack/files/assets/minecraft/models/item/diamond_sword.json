@@ -28,7 +28,8 @@
     { "predicate": { "custom_model_data": 16 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_gun/broken_gun/portal_gun"},
     { "predicate": { "custom_model_data": 17 }, "model": "custom/alien-packs/rm_portal_gun/item/coords_device/broken_coords_device"},
 
-    { "predicate": { "custom_model_data": 18 }, "model": "custom/alien-packs/rm_portal_gun/item/ricks_hair"}
+    { "predicate": { "custom_model_data": 18 }, "model": "custom/alien-packs/rm_portal_gun/item/ricks_hair"},
+    { "predicate": { "custom_model_data": 19 }, "model": "custom/alien-packs/rm_portal_gun/item/laboratory"}
  
 	]
 }

@@ -2,22 +2,22 @@
     "display": {
       "icon": {
         "item": "minecraft:diamond_sword",
-        "nbt": "{CustomModelData:5}"
+        "nbt": "{CustomModelData:8}"
       },
       "title": {
-        "translate": "advancements.alien-packs.rm_portal_gun.broken_portal_gun.title"
+        "translate": "advancements.alien-packs.rm_portal_gun.get_laser_fluid.title"
       },
       "description": {
-        "translate": "advancements.alien-packs.rm_portal_gun.broken_portal_gun.description"
+        "translate": "advancements.alien-packs.rm_portal_gun.get_laser_fluid.description"
       },
-      "frame": "task",
+      "frame": "goal",
       "show_toast": true,
       "announce_to_chat": false,
       "hidden": false
     },
-    "parent": "ap-rm_portal_gun:liquid_capsule/liquid_filler",
+    "parent": "ap-rm_portal_gun:liquid_capsule/get_portal_fluid",
     "criteria": {
-      "portal_fluid": {
+      "laser_fluid": {
         "trigger": "minecraft:inventory_changed",
         "conditions": {
           "items": [
@@ -25,7 +25,7 @@
               "items": [
                 "minecraft:diamond_sword"
               ],
-              "nbt": "{CustomModelData:5}"
+              "nbt": "{CustomModelData:8}"
             }
           ]
         }
@@ -33,7 +33,7 @@
     },
     "requirements": [
       [
-        "portal_fluid"
+        "laser_fluid"
       ]
     ]
   }

@@ -1,23 +1,23 @@
 {
     "display": {
       "icon": {
-        "item": "minecraft:armor_stand",
+        "item": "minecraft:green_dye",
         "nbt": "{CustomModelData:1}"
       },
       "title": {
-        "translate": "advancements.alien-packs.rm_portal_gun.broken_portal_gun.title"
+        "translate": "advancements.alien-packs.rm_portal_gun.get_portal_substance.title"
       },
       "description": {
-        "translate": "advancements.alien-packs.rm_portal_gun.broken_portal_gun.description"
+        "translate": "advancements.alien-packs.rm_portal_gun.get_portal_substance.description"
       },
       "frame": "task",
       "show_toast": true,
       "announce_to_chat": false,
       "hidden": false
     },
-    "parent": "ap-rm_portal_gun:liquid_capsule/portal_substance",
+    "parent": "ap-rm_portal_gun:liquid_capsule/find_capsule",
     "criteria": {
-      "liquid_filler": {
+      "portal_substance": {
         "trigger": "minecraft:inventory_changed",
         "conditions": {
           "items": [
@@ -33,7 +33,7 @@
     },
     "requirements": [
       [
-        "liquid_filler"
+        "portal_substance"
       ]
     ]
   }
