@@ -1,0 +1,7 @@
+Rick & Morty Portal Gun Datapack:
+    @Lucuma
+        -Capsule Filler Texture
+        -Liquid Filler Texture/Model
+        -Portal Placer Texture/Model
+    @dogebuilds
+        -Council of Ricks Build
