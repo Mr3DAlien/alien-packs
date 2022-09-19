@@ -1,3 +1,5 @@
+# Gives the "visit_dimension" advancement to the player if he does not already have it
+advancement grant @s[advancements={ap-rm_portal_gun:portal_gun/visit_dimension=false}] only ap-rm_portal_gun:portal_gun/visit_dimension
 # The entity gets teleported to the dimension based on the score id of itself
 execute if score @s ap-rm_portal_id matches 1 in ap-rm_portal_gun:froopyland run tp @s ~ ~ ~ 
 execute if score @s ap-rm_portal_id matches 2 in ap-rm_portal_gun:chess_world run tp @s ~ ~ ~ 

@@ -1,4 +1,4 @@
-
+advancement grant @s[advancements={ap-rm_portal_gun:portal_gun/remove_portal_gun_capsule=false}] only ap-rm_portal_gun:portal_gun/remove_portal_gun_capsule
 playsound minecraft:custom.alien-packs.rm_portal_gun.capsule_put_in player @a[distance=..3]
 
 item modify entity @s weapon.offhand ap-rm_portal_gun:portal_gun/ricks_gun/portal_gun/disassemble
