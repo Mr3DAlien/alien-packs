@@ -53,8 +53,9 @@
     "entity.alien-packs.rm_portal_gun.npc.name.bartender_rick": "Barmann Rick",
     "entity.alien-packs.rm_portal_gun.npc.name.cosmetic_rick": "Kosmetischer Rick",
     "entity.alien-packs.rm_portal_gun.npc.name.shady_rick": "Zwielichtiger Rick",
-    "entity.alien-packs.rm_portal_gun.npc.display_stand.name.datapackby": "Datapack & Modele von",
+    "entity.alien-packs.rm_portal_gun.npc.display_stand.name.datapackby": "Datapack & Modelle von",
     "entity.alien-packs.rm_portal_gun.npc.display_stand.name.mapby": "Map von",
+    "entity.alien-packs.rm_portal_gun.npc.display_stand.name.additional_textures": "Zusätzliche Texturen/Modelle von",
 
 
     "advancements.alien-packs.base.tutorial.root.title": "\u00a7aAlien\u00a75-\u00a76Packs \u00a7e[Tutorial Tab]",
