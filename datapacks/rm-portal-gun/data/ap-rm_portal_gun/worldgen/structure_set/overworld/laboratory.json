@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "ap-rm_portal_gun:overworld/laboratory",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 2039479335,
+    "spacing": 150,
+    "separation": 60
+  }
+}
