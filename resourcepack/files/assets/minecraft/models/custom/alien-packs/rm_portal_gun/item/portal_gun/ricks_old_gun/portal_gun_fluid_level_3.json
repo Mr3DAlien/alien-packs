@@ -3,7 +3,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_old_gun/deactivated",
-		"1": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_old_gun/portal_fluid_level",
+		"1": "custom/alien-packs/rm_portal_gun/item/portal_gun/portal_fluid_level",
 		"particle": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_old_gun/deactivated"
 	},
 	"elements": [
