@@ -1,23 +1,26 @@
 {
-    "pools": [
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 11
+      },
+      "entries": [
         {
-            "rolls": {
-                "min": 1,
-                "max": 11
+          "type": "minecraft:item",
+          "name": "minecraft:stone",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{RMPortalSelectItem:1b}"
             },
-            "entries": [
-                {
-                    "type": "item",
-                    "weight": 1,
-                    "name": "minecraft:stone",
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": 0
-                        }
-                    ]
-                }
-            ]
+            {
+              "function": "minecraft:set_count",
+              "count": 0
+            }
+          ]
         }
-    ]
+      ]
+    }
+  ]
 }
