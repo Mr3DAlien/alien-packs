@@ -4,7 +4,7 @@ execute unless block ~ ~ ~ #ap-rm_portal_gun:unbreakable_blocks run setblock ~ ~
 execute unless block ~ ~1 ~ #ap-rm_portal_gun:unbreakable_blocks run setblock ~ ~1 ~ minecraft:air destroy
 # Teleports the player in the dimension
 tp @s ~ ~ ~
-# Removes the forceloaded chunk again
-forceload remove ~ ~
+# Removes the forceloaded chunk again when the player score matches 2
+execute if score @s ap-rm_chunk_loading matches 2 run forceload remove ~ ~
 # Resets the players chunk loading score
 scoreboard players reset @s ap-rm_chunk_loading
