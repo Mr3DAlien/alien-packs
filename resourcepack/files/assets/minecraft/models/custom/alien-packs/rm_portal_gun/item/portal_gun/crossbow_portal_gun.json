@@ -2,7 +2,7 @@
 	"credit": "Made by Mr3DAlien using Blockbench",
 	"textures": {
 		"0": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_gun/deactivated",
-		"1": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_gun/portal_fluid_level",
+		"1": "custom/alien-packs/rm_portal_gun/item/portal_gun/portal_fluid_level",
 		"particle": "custom/alien-packs/rm_portal_gun/item/portal_gun/ricks_gun/deactivated"
 	},
 	"elements": [
