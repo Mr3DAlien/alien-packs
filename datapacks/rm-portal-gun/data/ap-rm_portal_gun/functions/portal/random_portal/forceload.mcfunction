@@ -1,3 +1,5 @@
+# Gives the player levitation so he stays in the air when being teleported
+effect give @s minecraft:levitation 999999 255 true
 # Tests if the chunk in the dimension is loaded
 execute store success score @s ap-rm_chunk_loading run forceload query ~ ~
 # If the chunk is not loaded it loads the chunk and sets the players score to 2

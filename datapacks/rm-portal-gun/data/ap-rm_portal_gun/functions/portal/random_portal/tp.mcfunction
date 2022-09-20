@@ -8,3 +8,5 @@ execute if score @s ap-rm_chunk_loading matches 2 run forceload remove ~ ~
 scoreboard players reset @s ap-rm_chunk_loading
 # Teleports the player in the dimension
 tp @s ~ ~ ~
+# Clears the levitation effect
+effect clear @s minecraft:levitation
