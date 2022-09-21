@@ -1,18 +1,18 @@
 execute in ap-rm_portal_gun:rick_council run forceload add 0 0
 
-scoreboard objectives add ap-rm_portal_click minecraft.used:minecraft.warped_fungus_on_a_stick
-scoreboard objectives add ap-rm_use_spawn_egg minecraft.used:minecraft.bat_spawn_egg
-scoreboard objectives add ap-rm_sleeping minecraft.custom:minecraft.sleep_in_bed
-scoreboard objectives add ap-rm_spawnX dummy
-scoreboard objectives add ap-rm_spawnY dummy
-scoreboard objectives add ap-rm_spawnZ dummy
-scoreboard objectives add ap-rm_portal_cooldown dummy
-scoreboard objectives add ap-rm_portal_id dummy
-scoreboard objectives add ap-rm_settings dummy
-scoreboard objectives add ap-rm_chunk_loading dummy
-scoreboard objectives add ap-rm_device_coords dummy
-scoreboard objectives add ap-rm_portal_placer dummy
-scoreboard objectives add ap-rm_doRMSpawning trigger
+scoreboard objectives add ap-rm_portal_click minecraft.used:minecraft.warped_fungus_on_a_stick {"text":"RM Item Click Detection","color":"yellow"}
+scoreboard objectives add ap-rm_use_spawn_egg minecraft.used:minecraft.bat_spawn_egg {"text":"RM Spawn Egg Click Detection","color":"yellow"}
+scoreboard objectives add ap-rm_sleeping minecraft.custom:minecraft.sleep_in_bed {"text":"RM Sleep Detection","color":"yellow"}
+scoreboard objectives add ap-rm_spawnX dummy [{"text":"RM ","color":"red"},{"text":"X ","color":"dark_red","bold":"true"},{"text":"Spawn Coords","color":"red","bold":"false"}]
+scoreboard objectives add ap-rm_spawnY dummy [{"text":"RM ","color":"red"},{"text":"Y ","color":"green","bold":"true"},{"text":"Spawn Coords","color":"red","bold":"false"}]
+scoreboard objectives add ap-rm_spawnZ dummy [{"text":"RM ","color":"red"},{"text":"Z ","color":"blue","bold":"true"},{"text":"Spawn Coords","color":"red","bold":"false"}]
+scoreboard objectives add ap-rm_portal_cooldown dummy {"text":"RM Portal Cooldowns","color":"yellow"}
+scoreboard objectives add ap-rm_portal_id dummy {"text":"RM Portal Ids","color":"yellow"}
+scoreboard objectives add ap-rm_settings dummy {"text":"RM Settings","color":"aqua"}
+scoreboard objectives add ap-rm_chunk_loading dummy {"text":"RM Chunk Loading","color":"yellow"}
+scoreboard objectives add ap-rm_device_coords dummy {"text":"RM Coords Device Coords","color":"yellow"}
+scoreboard objectives add ap-rm_portal_placer dummy {"text":"RM Portal Placer","color":"yellow"}
+scoreboard objectives add ap-rm_doRMSpawning trigger {"text":"RM Portal Spawning Trigger","color":"yellow"}
 
 scoreboard players add %rickSpawning ap-rm_settings 0
 scoreboard players add %portalFunction ap-rm_settings 0
