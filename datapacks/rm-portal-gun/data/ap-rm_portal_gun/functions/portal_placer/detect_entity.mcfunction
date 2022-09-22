@@ -10,3 +10,7 @@ execute as @s[tag=ap-rm_empty] at @s if block ~ ~ ~ minecraft:barrel{Items:[{Slo
 execute if block ~ ~-1 ~ minecraft:hopper[enabled=true] run function ap-rm_portal_gun:portal_placer/disable_hopper
 # Detects if the hopper underneath is enabled and if so calls the disable_hopper function
 execute unless block ~ ~ ~ minecraft:barrel run function ap-rm_portal_gun:portal_placer/destroy
+# Checks if there is no portal fluid in the barrel anymore and changes the texture based on that
+execute unless data block ~ ~ ~ Items[{Slot:11b}].tag.RMLiquidCapsule unless block ~ ~ ~ minecraft:barrel{Items:[{Slot:11b,tag:{RMLiquidCapsule:0b}}]} run data modify entity @s[nbt={Item:{tag:{CustomModelData:6}}}] Item.tag.CustomModelData set value 9
+execute if block ~ ~ ~ minecraft:barrel{Items:[{Slot:11b,tag:{RMLiquidCapsule:0b}}]} run data modify entity @s[nbt={Item:{tag:{CustomModelData:6}}}] Item.tag.CustomModelData set value 9
+execute if data block ~ ~ ~ Items[{Slot:11b}].tag.RMLiquidCapsule unless block ~ ~ ~ minecraft:barrel{Items:[{Slot:11b,tag:{RMLiquidCapsule:0b}}]} run data modify entity @s Item.tag.CustomModelData set value 6
