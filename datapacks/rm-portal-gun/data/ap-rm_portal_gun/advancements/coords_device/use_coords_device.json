@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:warped_fungus_on_a_stick",
+      "nbt": "{CustomModelData:25,Enchantments:[{id:999999}]}"
+    },
+    "title": {
+      "translate": "advancements.alien-packs.rm_portal_gun.use_coords_device.title"
+    },
+    "description": {
+      "translate": "advancements.alien-packs.rm_portal_gun.use_coords_device.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "ap-rm_portal_gun:coords_device/repair_coords_device",
+  "criteria": {
+    "use_coords_device": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "use_coords_device"
+    ]
+  ]
+}
