@@ -160,6 +160,19 @@
         ]
       }
     },
+    "get_the_abyss_globe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:snowball"
+            ],
+            "nbt": "{RMGlobe:11}"
+          }
+        ]
+      }
+    },
     "get_the_nether_globe": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -226,6 +239,9 @@
     ],
     [
       "get_the_end_globe"
+    ],
+    [
+      "get_the_abyss_globe"
     ]
   ]
 }

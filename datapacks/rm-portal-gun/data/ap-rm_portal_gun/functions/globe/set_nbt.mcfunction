@@ -10,6 +10,7 @@ execute if predicate ap-rm_portal_gun:dimension_check/in_doopidoo_dimension run 
 execute if predicate ap-rm_portal_gun:dimension_check/in_hell_world run data merge entity @s {Item:{tag:{CustomModelData:11,RMGlobe:9,display:{Lore:['[{"translate":"item.alien-packs.rm_portal_gun.dimension_globe.description.hell_world"}]']}}}}
 execute if predicate ap-rm_portal_gun:dimension_check/in_warped_world run data merge entity @s {Item:{tag:{CustomModelData:12,RMGlobe:10,display:{Lore:['[{"translate":"item.alien-packs.rm_portal_gun.dimension_globe.description.warped_world"}]']}}}}
 execute if predicate ap-rm_portal_gun:dimension_check/in_village_world run data merge entity @s {Item:{tag:{CustomModelData:13,RMGlobe:11,display:{Lore:['[{"translate":"item.alien-packs.rm_portal_gun.dimension_globe.description.village_world"}]']}}}}
+execute if predicate ap-rm_portal_gun:dimension_check/in_the_abyss run data merge entity @s {Item:{tag:{CustomModelData:14,RMGlobe:12,display:{Lore:['[{"translate":"item.alien-packs.rm_portal_gun.dimension_globe.description.the_abyss"}]']}}}}
 
 execute if predicate ap-rm_portal_gun:dimension_check/in_the_nether run data merge entity @s {Item:{tag:{CustomModelData:12,RMGlobe:999998,display:{Lore:['[{"translate":"item.alien-packs.rm_portal_gun.dimension_globe.description.the_nether"}]']}}}}
 execute if predicate ap-rm_portal_gun:dimension_check/in_the_end run data merge entity @s {Item:{tag:{CustomModelData:13,RMGlobe:999999,display:{Lore:['[{"translate":"item.alien-packs.rm_portal_gun.dimension_globe.description.the_end"}]']}}}}

@@ -12,6 +12,7 @@ execute if score @s ap-rm_portal_id matches 8 in ap-rm_portal_gun:doopidoo_dimen
 execute if score @s ap-rm_portal_id matches 9 in ap-rm_portal_gun:hell_world run function ap-rm_portal_gun:portal/random_portal/forceload 
 execute if score @s ap-rm_portal_id matches 10 in ap-rm_portal_gun:warped_world run function ap-rm_portal_gun:portal/random_portal/forceload 
 execute if score @s ap-rm_portal_id matches 11 in ap-rm_portal_gun:village_world run function ap-rm_portal_gun:portal/random_portal/forceload 
+execute if score @s ap-rm_portal_id matches 12 in ap-rm_portal_gun:the_abyss run function ap-rm_portal_gun:portal/random_portal/forceload 
 
 execute if score @s ap-rm_portal_id matches 999998 in minecraft:the_nether run function ap-rm_portal_gun:portal/random_portal/forceload 
 execute if score @s ap-rm_portal_id matches 999999 in minecraft:the_end run function ap-rm_portal_gun:portal/random_portal/forceload 

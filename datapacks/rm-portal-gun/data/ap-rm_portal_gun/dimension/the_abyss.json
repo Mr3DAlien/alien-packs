@@ -1,0 +1,36 @@
+{
+  "type": "ap-rm_portal_gun:the_abyss",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "minecraft:overworld",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "biomes": [
+        {
+          "biome": "minecraft:desert",
+          "parameters": {
+            "temperature": 2,
+            "humidity": 2,
+            "continentalness": 0.1,
+            "erosion": 1,
+            "weirdness": 1,
+            "depth": 1,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "ap-rm_portal_gun:the_abyss",
+          "parameters": {
+            "temperature": 1,
+            "humidity": 1,
+            "continentalness": 0.2,
+            "erosion": 1,
+            "weirdness": 1,
+            "depth": 1,
+            "offset": 0
+          }
+        }
+      ]
+    }
+  }
+}
