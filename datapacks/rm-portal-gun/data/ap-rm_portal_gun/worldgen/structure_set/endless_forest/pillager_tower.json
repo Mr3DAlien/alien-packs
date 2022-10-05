@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "ap-rm_portal_gun:endless_forest/pillager_tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 413714800,
+    "spacing": 30,
+    "separation": 15
+  }
+}

@@ -1,0 +1,70 @@
+{
+    "pools": [
+      {
+        "rolls": {
+          "min": 10,
+          "max": 15
+        },
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 20,
+            "name": "minecraft:paper"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 5,
+            "name": "minecraft:book"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 15,
+            "name": "minecraft:emerald"
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:empty",
+            "weight": 20
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 15,
+            "name": "minecraft:iron_axe"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "name": "minecraft:iron_axe",
+            "functions": [
+              {
+                "function": "minecraft:enchant_with_levels",
+                "levels": {
+                  "min": 10,
+                  "max": 30
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:empty",
+            "weight": 4
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "name": "minecraft:totem_of_undying"
+          }
+        ]
+      }
+    ]
+  }
+  
