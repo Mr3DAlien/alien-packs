@@ -1,7 +1,18 @@
-Rick & Morty Portal Gun Datapack:
+Rick & Morty Portal Gun Resources:
     @Lucuma
         -Capsule Filler Texture
         -Liquid Filler Texture/Model
         -Portal Placer Texture/Model
-    @dogebuilds
-        -Council of Ricks Build
+    @BartTheBart
+        -At the End of the Day Music
+        -Foreign Fields Music
+        -House of Madness Music
+        -Howling Peaks Music
+        -Lost in the Halls Music
+        -Shivers Music
+        -Strange Occurances Music
+        -That Day Music
+        -The Bliss of the Past Music
+        -The Source Music
+        -Toybox Music
+        -What could have been Music
