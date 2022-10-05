@@ -9,7 +9,13 @@
       "water_color": 16579836,
       "water_fog_color": 16579836,
       "grass_color": 16579836,
-      "foliage_color": 16579836
+      "foliage_color": 16579836,
+      "music": {
+        "sound": "minecraft:custom.alien-packs.rm_portal_gun.music.the_bliss_of_the_past",
+        "min_delay": 12000,
+        "max_delay": 24000,
+        "replace_current_music": false
+      }
     },
     "spawners": {},
     "spawn_costs": {},

@@ -17,7 +17,7 @@
       "offset": 2
     },
     "music": {
-      "sound": "minecraft:music.overworld.jungle_and_forest",
+      "sound": "minecraft:custom.alien-packs.rm_portal_gun.music.what_could_have_been",
       "min_delay": 12000,
       "max_delay": 24000,
       "replace_current_music": false

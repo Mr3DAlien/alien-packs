@@ -8,7 +8,13 @@
     "water_color": 5961968,
     "water_fog_color": 2356715,
     "grass_color": 7464009,
-    "foliage_color": 7793711
+    "foliage_color": 7793711,
+    "music": {
+      "sound": "minecraft:custom.alien-packs.rm_portal_gun.music.the_source",
+      "min_delay": 12000,
+      "max_delay": 24000,
+      "replace_current_music": false
+    }
   },
   "spawners": {
     "creature": [
