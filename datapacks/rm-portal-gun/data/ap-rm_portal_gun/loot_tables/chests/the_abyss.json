@@ -1,0 +1,64 @@
+{
+    "pools": [
+      {
+        "rolls": {
+          "min": 8,
+          "max": 16
+        },
+        "bonus_rolls": 0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 6,
+            "name": "minecraft:coal"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 12,
+            "name": "minecraft:bone"
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:empty",
+            "weight": 8
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 16,
+            "name": "minecraft:stone_sword",
+            "functions": [
+              {
+                "function": "minecraft:enchant_with_levels",
+                "levels": {
+                  "min": 10,
+                  "max": 30
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rolls": {
+          "min": 1,
+          "max": 2
+        },
+        "entries": [
+          {
+            "type": "minecraft:empty",
+            "weight": 40
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 50,
+            "name": "minecraft:wither_skeleton_skull"
+          }
+        ]
+      }
+    ]
+  }
+  
