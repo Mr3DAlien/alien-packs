@@ -1,5 +1,5 @@
 # Stops the sound if no music disc is in the jukebox
-execute as @s[nbt={data:{CJIsPlaying:1b}}] run stopsound @a[distance=..66] record minecraft:custom.alien-packs.rm_portal_gun.music.strange_occurances
+execute as @s[nbt={data:{CJIsPlaying:1b}}] run stopsound @a[distance=..66] record minecraft:custom.alien-packs.rm_portal_gun.music.strange_occurance
 execute as @s[nbt={data:{CJIsPlaying:2b}}] run stopsound @a[distance=..66] record minecraft:custom.alien-packs.rm_portal_gun.music.toybox
 execute as @s[nbt={data:{CJIsPlaying:3b}}] run stopsound @a[distance=..66] record minecraft:custom.alien-packs.rm_portal_gun.music.shivers
 execute as @s[nbt={data:{CJIsPlaying:4b}}] run stopsound @a[distance=..66] record minecraft:custom.alien-packs.rm_portal_gun.music.at_the_end_of_the_day

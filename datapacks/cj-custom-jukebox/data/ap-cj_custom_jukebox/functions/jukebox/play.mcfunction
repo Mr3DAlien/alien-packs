@@ -2,7 +2,7 @@
 stopsound @a[distance=..66] record minecraft:music_disc.11
 
 # This is where the Music goes
-execute if block ~ ~ ~ minecraft:jukebox{RecordItem:{tag:{CJDisc:1b}}} run playsound minecraft:custom.alien-packs.rm_portal_gun.music.strange_occurances record @a[distance=..66]
+execute if block ~ ~ ~ minecraft:jukebox{RecordItem:{tag:{CJDisc:1b}}} run playsound minecraft:custom.alien-packs.rm_portal_gun.music.strange_occurance record @a[distance=..66]
 execute if block ~ ~ ~ minecraft:jukebox{RecordItem:{tag:{CJDisc:2b}}} run playsound minecraft:custom.alien-packs.rm_portal_gun.music.toybox record @a[distance=..66]
 execute if block ~ ~ ~ minecraft:jukebox{RecordItem:{tag:{CJDisc:3b}}} run playsound minecraft:custom.alien-packs.rm_portal_gun.music.shivers record @a[distance=..66]
 execute if block ~ ~ ~ minecraft:jukebox{RecordItem:{tag:{CJDisc:4b}}} run playsound minecraft:custom.alien-packs.rm_portal_gun.music.at_the_end_of_the_day record @a[distance=..66]

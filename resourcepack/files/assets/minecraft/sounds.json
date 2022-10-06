@@ -224,12 +224,12 @@
             }
         ]
     },
-    "custom.alien-packs.rm_portal_gun.music.strange_occurances": {
+    "custom.alien-packs.rm_portal_gun.music.strange_occurance": {
         "subtitle": "Strange Occurance Music - by BartTheBart",
         "replace": true,
         "sounds": [
             {
-                "name": "custom/alien-packs/rm_portal_gun/music/strange_occurances",
+                "name": "custom/alien-packs/rm_portal_gun/music/strange_occurance",
                 "volume": 1,
                 "weight": 1,
                 "pitch": 1,

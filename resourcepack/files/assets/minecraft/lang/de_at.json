@@ -122,6 +122,10 @@
     "advancements.alien-packs.rm_portal_gun.get_all_dimension_globes.description": "Samml olle Dimensions Kugln",
 
 
+    "advancements.alien-packs.cj_custom_jukebox.root.title": "\u00a76Custom Jukebox",
+    "advancements.alien-packs.cj_custom_jukebox.root.description": "Samml olle Schoiplottn vo \u00a72\"Mr3DAlien's Alien-Packs\" \u00a7aSerie",
+
+
     "commands.alien-packs.rm_portal_gun.reload_message": "\u00a7aR&M \u00a76Portal-Gun\u00a7b nei glodn!",
     "commands.alien-packs.rm_portal_gun.deinstall_message": "\u00a7aR&M \u00a76Portal-Gun\u00a74 De-Installiert!",
     "commands.alien-packs.rm_portal_gun.coords_saved": "Koordinatn gspeichert!",

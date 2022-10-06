@@ -121,6 +121,9 @@
     "advancements.alien-packs.rm_portal_gun.get_all_dimension_globes.title": "All around the Dimensions",
     "advancements.alien-packs.rm_portal_gun.get_all_dimension_globes.description": "Collect every Dimension in a Globe",
 
+    "advancements.alien-packs.cj_custom_jukebox.root.title": "\u00a76Custom Jukebox",
+    "advancements.alien-packs.cj_custom_jukebox.root.description": "Collect all Music Discs from the \u00a72\"Mr3DAlien's Alien-Packs\" \u00a7aSeries",
+
 
     "commands.alien-packs.rm_portal_gun.reload_message": "\u00a7aR&M \u00a76Portal-Gun\u00a7b Reloaded!",
     "commands.alien-packs.rm_portal_gun.deinstall_message": "\u00a7aR&M \u00a76Portal-Gun\u00a74 De-Installed!",
