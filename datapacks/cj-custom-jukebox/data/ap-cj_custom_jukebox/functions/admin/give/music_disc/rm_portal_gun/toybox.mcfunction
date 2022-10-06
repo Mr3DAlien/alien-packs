@@ -1,1 +1,1 @@
-give @s minecraft:music_disc_11{CJDisc:2b,CustomModelData:2,HideFlags:63s,display:{Lore:['{"text":"BartTheBart - Toybox","color":"gray","italic":"false"}']}}
+loot give @s loot ap-cj_custom_jukebox:chests/rm_portal_gun/toybox

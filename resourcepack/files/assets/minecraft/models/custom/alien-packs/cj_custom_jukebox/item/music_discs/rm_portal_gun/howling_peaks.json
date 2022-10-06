@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:custom/alien-packs/cj_custom_jukebox/item/music_discs/rm_portal_gun/howling_peaks"
+  }
+}

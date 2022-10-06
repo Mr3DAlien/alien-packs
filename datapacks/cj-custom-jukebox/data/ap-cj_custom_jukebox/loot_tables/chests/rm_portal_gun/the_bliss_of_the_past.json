@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CJDisc: 10b, HideFlags: 63s, display: {Lore: ['{\"text\":\"BartTheBart - The Bliss of the Past\",\"color\":\"gray\",\"italic\":\"false\"}']}, CustomModelData: 10}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
