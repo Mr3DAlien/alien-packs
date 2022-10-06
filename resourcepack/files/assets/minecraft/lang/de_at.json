@@ -124,6 +124,10 @@
 
     "commands.alien-packs.rm_portal_gun.reload_message": "\u00a7aR&M \u00a76Portal-Gun\u00a7b nei glodn!",
     "commands.alien-packs.rm_portal_gun.deinstall_message": "\u00a7aR&M \u00a76Portal-Gun\u00a74 De-Installiert!",
-    "commands.alien-packs.rm_portal_gun.coords_saved": "Koordinatn gspeichert!"
+    "commands.alien-packs.rm_portal_gun.coords_saved": "Koordinatn gspeichert!",
+
+    "commands.alien-packs.cj_custom_jukebox.reload_message": "\u00a76Custom Jukebox\u00a7b nei glodn!",
+    "commands.alien-packs.cj_custom_jukebox.deinstall_message": "\u00a76Custom Jukebox\u00a74 De-Installiert!"
+
 
 }

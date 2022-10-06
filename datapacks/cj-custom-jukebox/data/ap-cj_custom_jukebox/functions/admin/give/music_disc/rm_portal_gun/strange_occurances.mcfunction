@@ -1,0 +1,1 @@
+give @s minecraft:music_disc_11{CJDisc:1b,CustomModelData:1,HideFlags:63s,display:{Lore:['{"text":"BartTheBart - Strange Occurance","color":"gray","italic":"false"}']}}

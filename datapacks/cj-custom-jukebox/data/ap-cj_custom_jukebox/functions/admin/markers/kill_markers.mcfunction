@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:marker] if data entity @s data.CJMarker run kill @s
