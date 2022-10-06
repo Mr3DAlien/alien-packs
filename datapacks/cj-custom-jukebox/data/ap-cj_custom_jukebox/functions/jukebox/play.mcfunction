@@ -1,5 +1,3 @@
-# Changes the value of IsPlaying to true
-data modify entity @s data.CJIsPlaying set value 1b
 # Stops the original music disc
 stopsound @a[distance=..66] record minecraft:music_disc.11
 
@@ -30,3 +28,6 @@ execute if block ~ ~ ~ minecraft:jukebox{RecordItem:{tag:{CJDisc:9b}}} run title
 execute if block ~ ~ ~ minecraft:jukebox{RecordItem:{tag:{CJDisc:10b}}} run title @a[distance=..66] actionbar [{"translate":"record.nowPlaying","color":"white"},{"text":" BartTheBart - The Bliss of the Past","color":"gold"}]
 execute if block ~ ~ ~ minecraft:jukebox{RecordItem:{tag:{CJDisc:11b}}} run title @a[distance=..66] actionbar [{"translate":"record.nowPlaying","color":"white"},{"text":" BartTheBart - The Source","color":"gold"}]
 execute if block ~ ~ ~ minecraft:jukebox{RecordItem:{tag:{CJDisc:12b}}} run title @a[distance=..66] actionbar [{"translate":"record.nowPlaying","color":"white"},{"text":" BartTheBart - What could have been","color":"gold"}]
+
+# Stores the Disc value in the IsPlaying value to later check which song has to be stopped 
+data modify entity @s data.CJIsPlaying set from block ~ ~ ~ RecordItem.tag.CJDisc
