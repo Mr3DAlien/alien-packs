@@ -9,7 +9,7 @@
             "functions": [
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{CJDisc: 4b, HideFlags: 63s, display: {Lore: ['{\"text\":\"BartTheBart - At the End of the Day\",\"color\":\"gray\",\"italic\":\"false\"}']}, CustomModelData: 4}"
+                "tag": "{CJDisc: 4b, HideFlags: 63, display: {Lore: ['{\"text\":\"BartTheBart - At the End of the Day\",\"color\":\"gray\",\"italic\":false}']}, CustomModelData: 4}"
               }
             ]
           }

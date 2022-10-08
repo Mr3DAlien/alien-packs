@@ -9,7 +9,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CJDisc: 8b, HideFlags: 63s, display: {Lore: ['{\"text\":\"BartTheBart - Lost in the Halls\",\"color\":\"gray\",\"italic\":\"false\"}']}, CustomModelData: 8}"
+              "tag": "{CJDisc: 8b, HideFlags: 63, display: {Lore: ['{\"text\":\"BartTheBart - Lost in the Halls\",\"color\":\"gray\",\"italic\":false}']}, CustomModelData: 8}"
             }
           ]
         }
