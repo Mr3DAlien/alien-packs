@@ -1,1 +1,1 @@
-give @s minecraft:iron_helmet{CustomModelData:1,HideFlags:63s,Unbreakable:1b,RepairCost:999999,display:{Name:'{"translate":"item.alien-packs.rm_portal_gun.ricks_hair.name","italic":"false","color":"yellow"}'}}
+give @s minecraft:iron_helmet{CustomModelData:1,HideFlags:63,Unbreakable:1b,RepairCost:999999,display:{Name:'{"translate":"item.alien-packs.rm_portal_gun.ricks_hair.name","italic":false,"color":"yellow"}'}}

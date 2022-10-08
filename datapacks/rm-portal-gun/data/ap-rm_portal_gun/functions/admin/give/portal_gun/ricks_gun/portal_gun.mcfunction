@@ -1,2 +1,2 @@
 
-give @s minecraft:warped_fungus_on_a_stick{Unbreakable:1b,RMPortalGun:1b,RMFuelLevel:3b,RMTexture:1b,HideFlags:63s,RepairCost:999999,CustomModelData:14,display:{Name:'{"translate":"item.alien-packs.rm_portal_gun.portal_gun.name"}',Lore:['{"translate":"item.alien-packs.rm_portal_gun.portal_gun.description.random"}']}}
+give @s minecraft:warped_fungus_on_a_stick{Unbreakable:1b,RMPortalGun:1b,RMFuelLevel:3b,RMTexture:1b,HideFlags:63,RepairCost:999999,CustomModelData:14,display:{Name:'{"translate":"item.alien-packs.rm_portal_gun.portal_gun.name"}',Lore:['{"translate":"item.alien-packs.rm_portal_gun.portal_gun.description.random"}']}}

@@ -1,2 +1,2 @@
 
-give @s minecraft:diamond_sword{RMLiquidCapsule:3b,Unbreakable:1b,HideFlags:63s,RepairCost:999999,CustomModelData:5,display:{Name:'{"translate":"item.alien-packs.rm_portal_gun.liquid_capsule.name"}',Lore:['{"translate":"item.alien-packs.rm_portal_gun.liquid_capsule.description.portal_fluid"}']},AttributeModifiers:[{}]}
+give @s minecraft:diamond_sword{RMLiquidCapsule:3b,Unbreakable:1b,HideFlags:63,RepairCost:999999,CustomModelData:5,display:{Name:'{"translate":"item.alien-packs.rm_portal_gun.liquid_capsule.name"}',Lore:['{"translate":"item.alien-packs.rm_portal_gun.liquid_capsule.description.portal_fluid"}']},AttributeModifiers:[{}]}
