@@ -9,7 +9,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CJDisc: 6b, HideFlags: 63s, display: {Lore: ['{\"text\":\"BartTheBart - House of Madness\",\"color\":\"gray\",\"italic\":\"false\"}']}, CustomModelData: 6}"
+              "tag": "{CJDisc: 6b, HideFlags: 63, display: {Lore: ['{\"text\":\"BartTheBart - House of Madness\",\"color\":\"gray\",\"italic\":false}']}, CustomModelData: 6}"
             }
           ]
         }

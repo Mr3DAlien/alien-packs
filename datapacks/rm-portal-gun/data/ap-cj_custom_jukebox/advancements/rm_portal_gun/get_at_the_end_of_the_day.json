@@ -2,22 +2,22 @@
   "display": {
     "icon": {
       "item": "minecraft:music_disc_11",
-      "nbt": "{CustomModelData:10}"
+      "nbt": "{CustomModelData:4}"
     },
     "title": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.get_the_bliss_of_the_past.title"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_at_the_end_of_the_day.title"
     },
     "description": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.get_the_bliss_of_the_past.description"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_at_the_end_of_the_day.description"
     },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "ap-cj_custom_jukebox:rm_portal_gun/get_that_day",
+  "parent": "ap-cj_custom_jukebox:rm_portal_gun/get_shivers",
   "criteria": {
-    "get_the_bliss_of_the_past": {
+    "get_at_the_end_of_the_day": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -25,7 +25,7 @@
             "items": [
               "minecraft:music_disc_11"
             ],
-            "nbt": "{CJDisc:10b}"
+            "nbt": "{CJDisc:4b}"
           }
         ]
       }
@@ -33,7 +33,7 @@
   },
   "requirements": [
     [
-      "get_the_bliss_of_the_past"
+      "get_at_the_end_of_the_day"
     ]
   ]
 }

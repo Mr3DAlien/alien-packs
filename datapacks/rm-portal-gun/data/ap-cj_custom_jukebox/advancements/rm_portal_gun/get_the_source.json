@@ -2,22 +2,22 @@
   "display": {
     "icon": {
       "item": "minecraft:music_disc_11",
-      "nbt": "{CustomModelData:3}"
+      "nbt": "{CustomModelData:11}"
     },
     "title": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.get_shivers.title"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_the_source.title"
     },
     "description": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.get_shivers.description"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_the_source.description"
     },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "ap-cj_custom_jukebox:rm_portal_gun/get_toybox",
+  "parent": "ap-cj_custom_jukebox:rm_portal_gun/get_the_bliss_of_the_past",
   "criteria": {
-    "get_shivers": {
+    "get_the_source": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -25,7 +25,7 @@
             "items": [
               "minecraft:music_disc_11"
             ],
-            "nbt": "{CJDisc:3b}"
+            "nbt": "{CJDisc:11b}"
           }
         ]
       }
@@ -33,7 +33,7 @@
   },
   "requirements": [
     [
-      "get_shivers"
+      "get_the_source"
     ]
   ]
 }

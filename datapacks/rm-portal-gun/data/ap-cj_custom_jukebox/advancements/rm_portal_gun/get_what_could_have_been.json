@@ -2,22 +2,22 @@
   "display": {
     "icon": {
       "item": "minecraft:music_disc_11",
-      "nbt": "{CustomModelData:9}"
+      "nbt": "{CustomModelData:12}"
     },
     "title": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.get_that_day.title"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_what_could_have_been.title"
     },
     "description": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.get_that_day.description"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_what_could_have_been.description"
     },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "ap-cj_custom_jukebox:rm_portal_gun/get_lost_in_the_halls",
+  "parent": "ap-cj_custom_jukebox:rm_portal_gun/get_the_source",
   "criteria": {
-    "get_that_day": {
+    "get_what_could_have_been": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -25,7 +25,7 @@
             "items": [
               "minecraft:music_disc_11"
             ],
-            "nbt": "{CJDisc:9b}"
+            "nbt": "{CJDisc:12b}"
           }
         ]
       }
@@ -33,7 +33,7 @@
   },
   "requirements": [
     [
-      "get_that_day"
+      "get_what_could_have_been"
     ]
   ]
 }

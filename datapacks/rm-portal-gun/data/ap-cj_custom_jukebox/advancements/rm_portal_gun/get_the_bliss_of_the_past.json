@@ -2,22 +2,22 @@
   "display": {
     "icon": {
       "item": "minecraft:music_disc_11",
-      "nbt": "{CustomModelData:12}"
+      "nbt": "{CustomModelData:10}"
     },
     "title": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.get_what_could_have_been.title"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_the_bliss_of_the_past.title"
     },
     "description": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.get_what_could_have_been.description"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_the_bliss_of_the_past.description"
     },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "ap-cj_custom_jukebox:rm_portal_gun/get_the_source",
+  "parent": "ap-cj_custom_jukebox:rm_portal_gun/get_that_day",
   "criteria": {
-    "get_what_could_have_been": {
+    "get_the_bliss_of_the_past": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -25,7 +25,7 @@
             "items": [
               "minecraft:music_disc_11"
             ],
-            "nbt": "{CJDisc:12b}"
+            "nbt": "{CJDisc:10b}"
           }
         ]
       }
@@ -33,7 +33,7 @@
   },
   "requirements": [
     [
-      "get_what_could_have_been"
+      "get_the_bliss_of_the_past"
     ]
   ]
 }

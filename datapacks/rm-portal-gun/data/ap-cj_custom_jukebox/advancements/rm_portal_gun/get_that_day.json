@@ -2,22 +2,22 @@
   "display": {
     "icon": {
       "item": "minecraft:music_disc_11",
-      "nbt": "{CustomModelData:7}"
+      "nbt": "{CustomModelData:9}"
     },
     "title": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.get_howling_peaks.title"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_that_day.title"
     },
     "description": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.get_howling_peaks.description"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_that_day.description"
     },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "ap-cj_custom_jukebox:rm_portal_gun/get_house_of_madness",
+  "parent": "ap-cj_custom_jukebox:rm_portal_gun/get_lost_in_the_halls",
   "criteria": {
-    "get_howling_peaks": {
+    "get_that_day": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -25,7 +25,7 @@
             "items": [
               "minecraft:music_disc_11"
             ],
-            "nbt": "{CJDisc:7b}"
+            "nbt": "{CJDisc:9b}"
           }
         ]
       }
@@ -33,7 +33,7 @@
   },
   "requirements": [
     [
-      "get_howling_peaks"
+      "get_that_day"
     ]
   ]
 }

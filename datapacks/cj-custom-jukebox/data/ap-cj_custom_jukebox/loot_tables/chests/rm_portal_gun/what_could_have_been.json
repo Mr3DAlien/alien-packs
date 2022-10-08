@@ -9,7 +9,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CJDisc: 12b, HideFlags: 63s, display: {Lore: ['{\"text\":\"BartTheBart - What could have been\",\"color\":\"gray\",\"italic\":\"false\"}']}, CustomModelData: 12}"
+              "tag": "{CJDisc: 12b, HideFlags: 63, display: {Lore: ['{\"text\":\"BartTheBart - What could have been\",\"color\":\"gray\",\"italic\":false}']}, CustomModelData: 12}"
             }
           ]
         }

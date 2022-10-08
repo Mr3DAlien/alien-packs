@@ -9,7 +9,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CJDisc: 7b, HideFlags: 63s, display: {Lore: ['{\"text\":\"BartTheBart - Howling Peaks\",\"color\":\"gray\",\"italic\":\"false\"}']}, CustomModelData: 7}"
+              "tag": "{CJDisc: 7b, HideFlags: 63, display: {Lore: ['{\"text\":\"BartTheBart - Howling Peaks\",\"color\":\"gray\",\"italic\":false}']}, CustomModelData: 7}"
             }
           ]
         }

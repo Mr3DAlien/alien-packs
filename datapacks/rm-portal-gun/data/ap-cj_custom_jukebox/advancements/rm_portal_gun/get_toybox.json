@@ -2,22 +2,22 @@
   "display": {
     "icon": {
       "item": "minecraft:music_disc_11",
-      "nbt": "{CustomModelData:4}"
+      "nbt": "{CustomModelData:2}"
     },
     "title": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.get_at_the_end_of_the_day.title"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_toybox.title"
     },
     "description": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.get_at_the_end_of_the_day.description"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_toybox.description"
     },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "ap-cj_custom_jukebox:rm_portal_gun/get_shivers",
+  "parent": "ap-cj_custom_jukebox:rm_portal_gun/get_strange_occurance",
   "criteria": {
-    "get_at_the_end_of_the_day": {
+    "get_toybox": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -25,7 +25,7 @@
             "items": [
               "minecraft:music_disc_11"
             ],
-            "nbt": "{CJDisc:4b}"
+            "nbt": "{CJDisc:2b}"
           }
         ]
       }
@@ -33,7 +33,7 @@
   },
   "requirements": [
     [
-      "get_at_the_end_of_the_day"
+      "get_toybox"
     ]
   ]
 }

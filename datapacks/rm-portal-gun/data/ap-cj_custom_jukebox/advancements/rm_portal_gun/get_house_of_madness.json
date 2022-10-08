@@ -2,22 +2,22 @@
   "display": {
     "icon": {
       "item": "minecraft:music_disc_11",
-      "nbt": "{CustomModelData:11}"
+      "nbt": "{CustomModelData:6}"
     },
     "title": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.get_the_source.title"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_house_of_madness.title"
     },
     "description": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.get_the_source.description"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_house_of_madness.description"
     },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "ap-cj_custom_jukebox:rm_portal_gun/get_the_bliss_of_the_past",
+  "parent": "ap-cj_custom_jukebox:rm_portal_gun/get_foreign_fields",
   "criteria": {
-    "get_the_source": {
+    "get_house_of_madness": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -25,7 +25,7 @@
             "items": [
               "minecraft:music_disc_11"
             ],
-            "nbt": "{CJDisc:11b}"
+            "nbt": "{CJDisc:6b}"
           }
         ]
       }
@@ -33,7 +33,7 @@
   },
   "requirements": [
     [
-      "get_the_source"
+      "get_house_of_madness"
     ]
   ]
 }
