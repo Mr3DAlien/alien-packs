@@ -5,10 +5,10 @@
       "nbt": "{CustomModelData:10}"
     },
     "title": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.get_the_bliss_of_the_past.title"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_the_bliss_of_the_past.title"
     },
     "description": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.get_the_bliss_of_the_past.description"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_the_bliss_of_the_past.description"
     },
     "frame": "task",
     "show_toast": true,

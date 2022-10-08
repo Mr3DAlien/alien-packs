@@ -5,10 +5,10 @@
       "nbt": "{CustomModelData:12}"
     },
     "title": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.get_what_could_have_been.title"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_what_could_have_been.title"
     },
     "description": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.get_what_could_have_been.description"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_what_could_have_been.description"
     },
     "frame": "task",
     "show_toast": true,

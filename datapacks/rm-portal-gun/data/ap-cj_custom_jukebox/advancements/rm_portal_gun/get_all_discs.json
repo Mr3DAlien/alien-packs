@@ -5,10 +5,10 @@
       "nbt": "{CustomModelData:4}"
     },
     "title": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.get_all_discs.title"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_all_discs.title"
     },
     "description": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.get_all_discs.description"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_all_discs.description"
     },
     "frame": "challenge",
     "show_toast": true,

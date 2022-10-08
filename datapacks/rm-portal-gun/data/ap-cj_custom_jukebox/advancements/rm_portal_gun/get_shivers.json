@@ -5,10 +5,10 @@
       "nbt": "{CustomModelData:3}"
     },
     "title": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.get_shivers.title"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_shivers.title"
     },
     "description": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.get_shivers.description"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_shivers.description"
     },
     "frame": "task",
     "show_toast": true,
