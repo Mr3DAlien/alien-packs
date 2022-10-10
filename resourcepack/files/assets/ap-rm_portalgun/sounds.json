@@ -313,5 +313,185 @@
                 "preload": true
             }
         ]
+    },
+    "music_disc.strange_occurance": {
+        "subtitle": "Strange Occurance Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music_disc/strange_occurance",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 66,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "music_disc.toybox": {
+        "subtitle": "Toybox Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music_disc/toybox",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 66,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "music_disc.howling_peaks": {
+        "subtitle": "Howling Peaks Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music_disc/howling_peaks",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 66,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "music_disc.foreign_fields": {
+        "subtitle": "Foreign Fields Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music_disc/foreign_fields",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 66,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "music_disc.the_bliss_of_the_past": {
+        "subtitle": "The Bliss of the Past Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music_disc/the_bliss_of_the_past",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 66,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "music_disc.house_of_madness": {
+        "subtitle": "House of Madness Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music_disc/house_of_madness",
+                "volume": 0.6,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 66,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "music_disc.at_the_end_of_the_day": {
+        "subtitle": "At the End of the Day Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music_disc/at_the_end_of_the_day",
+                "volume": 0.6,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 66,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "music_disc.shivers": {
+        "subtitle": "Shivers Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music_disc/shivers",
+                "volume": 0.6,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 66,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "music_disc.what_could_have_been": {
+        "subtitle": "What could have been Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music_disc/what_could_have_been",
+                "volume": 0.6,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 66,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "music_disc.that_day": {
+        "subtitle": "That Day Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music_disc/that_day",
+                "volume": 0.6,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 66,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "music_disc.the_source": {
+        "subtitle": "The Source Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music_disc/the_source",
+                "volume": 0.6,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 66,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "music_disc.lost_in_the_halls": {
+        "subtitle": "Lost in the Halls Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music_disc/lost_in_the_halls",
+                "volume": 0.6,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 66,
+                "stream": false,
+                "preload": false
+            }
+        ]
     }
 }

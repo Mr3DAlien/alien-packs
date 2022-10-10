@@ -56,6 +56,7 @@
     "entity.alien-packs.rm_portalgun.npc.display_stand.name.datapackby": "Datapack & Models by",
     "entity.alien-packs.rm_portalgun.npc.display_stand.name.mapby": "Map by",
     "entity.alien-packs.rm_portalgun.npc.display_stand.name.additional_textures": "Additional Textures/Models by",
+    "entity.alien-packs.rm_portalgun.npc.display_stand.name.musicby": "Music by",
 
     "advancements.alien-packs.rm_portalgun.tutorial.root.title": "\u00a7bPortal Gun",
     "advancements.alien-packs.rm_portalgun.tutorial.root.description": "The Tutorial Tab for the \u00a7b\"Portal Gun Datapack\"",

@@ -1,1 +1,0 @@
-loot give @s loot ap-cj_custom_jukebox:chests/rm_portalgun/house_of_madness

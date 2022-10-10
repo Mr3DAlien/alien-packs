@@ -69,7 +69,7 @@
         {
           "type": "minecraft:loot_table",
           "weight": 25,
-          "name": "ap-cj_custom_jukebox:chests/rm_portalgun/strange_occurance"
+          "name": "ap-cj_customjukebox:chests/rm_portalgun/strange_occurance"
         }
       ]
     }
