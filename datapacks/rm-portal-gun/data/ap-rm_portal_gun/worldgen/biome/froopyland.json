@@ -11,7 +11,7 @@
     "grass_color": 7464009,
     "foliage_color": 7793711,
     "music": {
-      "sound": "minecraft:custom.alien-packs.rm_portal_gun.music.at_the_end_of_the_day",
+      "sound": "ap-rm_portalgun:music.at_the_end_of_the_day",
       "min_delay": 12000,
       "max_delay": 24000,
       "replace_current_music": false

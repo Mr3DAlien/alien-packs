@@ -1,4 +1,4 @@
-playsound minecraft:custom.alien-packs.rm_portal_gun.break_portal_gun player @s
+playsound ap-rm_portalgun:item.portal_gun.break player @s
 playsound minecraft:block.glass.break player @a
 
 execute unless predicate ap-rm_portal_gun:portal_gun/broken_portal_gun run item modify entity @s weapon.mainhand ap-rm_portal_gun:portal_gun/ricks_gun/portal_gun/fluid_level_0

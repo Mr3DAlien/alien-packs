@@ -1,6 +1,6 @@
 
 execute unless score %portalFunction ap-rm_settings matches 1 run scoreboard players set %portalFunction ap-rm_settings 1
-playsound minecraft:custom.alien-packs.rm_portal_gun.portal_gun_activate player @a[distance=..15]
+playsound ap-rm_portalgun:entity.projectile.portal_fluid neutral @a[distance=..15]
 
 execute in ap-rm_portal_gun:rick_council positioned 0.0 0.0 0.0 run summon minecraft:marker ^ ^ ^1 {Tags:["ap-rm_marker"]}
 execute anchored eyes run particle minecraft:item diamond_hoe{CustomModelData:8} ^ ^ ^2 0.1 0.1 0.1 0.1 100

@@ -14,7 +14,7 @@
         "offset": 2
       },
       "music": {
-        "sound": "minecraft:custom.alien-packs.rm_portal_gun.music.house_of_madness",
+        "sound": "ap-rm_portalgun:music.house_of_madness",
         "min_delay": 12000,
         "max_delay": 24000,
         "replace_current_music": false

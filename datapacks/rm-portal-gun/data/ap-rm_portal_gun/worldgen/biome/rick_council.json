@@ -7,7 +7,7 @@
     "fog_color": 12638463,
     "water_color": 2729483,
     "water_fog_color": 3845124,
-    "ambient_sound": "minecraft:custom.alien-packs.rm_portal_gun.space_station"
+    "ambient_sound": "ap-rm_portalgun:ambient.space_station"
   },
   "spawners": {},
   "spawn_costs": {},
