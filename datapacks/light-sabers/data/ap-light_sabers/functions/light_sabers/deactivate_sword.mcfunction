@@ -1,6 +1,6 @@
 
-execute as @s[nbt={SelectedItem:{tag:{CustomModelData:6}}}] run playsound minecraft:custom.alien-packs.light_sabers.lightsaber_kylo_turn_off player @a[distance=..15]
-execute as @s[nbt=!{SelectedItem:{tag:{CustomModelData:6}}}] run playsound minecraft:custom.alien-packs.light_sabers.lightsaber_turn_off player @a[distance=..15]
+execute as @s[nbt={SelectedItem:{tag:{CustomModelData:6}}}] run playsound ap-ls_lightsabers:item.kylo_lightsaber.deactivate player @a[distance=..15]
+execute as @s[nbt=!{SelectedItem:{tag:{CustomModelData:6}}}] run playsound ap-ls_lightsabers:item.lightsaber.deactivate player @a[distance=..15]
 
 item modify entity @s[nbt={SelectedItem:{tag:{LightSaber:1,CustomModelData:2}}}] weapon.mainhand ap-light_sabers:custommodeldata/1
 item modify entity @s[nbt={SelectedItem:{tag:{LightSaber:1,CustomModelData:4}}}] weapon.mainhand ap-light_sabers:custommodeldata/3
