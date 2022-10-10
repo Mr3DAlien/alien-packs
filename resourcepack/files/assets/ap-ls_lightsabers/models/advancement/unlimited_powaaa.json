@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "ap-ls_lightsabers:advancement/unlimited_powaaa"
+  }
+}

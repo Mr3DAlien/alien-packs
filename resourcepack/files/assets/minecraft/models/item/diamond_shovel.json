@@ -4,8 +4,8 @@
     "layer0": "minecraft:item/diamond_shovel"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "custom/alien-packs/base/item/nothing"},
-		{ "predicate": { "custom_model_data": 2 }, "model": "custom/alien-packs/rm_portal_gun/gui/liquid_filler"},
-    { "predicate": { "custom_model_data": 3 }, "model": "custom/alien-packs/rm_portal_gun/gui/portal_placer"}
+    { "predicate": { "custom_model_data": 1 }, "model": "ap-base:item/nothing"},
+		{ "predicate": { "custom_model_data": 2 }, "model": "ap-rm_portalgun:gui/liquid_filler"},
+    { "predicate": { "custom_model_data": 3 }, "model": "ap-rm_portalgun:gui/portal_placer"}
 	]
 }

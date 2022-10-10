@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ap-rm_portalgun:item/coords_device/coords_device"
+  }
+}

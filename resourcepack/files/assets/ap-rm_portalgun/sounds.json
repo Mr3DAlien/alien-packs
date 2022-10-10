@@ -1,0 +1,317 @@
+{
+    "entity.projectile.portal_fluid": {
+        "subtitle": "Portal Projectile",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:portal_projectile",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "entity.projectile.laser_fluid": {
+        "subtitle": "Laser Projectile",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:laser_projectile",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "item.portal_gun.activate": {
+        "subtitle": "Portal Gun Activate",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:activate",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "item.portal_gun.capsule_put_in": {
+        "subtitle": "Capsule Put In Sound",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:capsule_put_in",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "ambient.space_station": {
+        "subtitle": "Space Station Ambient Sound",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:space_station",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "item.coords_device.activate": {
+        "subtitle": "Coords Device",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:coords_device_activate",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "item.coords_device.denied": {
+        "subtitle": "Coords Device Denied",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:coords_device_denied",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "item.portal_gun.break": {
+        "subtitle": "Portal Gun Breaks",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:break_portal_gun",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "music.evil_morty": {
+        "subtitle": "Evil Morty Theme",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music/evil_morty",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "music.strange_occurance": {
+        "subtitle": "Strange Occurance Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music/strange_occurance",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": true,
+                "preload": true
+            }
+        ]
+    },
+    "music.toybox": {
+        "subtitle": "Toybox Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music/toybox",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": true,
+                "preload": true
+            }
+        ]
+    },
+    "music.howling_peaks": {
+        "subtitle": "Howling Peaks Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music/howling_peaks",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": true,
+                "preload": true
+            }
+        ]
+    },
+    "music.foreign_fields": {
+        "subtitle": "Foreign Fields Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music/foreign_fields",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": true,
+                "preload": true
+            }
+        ]
+    },
+    "music.the_bliss_of_the_past": {
+        "subtitle": "The Bliss of the Past Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music/the_bliss_of_the_past",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": true,
+                "preload": true
+            }
+        ]
+    },
+    "music.house_of_madness": {
+        "subtitle": "House of Madness Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music/house_of_madness",
+                "volume": 0.6,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": true,
+                "preload": true
+            }
+        ]
+    },
+    "music.at_the_end_of_the_day": {
+        "subtitle": "At the End of the Day Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music/at_the_end_of_the_day",
+                "volume": 0.6,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": true,
+                "preload": true
+            }
+        ]
+    },
+    "music.shivers": {
+        "subtitle": "Shivers Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music/shivers",
+                "volume": 0.6,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": true,
+                "preload": true
+            }
+        ]
+    },
+    "music.what_could_have_been": {
+        "subtitle": "What could have been Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music/what_could_have_been",
+                "volume": 0.6,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": true,
+                "preload": true
+            }
+        ]
+    },
+    "music.that_day": {
+        "subtitle": "That Day Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music/that_day",
+                "volume": 0.6,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": true,
+                "preload": true
+            }
+        ]
+    },
+    "music.the_source": {
+        "subtitle": "The Source Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music/the_source",
+                "volume": 0.6,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": true,
+                "preload": true
+            }
+        ]
+    },
+    "music.lost_in_the_halls": {
+        "subtitle": "Lost in the Halls Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:music/lost_in_the_halls",
+                "volume": 0.6,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": true,
+                "preload": true
+            }
+        ]
+    }
+}

@@ -4,6 +4,6 @@
       "layer0": "minecraft:item/iron_helmet"
     },
     "overrides": [
-          { "predicate": { "custom_model_data": 1 }, "model": "custom/alien-packs/rm_portal_gun/item/ricks_hair"}
+          { "predicate": { "custom_model_data": 1 }, "model": "ap-rm_portalgun:item/ricks_hair"}
       ]
   }

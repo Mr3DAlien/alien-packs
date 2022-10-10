@@ -5,6 +5,6 @@
       "layer1": "item/potion"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "custom/alien-packs/rm_portal_gun/item/hip_flask"}
+    { "predicate": { "custom_model_data": 1 }, "model": "ap-rm_portalgun:item/hip_flask"}
   ]
 }

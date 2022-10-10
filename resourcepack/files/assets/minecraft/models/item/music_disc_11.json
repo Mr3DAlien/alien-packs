@@ -4,17 +4,17 @@
     "layer0": "minecraft:item/music_disc_11"
   },
   "overrides": [
-		{ "predicate": { "custom_model_data": 1 }, "model": "minecraft:custom/alien-packs/cj_custom_jukebox/item/music_discs/rm_portal_gun/strange_occurance"},
-    { "predicate": { "custom_model_data": 2 }, "model": "minecraft:custom/alien-packs/cj_custom_jukebox/item/music_discs/rm_portal_gun/toybox"},
-    { "predicate": { "custom_model_data": 3 }, "model": "minecraft:custom/alien-packs/cj_custom_jukebox/item/music_discs/rm_portal_gun/shivers"},
-    { "predicate": { "custom_model_data": 4 }, "model": "minecraft:custom/alien-packs/cj_custom_jukebox/item/music_discs/rm_portal_gun/at_the_end_of_the_day"},
-    { "predicate": { "custom_model_data": 5 }, "model": "minecraft:custom/alien-packs/cj_custom_jukebox/item/music_discs/rm_portal_gun/foreign_fields"},
-    { "predicate": { "custom_model_data": 6 }, "model": "minecraft:custom/alien-packs/cj_custom_jukebox/item/music_discs/rm_portal_gun/house_of_madness"},
-    { "predicate": { "custom_model_data": 7 }, "model": "minecraft:custom/alien-packs/cj_custom_jukebox/item/music_discs/rm_portal_gun/howling_peaks"},
-    { "predicate": { "custom_model_data": 8 }, "model": "minecraft:custom/alien-packs/cj_custom_jukebox/item/music_discs/rm_portal_gun/lost_in_the_halls"},
-    { "predicate": { "custom_model_data": 9 }, "model": "minecraft:custom/alien-packs/cj_custom_jukebox/item/music_discs/rm_portal_gun/that_day"},
-    { "predicate": { "custom_model_data": 10 }, "model": "minecraft:custom/alien-packs/cj_custom_jukebox/item/music_discs/rm_portal_gun/the_bliss_of_the_past"},
-    { "predicate": { "custom_model_data": 11 }, "model": "minecraft:custom/alien-packs/cj_custom_jukebox/item/music_discs/rm_portal_gun/the_source"},
-    { "predicate": { "custom_model_data": 12 }, "model": "minecraft:custom/alien-packs/cj_custom_jukebox/item/music_discs/rm_portal_gun/what_could_have_been"}
+		{ "predicate": { "custom_model_data": 1 }, "model": "ap-cj_customjukebox:rm_portalgun/item/music_disc/strange_occurance"},
+    { "predicate": { "custom_model_data": 2 }, "model": "ap-cj_customjukebox:rm_portalgun/item/music_disc/toybox"},
+    { "predicate": { "custom_model_data": 3 }, "model": "ap-cj_customjukebox:rm_portalgun/item/music_disc/shivers"},
+    { "predicate": { "custom_model_data": 4 }, "model": "ap-cj_customjukebox:rm_portalgun/item/music_disc/at_the_end_of_the_day"},
+    { "predicate": { "custom_model_data": 5 }, "model": "ap-cj_customjukebox:rm_portalgun/item/music_disc/foreign_fields"},
+    { "predicate": { "custom_model_data": 6 }, "model": "ap-cj_customjukebox:rm_portalgun/item/music_disc/house_of_madness"},
+    { "predicate": { "custom_model_data": 7 }, "model": "ap-cj_customjukebox:rm_portalgun/item/music_disc/howling_peaks"},
+    { "predicate": { "custom_model_data": 8 }, "model": "ap-cj_customjukebox:rm_portalgun/item/music_disc/lost_in_the_halls"},
+    { "predicate": { "custom_model_data": 9 }, "model": "ap-cj_customjukebox:rm_portalgun/item/music_disc/that_day"},
+    { "predicate": { "custom_model_data": 10 }, "model": "ap-cj_customjukebox:rm_portalgun/item/music_disc/the_bliss_of_the_past"},
+    { "predicate": { "custom_model_data": 11 }, "model": "ap-cj_customjukebox:rm_portalgun/item/music_disc/the_source"},
+    { "predicate": { "custom_model_data": 12 }, "model": "ap-cj_customjukebox:rm_portalgun/item/music_disc/what_could_have_been"}
 	]
 }

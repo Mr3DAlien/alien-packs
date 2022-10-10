@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ap-base:item/nothing",
+    "layer1": "ap-rm_portalgun:item/hip_flask"
+  }
+}

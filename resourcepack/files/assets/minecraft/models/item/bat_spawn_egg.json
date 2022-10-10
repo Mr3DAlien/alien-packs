@@ -2,7 +2,7 @@
   "parent": "minecraft:item/template_spawn_egg",
   
   "overrides": [
-		{ "predicate": { "custom_model_data": 1 }, "model": "custom/alien-packs/rm_portal_gun/item/capsule_filler"},
-    { "predicate": { "custom_model_data": 2 }, "model": "custom/alien-packs/rm_portal_gun/item/portal_placer"}
+		{ "predicate": { "custom_model_data": 1 }, "model": "ap-rm_portalgun:item/capsule_filler"},
+    { "predicate": { "custom_model_data": 2 }, "model": "ap-rm_portalgun:item/portal_placer"}
 	]
 }

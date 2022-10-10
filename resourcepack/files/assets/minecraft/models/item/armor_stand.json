@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/armor_stand"
   },
   "overrides": [
-		{ "predicate": { "custom_model_data": 1 }, "model": "custom/alien-packs/rm_portal_gun/block/liquid_filler"}
+		{ "predicate": { "custom_model_data": 1 }, "model": "ap-rm_portalgun:block/liquid_filler"}
 	]
 }
