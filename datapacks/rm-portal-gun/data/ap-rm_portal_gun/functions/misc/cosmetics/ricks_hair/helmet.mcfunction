@@ -1,1 +1,0 @@
-item replace entity @s armor.head with diamond_sword{CustomModelData:18,HideFlags:63,Unbreakable:1b,RepairCost:999999,display:{Name:'{"translate":"item.alien-packs.rm_portal_gun.ricks_hair.name","italic":false,"color":"yellow"}'}}

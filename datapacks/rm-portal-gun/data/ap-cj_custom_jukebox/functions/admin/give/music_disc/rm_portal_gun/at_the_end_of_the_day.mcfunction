@@ -1,1 +1,1 @@
-loot give @s loot ap-cj_custom_jukebox:chests/rm_portal_gun/at_the_end_of_the_day
+loot give @s loot ap-cj_custom_jukebox:chests/rm_portalgun/at_the_end_of_the_day

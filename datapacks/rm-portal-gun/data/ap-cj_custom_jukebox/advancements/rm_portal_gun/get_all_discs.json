@@ -5,17 +5,17 @@
       "nbt": "{CustomModelData:4}"
     },
     "title": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_all_discs.title"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portalgun.get_all_discs.title"
     },
     "description": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_all_discs.description"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portalgun.get_all_discs.description"
     },
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "ap-cj_custom_jukebox:rm_portal_gun/get_what_could_have_been",
+  "parent": "ap-cj_custom_jukebox:rm_portalgun/get_what_could_have_been",
   "criteria": {
     "get_strange_occurance": {
       "trigger": "minecraft:inventory_changed",

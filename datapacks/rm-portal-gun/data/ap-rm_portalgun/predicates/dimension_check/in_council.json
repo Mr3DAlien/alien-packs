@@ -1,0 +1,6 @@
+{
+  "condition": "minecraft:location_check",
+  "predicate": {
+    "dimension": "ap-rm_portalgun:rick_council"
+  }
+}

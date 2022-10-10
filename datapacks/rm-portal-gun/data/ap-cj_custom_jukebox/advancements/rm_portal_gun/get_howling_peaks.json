@@ -5,17 +5,17 @@
       "nbt": "{CustomModelData:7}"
     },
     "title": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_howling_peaks.title"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portalgun.get_howling_peaks.title"
     },
     "description": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_howling_peaks.description"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portalgun.get_howling_peaks.description"
     },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "ap-cj_custom_jukebox:rm_portal_gun/get_house_of_madness",
+  "parent": "ap-cj_custom_jukebox:rm_portalgun/get_house_of_madness",
   "criteria": {
     "get_howling_peaks": {
       "trigger": "minecraft:inventory_changed",

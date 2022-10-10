@@ -1,0 +1,47 @@
+{
+    "type": "minecraft:random_selector",
+    "config": {
+      "features": [
+        {
+          "chance": 0.15,
+          "feature": {
+            "feature": "ap-rm_portalgun:froopyland/fancy_froopyland_stump",
+            "placement": []
+          }
+        },
+        {
+          "chance": 0.25,
+          "feature": {
+            "feature": "ap-rm_portalgun:froopyland/fancy_froopyland_tree_05",
+            "placement": []
+          }
+        },
+        {
+          "chance": 0.25,
+          "feature": {
+            "feature": "ap-rm_portalgun:froopyland/fancy_froopyland_tree_04",
+            "placement": []
+          }
+        },
+        {
+          "chance": 0.25,
+          "feature": {
+            "feature": "ap-rm_portalgun:froopyland/fancy_froopyland_tree_03",
+            "placement": []
+          }
+        },
+        {
+          "chance": 0.25,
+          "feature": {
+            "feature": "ap-rm_portalgun:froopyland/fancy_froopyland_tree_02",
+            "placement": []
+          }
+        }
+      ],
+      "default": {
+        "feature": "ap-rm_portalgun:froopyland/fancy_froopyland_tree_01",
+        "placement": []
+      }
+    }
+  }
+  

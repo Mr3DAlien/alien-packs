@@ -1,0 +1,11 @@
+{
+  "type": "ap-rm_portalgun:glass_world",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "ap-rm_portalgun:glass_world",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "ap-rm_portalgun:glass_world"
+    }
+  }
+}

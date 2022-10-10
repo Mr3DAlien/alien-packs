@@ -1,2 +1,0 @@
-function ap-rm_portal_gun:portal_gun/ricks_old_gun/laser_gun/call
-function ap-rm_portal_gun:portal_gun/ricks_old_gun/portal_gun/call

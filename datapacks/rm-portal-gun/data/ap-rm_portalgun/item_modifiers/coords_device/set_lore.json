@@ -1,0 +1,86 @@
+[
+    {
+      "function": "minecraft:set_lore",
+      "entity": "this",
+      "lore": [
+        {
+          "translate": "item.alien-packs.rm_portalgun.coords_device.description",
+          "bold": false,
+          "italic": false,
+          "underlined": false,
+          "strikethrough": false,
+          "obfuscated": false
+        },
+        [
+          {
+            "text": "[",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "score": {
+              "name": "%X",
+              "objective": "ap-rm_device_coords"
+            },
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": ","
+          },
+          {
+            "text": ""
+          },
+          {
+            "score": {
+              "name": "%Y",
+              "objective": "ap-rm_device_coords"
+            },
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": ",",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": ""
+          },
+          {
+            "score": {
+              "name": "%Z",
+              "objective": "ap-rm_device_coords"
+            },
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "]",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          }
+        ]
+      ],
+      "replace": true
+    }
+  ]
+  

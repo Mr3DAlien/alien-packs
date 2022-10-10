@@ -1,0 +1,215 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond_hoe",
+      "nbt": "{CustomModelData:4}"
+    },
+    "title": {
+      "translate": "advancements.alien-packs.rm_portalgun.visit_all_dimensions.title"
+    },
+    "description": {
+      "translate": "advancements.alien-packs.rm_portalgun.visit_all_dimensions.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "ap-rm_portalgun:portal_gun/remove_portal_gun_capsule",
+  "criteria": {
+    "visit_froppyland_dimension": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "dimension": "ap-rm_portalgun:froopyland"
+            }
+          }
+        ]
+      }
+    },
+    "visit_chess_world_dimension": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "dimension": "ap-rm_portalgun:chess_world"
+            }
+          }
+        ]
+      }
+    },
+    "visit_glass_world_dimension": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "dimension": "ap-rm_portalgun:glass_world"
+            }
+          }
+        ]
+      }
+    },
+    "visit_desert_world_dimension": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "dimension": "ap-rm_portalgun:desert_world"
+            }
+          }
+        ]
+      }
+    },
+    "visit_endless_forest_dimension": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "dimension": "ap-rm_portalgun:endless_forest"
+            }
+          }
+        ]
+      }
+    },
+    "visit_bee_world_dimension": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "dimension": "ap-rm_portalgun:bee_world"
+            }
+          }
+        ]
+      }
+    },
+    "visit_35-c_dimension": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "dimension": "ap-rm_portalgun:35-c"
+            }
+          }
+        ]
+      }
+    },
+    "visit_doopidoo_dimension": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "dimension": "ap-rm_portalgun:doopidoo_dimension"
+            }
+          }
+        ]
+      }
+    },
+    "visit_hell_world_dimension": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "dimension": "ap-rm_portalgun:hell_world"
+            }
+          }
+        ]
+      }
+    },
+    "visit_warped_world_dimension": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "dimension": "ap-rm_portalgun:warped_world"
+            }
+          }
+        ]
+      }
+    },
+    "visit_village_world_dimension": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "dimension": "ap-rm_portalgun:village_world"
+            }
+          }
+        ]
+      }
+    },
+    "visit_the_abyss_dimension": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "dimension": "ap-rm_portalgun:the_abyss"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "visit_froppyland_dimension"
+    ],
+    [
+      "visit_chess_world_dimension"
+    ],
+    [
+      "visit_glass_world_dimension"
+    ],
+    [
+      "visit_desert_world_dimension"
+    ],
+    [
+      "visit_endless_forest_dimension"
+    ],
+    [
+      "visit_bee_world_dimension"
+    ],
+    [
+      "visit_35-c_dimension"
+    ],
+    [
+      "visit_doopidoo_dimension"
+    ],
+    [
+      "visit_hell_world_dimension"
+    ],
+    [
+      "visit_warped_world_dimension"
+    ],
+    [
+      "visit_village_world_dimension"
+    ],
+    [
+      "visit_the_abyss_dimension"
+    ]
+  ]
+}

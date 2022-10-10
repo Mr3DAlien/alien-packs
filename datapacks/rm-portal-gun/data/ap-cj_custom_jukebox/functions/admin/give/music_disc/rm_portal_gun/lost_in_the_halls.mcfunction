@@ -1,1 +1,1 @@
-loot give @s loot ap-cj_custom_jukebox:chests/rm_portal_gun/lost_in_the_halls
+loot give @s loot ap-cj_custom_jukebox:chests/rm_portalgun/lost_in_the_halls

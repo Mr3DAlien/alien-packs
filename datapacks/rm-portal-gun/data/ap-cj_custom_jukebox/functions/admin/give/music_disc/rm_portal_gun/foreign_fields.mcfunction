@@ -1,1 +1,1 @@
-loot give @s loot ap-cj_custom_jukebox:chests/rm_portal_gun/foreign_fields
+loot give @s loot ap-cj_custom_jukebox:chests/rm_portalgun/foreign_fields

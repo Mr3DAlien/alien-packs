@@ -1,0 +1,1 @@
+function ap-rm_portalgun:misc/cosmetics/ricks_hair/call

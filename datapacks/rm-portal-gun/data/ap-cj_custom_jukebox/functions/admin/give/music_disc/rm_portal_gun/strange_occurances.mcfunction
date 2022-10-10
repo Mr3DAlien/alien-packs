@@ -1,1 +1,1 @@
-loot give @s loot ap-cj_custom_jukebox:chests/rm_portal_gun/strange_occurance
+loot give @s loot ap-cj_custom_jukebox:chests/rm_portalgun/strange_occurance

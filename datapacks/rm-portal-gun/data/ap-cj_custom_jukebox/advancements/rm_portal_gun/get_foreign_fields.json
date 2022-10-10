@@ -5,17 +5,17 @@
       "nbt": "{CustomModelData:5}"
     },
     "title": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_foreign_fields.title"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portalgun.get_foreign_fields.title"
     },
     "description": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_foreign_fields.description"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portalgun.get_foreign_fields.description"
     },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "ap-cj_custom_jukebox:rm_portal_gun/get_at_the_end_of_the_day",
+  "parent": "ap-cj_custom_jukebox:rm_portalgun/get_at_the_end_of_the_day",
   "criteria": {
     "get_foreign_fields": {
       "trigger": "minecraft:inventory_changed",

@@ -1,5 +1,0 @@
-
-{
-    "function": "minecraft:set_nbt",
-    "tag": "{RMPortalGun:1b,RMFuelLevel:0b,CustomModelData:17,display:{Name:'{\"translate\":\"item.alien-packs.rm_portal_gun.portal_gun.name\"}',Lore:['{\"translate\": \"item.alien-packs.rm_portal_gun.portal_gun.description.empty\"}']}}"
-}

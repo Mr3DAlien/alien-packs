@@ -5,10 +5,10 @@
       "nbt": "{CustomModelData:1}"
     },
     "title": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_strange_occurance.title"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portalgun.get_strange_occurance.title"
     },
     "description": {
-      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portal_gun.get_strange_occurance.description"
+      "translate": "advancements.alien-packs.cj_custom_jukebox.rm_portalgun.get_strange_occurance.description"
     },
     "frame": "task",
     "show_toast": true,

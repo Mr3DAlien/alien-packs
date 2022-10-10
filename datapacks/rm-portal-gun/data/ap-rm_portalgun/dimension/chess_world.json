@@ -1,0 +1,14 @@
+{
+  "type": "ap-rm_portalgun:chess_world",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "minecraft:overworld",
+    "biome_source": {
+      "type": "minecraft:checkerboard",
+      "biomes": [
+        "ap-rm_portalgun:chess_black",
+        "ap-rm_portalgun:chess_white"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "ap-rm_portalgun:doopidoo_dimension",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "ap-rm_portalgun:doopidoo_dimension",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "ap-rm_portalgun:doopidoo_dimension"
+    }
+  }
+}

@@ -1,1 +1,1 @@
-loot give @s loot ap-cj_custom_jukebox:chests/rm_portal_gun/the_bliss_of_the_past
+loot give @s loot ap-cj_custom_jukebox:chests/rm_portalgun/the_bliss_of_the_past
