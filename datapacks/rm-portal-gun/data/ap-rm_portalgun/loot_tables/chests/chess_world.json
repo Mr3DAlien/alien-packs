@@ -1,0 +1,44 @@
+{
+  "pools": [
+    {
+      "rolls": 8,
+      "bonus_rolls": 16,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:coal"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:iron_ingot"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:pumpkin_seeds"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:melon_seeds"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 50
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 25,
+          "name": "ap-cj_customjukebox:chests/rm_portalgun/the_bliss_of_the_past"
+        }
+      ]
+    }
+  ]
+}
