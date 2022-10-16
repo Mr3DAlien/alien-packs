@@ -1,0 +1,24 @@
+{
+    "name": "ap-rm_portalgun:froopyland/lolly_pop",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "ap-rm_portalgun:froopyland/lolly_pop_01",
+                "processors": "minecraft:street_plains",
+                "projection": "rigid",
+                "element_type": "legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "ap-rm_portalgun:froopyland/lolly_pop_02",
+                "processors": "minecraft:street_plains",
+                "projection": "rigid",
+                "element_type": "legacy_single_pool_element"
+            }
+        }
+    ]
+}
