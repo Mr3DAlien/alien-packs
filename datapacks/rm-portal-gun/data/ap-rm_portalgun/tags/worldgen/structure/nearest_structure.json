@@ -2,6 +2,10 @@
     "values": [
         "ap-rm_portalgun:the_abyss/the_abyss_ruin",
         "ap-rm_portalgun:bee_world/bee_hive",
-        "ap-rm_portalgun:endless_forest/pillager_tower"
+        "ap-rm_portalgun:endless_forest/pillager_tower",
+        "ap-rm_portalgun:chess_world/chess_figures",
+        "ap-rm_portalgun:froopyland/lolly_pop",
+        "ap-rm_portalgun:glass_world/village",
+        "ap-rm_portalgun:hell_world/tower"
     ]
 }
