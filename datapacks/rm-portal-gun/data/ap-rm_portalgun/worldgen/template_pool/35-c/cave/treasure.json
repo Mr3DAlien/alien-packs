@@ -1,0 +1,42 @@
+{
+    "name": "ap-rm_portalgun:35-c/cave/treasure",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "ap-rm_portalgun:35-c/cave/gold_treasure",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 4,
+            "element": {
+                "location": "ap-rm_portalgun:35-c/cave/copper_treasure",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 4,
+            "element": {
+                "location": "ap-rm_portalgun:35-c/cave/iron_treasure",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 6,
+            "element": {
+                "location": "ap-rm_portalgun:35-c/cave/empty_treasure",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        }
+    ]
+}
