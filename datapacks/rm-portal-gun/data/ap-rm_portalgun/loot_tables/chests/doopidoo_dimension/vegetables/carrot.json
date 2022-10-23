@@ -1,0 +1,54 @@
+{
+    "pools": [
+      {
+        "rolls": {
+          "min": 8,
+          "max": 12
+        },
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:carrot"
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:empty",
+            "weight": 20
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 5,
+            "name": "minecraft:carrot_on_a_stick",
+            "functions": [
+                {
+                    "function": "set_damage",
+                    "damage": {
+                        "min": 0.17,
+                        "max": 0.61
+                    }
+                }
+            ]
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:empty",
+            "weight": 100
+          },
+          {
+            "type": "minecraft:loot_table",
+            "weight": 10,
+            "name": "ap-cj_customjukebox:chests/rm_portalgun/foreign_fields"
+          }
+        ]
+      }
+    ]
+  }
+  

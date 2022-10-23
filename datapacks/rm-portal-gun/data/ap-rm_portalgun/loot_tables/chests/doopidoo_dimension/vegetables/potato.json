@@ -1,0 +1,49 @@
+{
+    "pools": [
+      {
+        "rolls": {
+          "min": 8,
+          "max": 12
+        },
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 100,
+            "name": "minecraft:potato"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "name": "minecraft:poisonous_potato"
+          }
+        ]
+      },
+      {
+        "rolls": {
+          "min": 1,
+          "max": 5
+        },
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:baked_potato"
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:empty",
+            "weight": 100
+          },
+          {
+            "type": "minecraft:loot_table",
+            "weight": 5,
+            "name": "ap-cj_customjukebox:chests/rm_portalgun/foreign_fields"
+          }
+        ]
+      }
+    ]
+  }
+  

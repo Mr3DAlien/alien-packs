@@ -9,6 +9,9 @@
         "ap-rm_portalgun:hell_world/tower",
         "ap-rm_portalgun:warped_world/small_house",
         "ap-rm_portalgun:desert_world/pyramid",
-        "ap-rm_portalgun:35-c/cave"
+        "ap-rm_portalgun:35-c/cave",
+        "ap-rm_portalgun:doopidoo_dimension/vegetables/wheat",
+        "ap-rm_portalgun:doopidoo_dimension/vegetables/potato",
+        "ap-rm_portalgun:doopidoo_dimension/vegetables/carrot"
     ]
 }
