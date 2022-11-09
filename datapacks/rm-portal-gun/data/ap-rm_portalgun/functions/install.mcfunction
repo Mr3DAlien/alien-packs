@@ -12,7 +12,8 @@ scoreboard objectives add ap-rm_settings dummy {"text":"RM Settings","color":"aq
 scoreboard objectives add ap-rm_chunk_loading dummy {"text":"RM Chunk Loading","color":"yellow"}
 scoreboard objectives add ap-rm_device_coords dummy {"text":"RM Coords Device Coords","color":"yellow"}
 scoreboard objectives add ap-rm_portal_placer dummy {"text":"RM Portal Placer","color":"yellow"}
-scoreboard objectives add ap-rm_portal_projectile dummy {"text":"RM Projectile","color":"yellow"}
+scoreboard objectives add ap-rm_projectile dummy {"text":"RM Projectile","color":"yellow"}
+scoreboard objectives add ap-rm_projectile_id dummy {"text":"RM Projectile IDs","color":"yellow"}
 scoreboard objectives add ap-rm_doRMSpawning trigger {"text":"RM Portal Spawning Trigger","color":"yellow"}
 
 scoreboard players add %rickSpawning ap-rm_settings 0

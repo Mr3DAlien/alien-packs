@@ -12,7 +12,8 @@ scoreboard objectives remove ap-rm_settings
 scoreboard objectives remove ap-rm_chunk_loading
 scoreboard objectives remove ap-rm_device_coords
 scoreboard objectives remove ap-rm_portal_placer
-scoreboard objectives remove ap-rm_portal_projectile
+scoreboard objectives remove ap-rm_projectile
+scoreboard objectives remove ap-rm_projectile_id
 scoreboard objectives remove ap-rm_doRMSpawning
 
 team remove ap-rm_dungeon
