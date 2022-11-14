@@ -14,6 +14,7 @@ scoreboard objectives remove ap-rm_device_coords
 scoreboard objectives remove ap-rm_portal_placer
 scoreboard objectives remove ap-rm_projectile
 scoreboard objectives remove ap-rm_projectile_id
+scoreboard objectives remove ap-rm_mining_cooldown
 scoreboard objectives remove ap-rm_doRMSpawning
 
 team remove ap-rm_dungeon

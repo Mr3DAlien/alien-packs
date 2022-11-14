@@ -14,6 +14,7 @@ scoreboard objectives add ap-rm_device_coords dummy {"text":"RM Coords Device Co
 scoreboard objectives add ap-rm_portal_placer dummy {"text":"RM Portal Placer","color":"yellow"}
 scoreboard objectives add ap-rm_projectile dummy {"text":"RM Projectile","color":"yellow"}
 scoreboard objectives add ap-rm_projectile_id dummy {"text":"RM Projectile IDs","color":"yellow"}
+scoreboard objectives add ap-rm_mining_cooldown dummy {"text":"RM Mining Cooldown","color":"yellow"}
 scoreboard objectives add ap-rm_doRMSpawning trigger {"text":"RM Portal Spawning Trigger","color":"yellow"}
 
 scoreboard players add %rickSpawning ap-rm_settings 0

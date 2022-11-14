@@ -1,0 +1,2 @@
+execute if block ~ ~ ~ #ap-rm_portalgun:mining_laser unless entity @e[type=minecraft:marker,tag=ap-rm_mining_marker,distance=..0.5] run summon minecraft:marker ~ ~ ~ {Tags:["ap-rm_mining_marker"]}
+kill @s

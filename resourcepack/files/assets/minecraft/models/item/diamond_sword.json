@@ -29,7 +29,9 @@
     { "predicate": { "custom_model_data": 17 }, "model": "ap-rm_portalgun:item/coords_device/broken_coords_device"},
 
     { "predicate": { "custom_model_data": 18 }, "model": "ap-rm_portalgun:item/ricks_hair"},
-    { "predicate": { "custom_model_data": 19 }, "model": "ap-rm_portalgun:item/laboratory"}
+    { "predicate": { "custom_model_data": 19 }, "model": "ap-rm_portalgun:item/laboratory"},
+
+    { "predicate": { "custom_model_data": 20 }, "model": "ap-rm_portalgun:item/capsules/mining_capsule"}
  
 	]
 }

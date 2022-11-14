@@ -1,0 +1,31 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "ap-rm_portalgun:gui/overheating_levels/cold.png",
+            "ascent": 15,
+            "height": 15,
+            "chars": [
+                "\uEff1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ap-rm_portalgun:gui/overheating_levels/medium.png",
+            "ascent": 15,
+            "height": 15,
+            "chars": [
+                "\uEff2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ap-rm_portalgun:gui/overheating_levels/hot.png",
+            "ascent": 15,
+            "height": 15,
+            "chars": [
+                "\uEff3"
+            ]
+        }
+    ]
+}
