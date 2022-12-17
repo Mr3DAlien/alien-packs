@@ -25,7 +25,7 @@
             "items": [
               "minecraft:warped_fungus_on_a_stick"
             ],
-            "nbt": "{RMTexture:2b}"
+            "nbt": "{RMSkin:2b}"
           }
         ]
       }

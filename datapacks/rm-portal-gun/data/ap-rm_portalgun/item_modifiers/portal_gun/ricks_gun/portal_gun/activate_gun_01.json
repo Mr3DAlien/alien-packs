@@ -1,5 +1,0 @@
-
-{
-    "function": "minecraft:set_nbt",
-    "tag": "{RMPortalGun:2b,CustomModelData:20,display:{Lore:['{\"translate\": \"item.alien-packs.rm_portalgun.portal_gun.description.fixed\"}']}}"
-}

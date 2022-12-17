@@ -1,2 +1,0 @@
-execute as @a[predicate=ap-rm_portalgun:portal_gun/ricks_first_gun/mining_gun/assemble] at @s run function ap-rm_portalgun:portal_gun/ricks_first_gun/mining_gun/assemble
-execute as @a[predicate=ap-rm_portalgun:portal_gun/ricks_first_gun/mining_gun/disassemble] at @s run function ap-rm_portalgun:portal_gun/ricks_first_gun/mining_gun/disassemble

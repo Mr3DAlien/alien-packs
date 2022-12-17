@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:diamond_sword"
+        ],
+        "nbt": "{RMMiningCapsule:3b,Unbreakable:1b,HideFlags:63,RepairCost:999999,CustomModelData:20,display:{Name:'{\"translate\":\"item.alien-packs.rm_portalgun.liquid_capsule.name\"}',Lore:['{\"translate\":\"item.alien-packs.rm_portalgun.liquid_capsule.description.mining_fluid\"}']},AttributeModifiers:[{}]}"
+      }
+    }
+  }
+}

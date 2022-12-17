@@ -1,4 +1,3 @@
-
 playsound ap-rm_portalgun:entity.projectile.portal_fluid neutral @a[distance=..15]
 
 execute in ap-rm_portalgun:rick_council positioned 0.0 0.0 0.0 run summon minecraft:marker ^ ^ ^1 {Tags:["ap-rm_marker"]}

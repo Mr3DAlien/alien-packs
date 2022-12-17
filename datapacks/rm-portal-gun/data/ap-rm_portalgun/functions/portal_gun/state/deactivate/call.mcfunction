@@ -1,0 +1,1 @@
+execute if predicate ap-rm_portalgun:portal_gun/types/mainhand/type_01 run function ap-rm_portalgun:portal_gun/state/deactivate/portal_fluid
