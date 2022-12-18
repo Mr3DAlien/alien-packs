@@ -13,11 +13,11 @@
         "entity": "this",
         "predicate": {
             "equipment": {
-                "mainhand": {
+                "offhand": {
                     "items": [
                         "minecraft:warped_fungus_on_a_stick"
                     ],
-                    "nbt": "{RMActive:1b}"
+                    "nbt": "{RMSkin:2b}"
                 }
             }
         }
