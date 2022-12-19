@@ -1,1 +1,0 @@
-playsound ap-rm_portalgun:entity.projectile.mining_fluid neutral @a

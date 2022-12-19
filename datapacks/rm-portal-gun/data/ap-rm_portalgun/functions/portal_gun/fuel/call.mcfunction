@@ -1,0 +1,2 @@
+execute if predicate ap-rm_portalgun:portal_gun/types/mainhand/type_01 run function ap-rm_portalgun:portal_gun/fuel/portal_fluid
+execute if predicate ap-rm_portalgun:portal_gun/types/mainhand/type_02 run function ap-rm_portalgun:portal_gun/fuel/laser_fluid

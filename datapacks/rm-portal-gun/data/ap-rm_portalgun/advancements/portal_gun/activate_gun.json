@@ -31,7 +31,7 @@
                   "items": [
                     "minecraft:warped_fungus_on_a_stick"
                   ],
-                  "nbt": "{RMPortalGun:2b}"
+                  "nbt": "{RMActive:1b}"
                 }
               }
             }
