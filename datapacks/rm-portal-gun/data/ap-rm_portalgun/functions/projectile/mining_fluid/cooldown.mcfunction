@@ -1,1 +1,0 @@
-scoreboard players remove @s ap-rm_mining_cooldown 1

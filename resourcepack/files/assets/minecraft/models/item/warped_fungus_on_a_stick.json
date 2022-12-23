@@ -61,8 +61,11 @@
     { "predicate": { "custom_model_data": 48 }, "model": "ap-rm_portalgun:item/portal_gun/ricks_first_gun/laser_portal_gun_01"},
 
     { "predicate": { "custom_model_data": 49 }, "model": "ap-rm_portalgun:item/portal_gun/ricks_gun/mining_portal_gun"},
-    { "predicate": { "custom_model_data": 50 }, "model": "ap-rm_portalgun:item/portal_gun/ricks_first_gun/mining_portal_gun"},
-    { "predicate": { "custom_model_data": 51 }, "model": "ap-rm_portalgun:item/portal_gun/ricks_old_gun/mining_portal_gun"}
+    { "predicate": { "custom_model_data": 50 }, "model": "ap-rm_portalgun:item/portal_gun/ricks_gun/mining_portal_gun_selected"},
+    { "predicate": { "custom_model_data": 51 }, "model": "ap-rm_portalgun:item/portal_gun/ricks_old_gun/mining_portal_gun"},
+    { "predicate": { "custom_model_data": 52 }, "model": "ap-rm_portalgun:item/portal_gun/ricks_old_gun/mining_portal_gun_selected"},
+    { "predicate": { "custom_model_data": 53 }, "model": "ap-rm_portalgun:item/portal_gun/ricks_first_gun/mining_portal_gun"},
+    { "predicate": { "custom_model_data": 54 }, "model": "ap-rm_portalgun:item/portal_gun/ricks_first_gun/mining_portal_gun_selected"}
 
 	]
 }

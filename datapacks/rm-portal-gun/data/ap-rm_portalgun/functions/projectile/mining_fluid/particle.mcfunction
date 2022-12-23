@@ -1,3 +1,4 @@
+# Checks what block it is breaking and then shows the correct particle
 execute if block ~ ~ ~ minecraft:coal_ore run particle minecraft:block minecraft:coal_ore ~ ~ ~ 0.5 0.5 0.5 0 100 normal
 execute if block ~ ~ ~ minecraft:deepslate_coal_ore run particle minecraft:block minecraft:deepslate_coal_ore ~ ~ ~ 0.5 0.5 0.5 0 100 normal
 execute if block ~ ~ ~ minecraft:iron_ore run particle minecraft:block minecraft:iron_ore ~ ~ ~ 0.5 0.5 0.5 0 100 normal
@@ -31,3 +32,7 @@ execute if block ~ ~ ~ minecraft:stripped_acacia_log run particle minecraft:bloc
 execute if block ~ ~ ~ minecraft:mangrove_log run particle minecraft:block minecraft:mangrove_log ~ ~ ~ 0.5 0.5 0.5 0 100 normal
 execute if block ~ ~ ~ minecraft:stripped_mangrove_log run particle minecraft:block minecraft:stripped_mangrove_log ~ ~ ~ 0.5 0.5 0.5 0 100 normal
 execute if block ~ ~ ~ minecraft:mangrove_roots run particle minecraft:block minecraft:mangrove_roots ~ ~ ~ 0.5 0.5 0.5 0 100 normal
+
+execute if block ~ ~ ~ minecraft:red_mushroom_block run particle minecraft:block minecraft:red_mushroom_block ~ ~ ~ 0.5 0.5 0.5 0 100 normal
+execute if block ~ ~ ~ minecraft:brown_mushroom_block run particle minecraft:block minecraft:brown_mushroom_block ~ ~ ~ 0.5 0.5 0.5 0 100 normal
+execute if block ~ ~ ~ minecraft:mushroom_stem run particle minecraft:block minecraft:mushroom_stem ~ ~ ~ 0.5 0.5 0.5 0 100 normal
