@@ -1,5 +1,3 @@
-# Adds 40 to the mining cooldown of a player
-scoreboard players add @s ap-rm_mining_cooldown 40
 # Plays the mining_fluid sound
 playsound ap-rm_portalgun:entity.projectile.mining_fluid player @a
 # Creates a particle in the player vision to make it look like it is shooting

@@ -3,7 +3,8 @@
     "entity": "this",
     "scores": {
         "ap-rm_mining_cooldown": {
-            "min": 81
+            "min": 81,
+            "max": 160
         }
     }
 }
