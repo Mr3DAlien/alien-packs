@@ -1,5 +1,5 @@
 {
     "function": "minecraft:set_nbt",
-    "tag": "{RepairCost: 999999, Unbreakable: 1b, Damage: 0, HideFlags: 63, RMPortalGun: 1b, RMSkin: 1b, RMFuelLevel: 0b, RMActive: 0b, CustomModelData: 17, display: {Name: '{\"translate\":\"item.alien-packs.rm_portalgun.portal_gun.name\",\"color\":\"green\",\"italic\":\"false\"}', Lore: ['{\"translate\":\"item.alien-packs.rm_portalgun.portal_gun.description.empty\",\"color\":\"white\",\"italic\":\"false\"}']}}"
+    "tag": "{RepairCost: 999999, Unbreakable: 1b, Damage: 0, HideFlags: 63, RMPortalGun: 1b, RMSkin: 1b, RMFuelLevel: 0b, RMActive: 0b, CustomModelData: 17, display: {Name: '{\"translate\":\"item.alien-packs.rm_portalgun.portal_gun.name\",\"color\":\"green\",\"italic\":false}', Lore: ['{\"translate\":\"item.alien-packs.rm_portalgun.portal_gun.description.empty\",\"color\":\"white\",\"italic\":false}']}}"
   }
   
