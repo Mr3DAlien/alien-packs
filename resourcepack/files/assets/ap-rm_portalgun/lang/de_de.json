@@ -11,6 +11,7 @@
     "item.alien-packs.rm_portalgun.portal_gun.description.council": "Zitadelle",
     "item.alien-packs.rm_portalgun.portal_gun.description.random": "Zufällig",
     "item.alien-packs.rm_portalgun.laser_gun.description.laser_fluid": "[Laser-Flüssigkeit]",
+    "item.alien-packs.rm_portalgun.laser_gun.description.info": "Projektil gibt:",
     "item.alien-packs.rm_portalgun.mining_gun.description.mining_fluid": "[Mining-Flüssigkeit]",
     "item.alien-packs.rm_portalgun.mining_gun.description.info": "Mined mit:",
     "item.alien-packs.rm_portalgun.plasma_orb.name": "\u00a7fPlasma-Kugel",

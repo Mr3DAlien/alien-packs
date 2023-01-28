@@ -11,6 +11,7 @@
     "item.alien-packs.rm_portalgun.portal_gun.description.council": "Council",
     "item.alien-packs.rm_portalgun.portal_gun.description.random": "Random",
     "item.alien-packs.rm_portalgun.laser_gun.description.laser_fluid": "[Laser Fluid]",
+    "item.alien-packs.rm_portalgun.laser_gun.description.info": "Projectile applies:",
     "item.alien-packs.rm_portalgun.mining_gun.description.mining_fluid": "[Mining Fluid]",
     "item.alien-packs.rm_portalgun.mining_gun.description.info": "Mines with:",
     "item.alien-packs.rm_portalgun.plasma_orb.name": "\u00a7fPlasma Orb",
