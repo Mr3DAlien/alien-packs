@@ -1,0 +1,1 @@
+give @s minecraft:diamond_sword{CustomModelData:12,Unbreakable:1b,HideFlags:63,display:{Name:'{"translate":"item.alien-packs.rm_portalgun.gear.name","italic":false}',Lore:['[{"translate":"item.alien-packs.rm_portalgun.gear.description","italic":false,"color":"aqua"}]']},AttributeModifiers:[{}]}

@@ -1,2 +1,0 @@
-
-give @s minecraft:diamond_sword{RMLaserCapsule:1b,Unbreakable:1b,HideFlags:63,RepairCost:999999,CustomModelData:10,display:{Name:'{"translate":"item.alien-packs.rm_portalgun.liquid_capsule.name"}',Lore:['{"translate":"item.alien-packs.rm_portalgun.liquid_capsule.description.laser_fluid"}']},AttributeModifiers:[{}]}

@@ -1,6 +1,6 @@
 # Broken Portal Gun
 execute as @s[predicate=ap-rm_portalgun:portal_gun/skins/mainhand/skin_00,predicate=ap-rm_portalgun:portal_gun/fuel/mainhand/fuel_01] run playsound minecraft:block.glass.break player @a
-item replace entity @s[predicate=ap-rm_portalgun:portal_gun/skins/mainhand/skin_00,predicate=ap-rm_portalgun:portal_gun/fuel/mainhand/fuel_01] weapon.mainhand with minecraft:diamond_sword{CustomModelData:16,Unbreakable:1b,RepairCost:999999,HideFlags:63,AttributeModifiers:[{}],display:{Name:'{"translate":"item.alien-packs.rm_portalgun.broken_portal_gun_empty.name"}'}} 1
+item replace entity @s[predicate=ap-rm_portalgun:portal_gun/skins/mainhand/skin_00,predicate=ap-rm_portalgun:portal_gun/fuel/mainhand/fuel_01] weapon.mainhand with minecraft:diamond_sword{CustomModelData:16,Unbreakable:1b,HideFlags:63,AttributeModifiers:[{}],display:{Name:'{"translate":"item.alien-packs.rm_portalgun.broken_portal_gun_empty.name"}'}} 1
 
 # Tests for the Fuel and Skin and then replaces the gun with the right one
 item modify entity @s[predicate=ap-rm_portalgun:portal_gun/skins/mainhand/skin_01,predicate=ap-rm_portalgun:portal_gun/fuel/mainhand/fuel_01] weapon.mainhand ap-rm_portalgun:portal_gun/portal_fluid/deactive/skin_01/fuel_00

@@ -1,1 +1,0 @@
-give @s minecraft:warped_fungus_on_a_stick{HideFlags:63,Unbreakable:1b,CustomModelData:25,display:{Name:'{"translate":"item.alien-packs.rm_portalgun.coords_device.name"}'},RMCoordsDevice:1}

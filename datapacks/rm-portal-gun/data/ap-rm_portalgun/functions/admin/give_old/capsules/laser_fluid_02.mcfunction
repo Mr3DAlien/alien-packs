@@ -1,0 +1,2 @@
+
+give @s minecraft:diamond_sword{RMLaserCapsule:2b,Unbreakable:1b,HideFlags:63,CustomModelData:9,display:{Name:'{"translate":"item.alien-packs.rm_portalgun.liquid_capsule.name"}',Lore:['{"translate":"item.alien-packs.rm_portalgun.liquid_capsule.description.laser_fluid"}']},AttributeModifiers:[{}]}

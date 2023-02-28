@@ -1,3 +1,3 @@
 
-item replace block ~ ~ ~ container.11 with minecraft:diamond_sword{RMLiquidCapsule:2b,Unbreakable:1b,HideFlags:63,RepairCost:999999,CustomModelData:6,display:{Name:'{"translate":"item.alien-packs.rm_portalgun.liquid_capsule.name"}',Lore:['{"translate":"item.alien-packs.rm_portalgun.liquid_capsule.description.portal_fluid"}']},AttributeModifiers:[{}]}
+item replace block ~ ~ ~ container.11 with minecraft:diamond_sword{Unbreakable: 1b, Damage: 0, HideFlags: 63, RMLiquidCapsule: 2b, AttributeModifiers: [{}], display: {Name: '{"translate":"item.alien-packs.rm_portalgun.liquid_capsule.name","color":"white","italic":false}', Lore: ['{"translate":"item.alien-packs.rm_portalgun.liquid_capsule.description.portal_fluid","color":"green","italic":false}']}, CustomModelData: 6}
 execute store result block ~ ~ ~ Items[{Slot:26b}].Count byte 0.99 run data get block ~ ~ ~ Items[{Slot:26b}].Count
