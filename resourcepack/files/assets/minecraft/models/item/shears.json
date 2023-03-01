@@ -11,6 +11,8 @@
     { "predicate": { "custom_model_data": 4 }, "model": "ap-ls_lightsabers:advancement/force"},
     { "predicate": { "custom_model_data": 5 }, "model": "ap-ls_lightsabers:advancement/force_choke"},
 
-    { "predicate": { "custom_model_data": 6 }, "model": "ap-rm_portalgun:advancement/rick_meme"}
+    { "predicate": { "custom_model_data": 6 }, "model": "ap-rm_portalgun:advancement/rick_meme"},
+    { "predicate": { "custom_model_data": 7 }, "model": "ap-rm_portalgun:advancement/fortune"},
+    { "predicate": { "custom_model_data": 8 }, "model": "ap-rm_portalgun:advancement/silk_touch"}
 	]
 }

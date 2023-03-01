@@ -2,7 +2,7 @@
   "display": {
     "icon": {
       "item": "minecraft:shears",
-      "nbt": "{CustomModelData:7}"
+      "nbt": "{CustomModelData:6}"
     },
     "title": {
       "translate": "advancements.alien-packs.rm_portalgun.alcoholic.title"
