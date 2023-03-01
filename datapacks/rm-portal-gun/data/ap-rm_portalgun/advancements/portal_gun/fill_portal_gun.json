@@ -17,51 +17,15 @@
   },
   "parent": "ap-rm_portalgun:portal_gun/repair_portal_gun",
   "criteria": {
-    "fill_portal_gun_03": {
-      "trigger": "minecraft:inventory_changed",
+    "impossible": {
+      "trigger": "minecraft:impossible",
       "conditions": {
-        "items": [
-          {
-            "items": [
-              "minecraft:warped_fungus_on_a_stick"
-            ],
-            "nbt": "{RMPortalGun:1b,RMFuelLevel:3b}"
-          }
-        ]
-      }
-    },
-    "fill_portal_gun_02": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "items": [
-              "minecraft:warped_fungus_on_a_stick"
-            ],
-            "nbt": "{RMPortalGun:1b,RMFuelLevel:2b}"
-          }
-        ]
-      }
-    },
-    "fill_portal_gun_01": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "items": [
-              "minecraft:warped_fungus_on_a_stick"
-            ],
-            "nbt": "{RMPortalGun:1b,RMFuelLevel:1b}"
-          }
-        ]
       }
     }
   },
   "requirements": [
     [
-      "fill_portal_gun_03",
-      "fill_portal_gun_02",
-      "fill_portal_gun_01"
+      "impossible"
     ]
   ]
 }
