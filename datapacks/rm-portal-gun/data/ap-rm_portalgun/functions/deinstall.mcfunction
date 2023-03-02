@@ -16,7 +16,7 @@ scoreboard objectives remove ap-rm_projectile
 scoreboard objectives remove ap-rm_projectile_id
 scoreboard objectives remove ap-rm_mining_cooldown
 scoreboard objectives remove ap-rm_doRMSpawning
-scoreboard objectives remove ap-rm_items_list
+scoreboard objectives remove ap-rm_give_item
 
 team remove ap-rm_dungeon
 

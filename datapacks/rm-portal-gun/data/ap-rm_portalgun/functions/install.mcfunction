@@ -16,7 +16,7 @@ scoreboard objectives add ap-rm_projectile dummy {"text":"RM Projectile","color"
 scoreboard objectives add ap-rm_projectile_id dummy {"text":"RM Projectile IDs","color":"yellow"}
 scoreboard objectives add ap-rm_mining_cooldown dummy {"text":"RM Mining Cooldown","color":"yellow"}
 scoreboard objectives add ap-rm_doRMSpawning trigger {"text":"RM Portal Spawning Trigger","color":"yellow"}
-scoreboard objectives add ap-rm_items_list trigger {"text":"RM Items List","color":"aqua"}
+scoreboard objectives add ap-rm_give_item trigger {"text":"RM Items List","color":"aqua"}
 
 scoreboard players add %rickSpawning ap-rm_settings 0
 scoreboard players add %portalFunction ap-rm_settings 0

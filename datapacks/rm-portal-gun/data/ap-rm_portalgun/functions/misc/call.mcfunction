@@ -17,4 +17,4 @@ execute as @e[type=minecraft:ender_pearl] at @s in ap-rm_portalgun:rick_council 
 
 execute if score %chunkTesting ap-rm_settings matches 1 run function ap-rm_portalgun:misc/chunk_testing
 
-execute as @a[scores={ap-rm_items_list=1..}] run function ap-rm_portalgun:misc/items_list
+execute as @a run function ap-rm_portalgun:misc/item_list/call
