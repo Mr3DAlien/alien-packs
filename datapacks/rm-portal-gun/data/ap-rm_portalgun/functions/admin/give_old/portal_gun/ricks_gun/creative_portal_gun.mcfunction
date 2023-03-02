@@ -1,2 +1,0 @@
-
-give @s minecraft:warped_fungus_on_a_stick{Unbreakable:1b,RMPortalGun:1b,RMFuelLevel:127b,RMSkin:1b,HideFlags:63,CustomModelData:14,display:{Name:'{"translate":"item.alien-packs.rm_portalgun.creative_portal_gun.name"}',Lore:['{"translate":"item.alien-packs.rm_portalgun.portal_gun.description.random"}']}}

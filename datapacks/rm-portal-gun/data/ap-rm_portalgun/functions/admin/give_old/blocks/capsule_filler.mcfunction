@@ -1,1 +1,0 @@
-give @s minecraft:bat_spawn_egg{display:{Name:'{"translate":"item.alien-packs.rm_portalgun.capsule_filler.name","italic":false}'},CustomModelData:1,EntityTag:{id:"minecraft:marker",Tags:["ap-rm_capsule_filler_marker"]}}

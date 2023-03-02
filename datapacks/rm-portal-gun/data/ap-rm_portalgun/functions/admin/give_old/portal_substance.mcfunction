@@ -1,1 +1,0 @@
-give @s minecraft:green_dye{RMSubstance:1,CustomModelData:1,display:{Name:'{"translate":"item.alien-packs.rm_portalgun.portal_substance.name","italic":false}'}} 64

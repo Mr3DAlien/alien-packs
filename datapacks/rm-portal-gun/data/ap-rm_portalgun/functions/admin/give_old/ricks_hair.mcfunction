@@ -1,1 +1,0 @@
-give @s minecraft:iron_helmet{CustomModelData:1,HideFlags:63,Unbreakable:1b,display:{Name:'{"translate":"item.alien-packs.rm_portalgun.ricks_hair.name","italic":false,"color":"yellow"}'}}
