@@ -1,1 +1,0 @@
-summon minecraft:armor_stand 36.5 70.00 1017.5 {Tags:["ap-rm_liquid_placer"],Rotation:[90f,0f]}

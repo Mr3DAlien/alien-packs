@@ -3,10 +3,6 @@ setblock -81 76 946 minecraft:structure_block{metadata: "", mirror: "NONE", igno
 setblock -81 75 946 minecraft:redstone_block
 fill -81 76 946 -81 75 946 minecraft:air replace
 
-kill @e[type=minecraft:item,nbt={Item:{tag:{RMGui:1b}}}]
-function ap-rm_portalgun:npc/spawn/call
-execute as @e[tag=ap-rm_deco_npc] run data modify entity @s NoAI set value 0b
-
 scoreboard players set %councilBuild ap-rm_settings 17
 scoreboard players set %mapVersion ap-rm_settings 1
 
