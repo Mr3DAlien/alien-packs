@@ -24,7 +24,7 @@
           "items": [
             "minecraft:potion"
           ],
-          "nbt": "{CustomPotionEffects: [{Duration: 200, Id: 9}, {Duration: 200, Id: 11}, {Duration: 200, Id: 22}], CustomModelData: 1, Potion: \"minecraft:water\", display: {Name: '{\"translate\":\"item.alien-packs.rm_portalgun.hip_flask.name\"}'}}"
+          "nbt": "{CustomPotionEffects: [{Id: 9, Duration: 200}, {Id: 11, Duration: 200}, {Id: 22, Duration: 200}], CustomModelData: 1, display: {Name: '{\"translate\":\"item.alien-packs.rm_portalgun.hip_flask.name\",\"italic\":false}'}, Potion: \"minecraft:water\"}"
         }
       }
     },
@@ -35,7 +35,7 @@
           "items": [
             "minecraft:potion"
           ],
-          "nbt": "{CustomPotionEffects: [{Duration: 200, Id: 9}, {Duration: 200, Id: 18, Amplifier: 5}, {Duration: 200, Id: 1, Amplifier: 5}], CustomModelData: 1, Potion: \"minecraft:water\", display: {Name: '{\"translate\":\"item.alien-packs.rm_portalgun.hip_flask.name\"}'}}"
+          "nbt": "{CustomPotionEffects: [{Id: 9, Duration: 200}, {Id: 18, Amplifier: 5, Duration: 200}, {Id: 1, Amplifier: 5, Duration: 200}], display: {Name: '{\"translate\":\"item.alien-packs.rm_portalgun.hip_flask.name\",\"italic\":false}'}, CustomModelData: 1, Potion: \"minecraft:water\"}"
         }
       }
     },
@@ -46,7 +46,7 @@
           "items": [
             "minecraft:potion"
           ],
-          "nbt": "{Potion:\"minecraft:water\",CustomModelData:1,CustomPotionEffects:[{Id:9,Duration:200},{Id:8,Duration:40,Amplifier:5}],display:{Name:'{\"translate\":\"item.alien-packs.rm_portalgun.hip_flask.name\"}'}}"
+          "nbt": "{CustomPotionEffects: [{Id: 9, Duration: 200}, {Id: 8, Amplifier: 5, Duration: 40}], CustomModelData: 1, display: {Name: '{\"translate\":\"item.alien-packs.rm_portalgun.hip_flask.name\",\"italic\":false}'}, Potion: \"minecraft:water\"}"
         }
       }
     },
@@ -57,7 +57,7 @@
           "items": [
             "minecraft:potion"
           ],
-          "nbt": "{Potion:\"minecraft:water\",CustomModelData:1,CustomPotionEffects:[{Id:9,Duration:400},{Id:17,Duration:4800},{Id:14,Duration:14400}],display:{Name:'{\"translate\":\"item.alien-packs.rm_portalgun.hip_flask.name\"}'}}"
+          "nbt": "{CustomPotionEffects: [{Id: 9, Duration: 400}, {Id: 17, Duration: 4800}, {Id: 14, Duration: 14400}], CustomModelData: 1, display: {Name: '{\"translate\":\"item.alien-packs.rm_portalgun.hip_flask.name\",\"italic\":false}'}, Potion: \"minecraft:water\"}"
         }
       }
     }
