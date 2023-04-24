@@ -52,6 +52,10 @@
     "item.alien-packs.rm_portalgun.ricks_hair.name": "Ricks Haar",
     "item.alien-packs.rm_portalgun.portal_placer.name": "Portal Platziera",
     "item.alien-packs.rm_portalgun.capsule_filler.name": "Kapsl Fülla",
+    "item.alien-packs.rm_portalgun.portal_gun_coin.name": "Portal Gun Münzn",
+    "item.alien-packs.rm_portalgun.portal_gun_coin.description": "Für Portal Gun Skins",
+    "item.alien-packs.rm_portalgun.info_sign1.name": "Konvertier dei Portal Gun",
+    "item.alien-packs.rm_portalgun.info_sign1.description": "Des Item konvertiert deine Portal Guns im Inventar zu a Portal Gun Münzn",
 
     "entity.alien-packs.rm_portalgun.npc.name.tool_smith_rick": "Grobschmied Rick",
     "entity.alien-packs.rm_portalgun.npc.name.bartender_rick": "Barmonn Rick",

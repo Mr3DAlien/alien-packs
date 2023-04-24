@@ -52,6 +52,12 @@
     "item.alien-packs.rm_portalgun.ricks_hair.name": "Ricks Hair",
     "item.alien-packs.rm_portalgun.portal_placer.name": "Portal Placer",
     "item.alien-packs.rm_portalgun.capsule_filler.name": "Capsule Filler",
+    "item.alien-packs.rm_portalgun.portal_gun_coin.name": "Portal Gun Coin",
+    "item.alien-packs.rm_portalgun.portal_gun_coin.description": "For Portal Gun Skins",
+    "item.alien-packs.rm_portalgun.info_sign1.name": "Convert your Portal Gun",
+    "item.alien-packs.rm_portalgun.info_sign1.description1.0": "Buying this Item will convert all Portal Guns",
+    "item.alien-packs.rm_portalgun.info_sign1.description1.1": "in your Inventory to a Portal Gun Coin!",
+    "item.alien-packs.rm_portalgun.info_sign1.description2": "Portal Gun needs to be empty!",
 
     "entity.alien-packs.rm_portalgun.npc.name.tool_smith_rick": "Tool Smith Rick",
     "entity.alien-packs.rm_portalgun.npc.name.bartender_rick": "Bartender Rick",

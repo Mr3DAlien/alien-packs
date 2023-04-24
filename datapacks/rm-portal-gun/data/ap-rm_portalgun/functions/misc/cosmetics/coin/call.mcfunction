@@ -1,0 +1,2 @@
+execute if entity @e[type=minecraft:villager,tag=ap-rm_shop_npc,distance=..10] store result score @s ap-rm_InvClear run clear @s minecraft:warped_fungus_on_a_stick{RMPortalGun:0b} 0
+execute as @s[nbt={Inventory:[{id:"minecraft:golden_shovel",tag:{RMInfoSign:1b}}]}] run function ap-rm_portalgun:misc/cosmetics/coin/give_coin

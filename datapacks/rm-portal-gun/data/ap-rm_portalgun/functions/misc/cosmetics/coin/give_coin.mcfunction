@@ -1,0 +1,4 @@
+summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_dye",Count:1b,tag:{display: {Name: '{"translate":"item.alien-packs.rm_portalgun.portal_gun_coin.name","italic":false,"color":"aqua"}', Lore: ['{"text":""}', '{"translate":"item.alien-packs.rm_portalgun.portal_gun_coin.description","italic":false,"color":"yellow","bold":true}']}, CustomModelData: 2, RMCoin: 1b}}}
+execute store result entity @e[type=minecraft:item,sort=nearest,limit=1,nbt={Item:{tag:{RMCoin:1b}}}] Item.Count byte 1 run scoreboard players get @s ap-rm_InvClear
+clear @s minecraft:golden_shovel{RMInfoSign:1b}
+clear @s minecraft:warped_fungus_on_a_stick{RMPortalGun:0b}

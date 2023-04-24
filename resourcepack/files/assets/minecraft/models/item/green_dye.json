@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/green_dye"
   },
   "overrides": [
-		{ "predicate": { "custom_model_data": 1 }, "model": "ap-rm_portalgun:item/portal_substance"}
+		{ "predicate": { "custom_model_data": 1 }, "model": "ap-rm_portalgun:item/portal_substance"},
+    { "predicate": { "custom_model_data": 2 }, "model": "ap-rm_portalgun:item/portal_coin"}
 	]
 }
