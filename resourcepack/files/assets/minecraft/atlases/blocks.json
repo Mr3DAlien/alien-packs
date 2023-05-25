@@ -1,0 +1,120 @@
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "ap-base:advancement/mr3dalien_animated"
+        },
+        {
+            "type": "single",
+            "resource": "ap-base:skin/mr3dalien"
+        },
+        {
+            "type": "single",
+            "resource": "ap-base:skin/mapmakers_cape"
+        },
+        {
+            "type": "single",
+            "resource": "ap-cj_customjukebox:rm_portalgun/item/music_disc/at_the_end_of_the_day"
+        },
+        {
+            "type": "single",
+            "resource": "ap-cj_customjukebox:rm_portalgun/item/music_disc/foreign_fields"
+        },
+        {
+            "type": "single",
+            "resource": "ap-cj_customjukebox:rm_portalgun/item/music_disc/house_of_madness"
+        },
+        {
+            "type": "single",
+            "resource": "ap-cj_customjukebox:rm_portalgun/item/music_disc/howling_peaks"
+        },
+        {
+            "type": "single",
+            "resource": "ap-cj_customjukebox:rm_portalgun/item/music_disc/lost_in_the_halls"
+        },
+        {
+            "type": "single",
+            "resource": "ap-cj_customjukebox:rm_portalgun/item/music_disc/shivers"
+        },
+        {
+            "type": "single",
+            "resource": "ap-cj_customjukebox:rm_portalgun/item/music_disc/strange_occurance"
+        },
+        {
+            "type": "single",
+            "resource": "ap-cj_customjukebox:rm_portalgun/item/music_disc/that_day"
+        },
+        {
+            "type": "single",
+            "resource": "ap-cj_customjukebox:rm_portalgun/item/music_disc/the_bliss_of_the_past"
+        },
+        {
+            "type": "single",
+            "resource": "ap-cj_customjukebox:rm_portalgun/item/music_disc/the_source"
+        },
+        {
+            "type": "single",
+            "resource": "ap-cj_customjukebox:rm_portalgun/item/music_disc/toybox"
+        },
+        {
+            "type": "single",
+            "resource": "ap-cj_customjukebox:rm_portalgun/item/music_disc/what_could_have_been"
+        },
+        {
+            "type": "single",
+            "resource": "ap-ls_lightsabers:advancement/force"
+        },
+        {
+            "type": "single",
+            "resource": "ap-ls_lightsabers:advancement/force_choke"
+        },
+        {
+            "type": "single",
+            "resource": "ap-ls_lightsabers:advancement/star_wars"
+        },
+        {
+            "type": "single",
+            "resource": "ap-ls_lightsabers:advancement/unlimited_powaaa"
+        },
+        {
+            "type": "single",
+            "resource": "ap-rm_portalgun:gui/icons/fortune"
+        },
+        {
+            "type": "single",
+            "resource": "ap-rm_portalgun:advancement/rick_meme"
+        },
+        {
+            "type": "single",
+            "resource": "ap-rm_portalgun:gui/icons/silk_touch"
+        },
+        {
+            "type": "single",
+            "resource": "ap-rm_portalgun:misc/portal"
+        },
+        {
+            "type": "single",
+            "resource": "ap-rm_portalgun:gui/coin_sign"
+        },
+        {
+            "type": "single",
+            "resource": "ap-rm_portalgun:gui/liquid_filler"
+        },
+        {
+            "type": "single",
+            "resource": "ap-rm_portalgun:gui/portal_placer"
+        },
+        {
+            "type": "single",
+            "resource": "ap-rm_portalgun:misc/blue_portal"
+        },
+        {
+            "type": "single",
+            "resource": "ap-rm_portalgun:misc/purple_portal"
+        },
+        {
+            "type": "single",
+            "resource": "ap-rm_portalgun:misc/yellow_portal"
+        }
+    ]
+}
