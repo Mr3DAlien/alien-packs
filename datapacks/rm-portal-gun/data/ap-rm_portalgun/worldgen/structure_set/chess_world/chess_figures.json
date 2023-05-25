@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "ap-rm_portalgun:chess_world/chess_figures",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 345663022,
+    "spacing": 25,
+    "separation": 10
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "ap-rm_portalgun:bee_world/bee_hive",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 992731089,
+    "spacing": 30,
+    "separation": 15
+  }
+}

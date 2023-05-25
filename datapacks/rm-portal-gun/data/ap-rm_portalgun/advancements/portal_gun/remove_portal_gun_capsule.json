@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:warped_fungus_on_a_stick",
+      "nbt": "{CustomModelData:15}"
+    },
+    "title": {
+      "translate": "advancements.alien-packs.rm_portalgun.remove_portal_gun_capsule.title"
+    },
+    "description": {
+      "translate": "advancements.alien-packs.rm_portalgun.remove_portal_gun_capsule.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "ap-rm_portalgun:portal_gun/visit_dimension",
+  "criteria": {
+    "remove_portal_gun_capsule": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "remove_portal_gun_capsule"
+    ]
+  ]
+}

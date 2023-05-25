@@ -1,0 +1,79 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:shears",
+      "nbt": "{CustomModelData:6}"
+    },
+    "title": {
+      "translate": "advancements.alien-packs.rm_portalgun.alcoholic.title"
+    },
+    "description": {
+      "translate": "advancements.alien-packs.rm_portalgun.alcoholic.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "ap-rm_portalgun:liquid_capsule/get_laser_fluid",
+  "criteria": {
+    "consume_resistance_potion": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:potion"
+          ],
+          "nbt": "{CustomPotionEffects: [{Id: 9, Duration: 200}, {Id: 11, Duration: 200}, {Id: 22, Duration: 200}], CustomModelData: 1, display: {Name: '{\"translate\":\"item.alien-packs.rm_portalgun.hip_flask.name\",\"italic\":false}'}, Potion: \"minecraft:water\"}"
+        }
+      }
+    },
+    "consume_speed_potion": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:potion"
+          ],
+          "nbt": "{CustomPotionEffects: [{Id: 9, Duration: 200}, {Id: 18, Amplifier: 5, Duration: 200}, {Id: 1, Amplifier: 5, Duration: 200}], display: {Name: '{\"translate\":\"item.alien-packs.rm_portalgun.hip_flask.name\",\"italic\":false}'}, CustomModelData: 1, Potion: \"minecraft:water\"}"
+        }
+      }
+    },
+    "consume_jump_boost_potion": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:potion"
+          ],
+          "nbt": "{CustomPotionEffects: [{Id: 9, Duration: 200}, {Id: 8, Amplifier: 5, Duration: 40}], CustomModelData: 1, display: {Name: '{\"translate\":\"item.alien-packs.rm_portalgun.hip_flask.name\",\"italic\":false}'}, Potion: \"minecraft:water\"}"
+        }
+      }
+    },
+    "consume_invisibility_potion": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:potion"
+          ],
+          "nbt": "{CustomPotionEffects: [{Id: 9, Duration: 400}, {Id: 17, Duration: 4800}, {Id: 14, Duration: 14400}], CustomModelData: 1, display: {Name: '{\"translate\":\"item.alien-packs.rm_portalgun.hip_flask.name\",\"italic\":false}'}, Potion: \"minecraft:water\"}"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "consume_resistance_potion"
+    ],
+    [
+      "consume_speed_potion"
+    ],
+    [
+      "consume_jump_boost_potion"
+    ],
+    [
+      "consume_invisibility_potion"
+    ]
+  ]
+}

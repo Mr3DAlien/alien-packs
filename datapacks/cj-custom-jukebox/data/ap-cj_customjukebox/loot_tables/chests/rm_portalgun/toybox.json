@@ -1,0 +1,20 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:music_disc_11",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{CJDisc: 2b, HideFlags: 63, display: {Lore: ['{\"text\":\"BartTheBart - Toybox\",\"color\":\"gray\",\"italic\":false}']}, CustomModelData: 2}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

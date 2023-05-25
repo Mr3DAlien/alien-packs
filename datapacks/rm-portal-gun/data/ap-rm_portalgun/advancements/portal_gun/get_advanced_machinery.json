@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond_sword",
+      "nbt": "{CustomModelData:15}"
+    },
+    "title": {
+      "translate": "advancements.alien-packs.rm_portalgun.get_advanced_machinery.title"
+    },
+    "description": {
+      "translate": "advancements.alien-packs.rm_portalgun.get_advanced_machinery.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "ap-rm_portalgun:portal_gun/visit_citadel",
+  "criteria": {
+    "advanced_machinery": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:diamond_sword"
+            ],
+            "nbt": "{CustomModelData:15}"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "advanced_machinery"
+    ]
+  ]
+}

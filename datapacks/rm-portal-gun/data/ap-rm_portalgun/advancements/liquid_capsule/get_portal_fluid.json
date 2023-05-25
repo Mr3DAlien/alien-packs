@@ -1,0 +1,68 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:diamond_sword",
+        "nbt": "{CustomModelData:5}"
+      },
+      "title": {
+        "translate": "advancements.alien-packs.rm_portalgun.get_portal_fluid.title"
+      },
+      "description": {
+        "translate": "advancements.alien-packs.rm_portalgun.get_portal_fluid.description"
+      },
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat": false,
+      "hidden": false
+    },
+    "parent": "ap-rm_portalgun:liquid_capsule/get_portal_substance",
+    "criteria": {
+      "portal_fluid_level_03": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:diamond_sword"
+              ],
+              "nbt": "{RMLiquidCapsule:3b}"
+            }
+          ]
+        }
+      },
+      "portal_fluid_level_02": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:diamond_sword"
+              ],
+              "nbt": "{RMLiquidCapsule:2b}"
+            }
+          ]
+        }
+      },
+      "portal_fluid_level_01": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:diamond_sword"
+              ],
+              "nbt": "{RMLiquidCapsule:1b}"
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "portal_fluid_level_03",
+        "portal_fluid_level_02",
+        "portal_fluid_level_01"
+      ]
+    ]
+  }
+  

@@ -1,0 +1,14 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "equipment": {
+            "mainhand": {
+                "items": [
+                    "minecraft:diamond_sword"
+                ],
+                "nbt": "{RMLaserCapsule:1b,Unbreakable:1b,HideFlags:63,CustomModelData:10}"
+            }
+        }
+    }
+}

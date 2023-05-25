@@ -1,0 +1,13 @@
+{
+  "type": "ap-rm_portalgun:rick_council",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "ap-rm_portalgun:rick_council",
+      "lakes": false,
+      "features": false,
+      "layers": [],
+      "structure_overrides": []
+    }
+  }
+}

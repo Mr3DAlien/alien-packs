@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ap-rm_portalgun:item/capsules/laser_capsule_01"
+  }
+}

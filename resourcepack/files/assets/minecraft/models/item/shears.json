@@ -4,10 +4,15 @@
     "layer0": "minecraft:item/shears"
   },
   "overrides": [
-		{ "predicate": { "custom_model_data": 1 }, "model": "custom/alien-packs/base/advancement/mr3dalien_animated"},
-    { "predicate": { "custom_model_data": 2 }, "model": "custom/alien-packs/light_sabers/advancement/star_wars"},
-    { "predicate": { "custom_model_data": 3 }, "model": "custom/alien-packs/light_sabers/advancement/unlimited_powaaa"},
-    { "predicate": { "custom_model_data": 4 }, "model": "custom/alien-packs/light_sabers/advancement/force"},
-    { "predicate": { "custom_model_data": 5 }, "model": "custom/alien-packs/light_sabers/advancement/force_choke"}
+		{ "predicate": { "custom_model_data": 1 }, "model": "ap-base:advancement/mr3dalien_animated"},
+
+    { "predicate": { "custom_model_data": 2 }, "model": "ap-ls_lightsabers:advancement/star_wars"},
+    { "predicate": { "custom_model_data": 3 }, "model": "ap-ls_lightsabers:advancement/unlimited_powaaa"},
+    { "predicate": { "custom_model_data": 4 }, "model": "ap-ls_lightsabers:advancement/force"},
+    { "predicate": { "custom_model_data": 5 }, "model": "ap-ls_lightsabers:advancement/force_choke"},
+
+    { "predicate": { "custom_model_data": 6 }, "model": "ap-rm_portalgun:advancement/rick_meme"},
+    { "predicate": { "custom_model_data": 7 }, "model": "ap-rm_portalgun:advancement/fortune"},
+    { "predicate": { "custom_model_data": 8 }, "model": "ap-rm_portalgun:advancement/silk_touch"}
 	]
 }

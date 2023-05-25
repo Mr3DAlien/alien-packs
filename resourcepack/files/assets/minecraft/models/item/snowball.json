@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/snowball"
+  },
+  "overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "ap-base:item/nothing"},
+
+    { "predicate": { "custom_model_data": 2 }, "model": "ap-rm_portalgun:item/dimension_globes/dimension_globe"},
+    { "predicate": { "custom_model_data": 3 }, "model": "ap-rm_portalgun:item/dimension_globes/froopyland_globe"},
+    { "predicate": { "custom_model_data": 4 }, "model": "ap-rm_portalgun:item/dimension_globes/chess_world_globe"},
+    { "predicate": { "custom_model_data": 5 }, "model": "ap-rm_portalgun:item/dimension_globes/glass_world_globe"},
+    { "predicate": { "custom_model_data": 6 }, "model": "ap-rm_portalgun:item/dimension_globes/desert_world_globe"},
+    { "predicate": { "custom_model_data": 7 }, "model": "ap-rm_portalgun:item/dimension_globes/endless_forest_globe"},
+    { "predicate": { "custom_model_data": 8 }, "model": "ap-rm_portalgun:item/dimension_globes/bee_world_globe"},
+    { "predicate": { "custom_model_data": 9 }, "model": "ap-rm_portalgun:item/dimension_globes/35-c_globe"},
+    { "predicate": { "custom_model_data": 10 }, "model": "ap-rm_portalgun:item/dimension_globes/doopidoo_dimension_globe"},
+    { "predicate": { "custom_model_data": 11 }, "model": "ap-rm_portalgun:item/dimension_globes/hell_world_globe"},
+    { "predicate": { "custom_model_data": 12 }, "model": "ap-rm_portalgun:item/dimension_globes/warped_world_globe"},
+    { "predicate": { "custom_model_data": 13 }, "model": "ap-rm_portalgun:item/dimension_globes/village_world_globe"},
+    { "predicate": { "custom_model_data": 14 }, "model": "ap-rm_portalgun:item/dimension_globes/the_abyss_globe"},
+    { "predicate": { "custom_model_data": 15 }, "model": "ap-rm_portalgun:item/dimension_globes/the_nether_globe"},
+    { "predicate": { "custom_model_data": 16 }, "model": "ap-rm_portalgun:item/dimension_globes/the_end_globe"}
+	]
+}

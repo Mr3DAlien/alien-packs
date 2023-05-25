@@ -1,0 +1,24 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:diamond_sword",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{RMLiquidCapsule:0b,Unbreakable:1b,HideFlags:63,CustomModelData:4,display:{Name:'{\"translate\":\"item.alien-packs.rm_portalgun.liquid_capsule.name\"}',Lore:['{\"translate\":\"item.alien-packs.rm_portalgun.liquid_capsule.description.empty\"}']},AttributeModifiers:[{}]}"
+              },
+              {
+                "function": "minecraft:set_count",
+                "count": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

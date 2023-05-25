@@ -1,0 +1,4 @@
+{
+  "function": "minecraft:set_nbt",
+  "tag": "{Unbreakable: 1b, Damage: 0, HideFlags: 63, RMPortalGun: 3b, RMSkin: 3b, RMFuelLevel: 3b, RMActive: 0b, CustomModelData: 53, display: {Lore: ['[{\"translate\":\"item.alien-packs.rm_portalgun.mining_gun.description.mining_fluid\",\"color\":\"yellow\",\"italic\":false}]','[{\"text\":\"\"}]','[{\"translate\":\"item.alien-packs.rm_portalgun.mining_gun.description.info\",\"color\":\"gray\",\"italic\":false}]','[{\"text\":\"\uEff5\",\"font\":\"ap-rm_portalgun:icons\",\"color\":\"white\",\"italic\":false,\"bold\":false},{\"translate\":\"enchantment.minecraft.fortune\",\"italic\":false,\"color\":\"aqua\",\"bold\":true,\"font\":\"default\"}]']}}"
+}

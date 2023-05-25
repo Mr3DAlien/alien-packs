@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CJDisc: 9b, HideFlags: 63, display: {Lore: ['{\"text\":\"BartTheBart - That Day\",\"color\":\"gray\",\"italic\":false}']}, CustomModelData: 9}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -4,8 +4,34 @@
     "layer0": "minecraft:item/diamond_sword"
   },
   "overrides": [
-		{ "predicate": { "custom_model_data": 1 }, "model": "custom/alien-packs/base/skin/mr3dalien"},
-    { "predicate": { "custom_model_data": 2 }, "model": "custom/alien-packs/base/skin/mr3dalien_sitting"},
-    { "predicate": { "custom_model_data": 3 }, "model": "custom/alien-packs/base/skin/mr3dalien_flying"}
+		{ "predicate": { "custom_model_data": 1 }, "model": "ap-base:item/nothing"},
+    { "predicate": { "custom_model_data": 2 }, "model": "ap-base:skin/mr3dalien_sitting"},
+    { "predicate": { "custom_model_data": 3 }, "model": "ap-base:skin/mr3dalien_flying"},
+
+    
+    { "predicate": { "custom_model_data": 4 }, "model": "ap-rm_portalgun:item/capsules/liquid_capsule_00"},
+    { "predicate": { "custom_model_data": 5 }, "model": "ap-rm_portalgun:item/capsules/liquid_capsule_03"},
+    { "predicate": { "custom_model_data": 6 }, "model": "ap-rm_portalgun:item/capsules/liquid_capsule_02"},
+    { "predicate": { "custom_model_data": 7 }, "model": "ap-rm_portalgun:item/capsules/liquid_capsule_01"},
+    
+    { "predicate": { "custom_model_data": 8 }, "model": "ap-rm_portalgun:item/capsules/laser_capsule_03"},
+    { "predicate": { "custom_model_data": 9 }, "model": "ap-rm_portalgun:item/capsules/laser_capsule_02"},
+    { "predicate": { "custom_model_data": 10 }, "model": "ap-rm_portalgun:item/capsules/laser_capsule_01"},
+
+    { "predicate": { "custom_model_data": 11 }, "model": "ap-rm_portalgun:item/plasma_orb"},
+    
+    { "predicate": { "custom_model_data": 12 }, "model": "ap-rm_portalgun:item/gears/gear"},
+    { "predicate": { "custom_model_data": 13 }, "model": "ap-rm_portalgun:item/gears/quartz_gear"},
+    { "predicate": { "custom_model_data": 14 }, "model": "ap-rm_portalgun:item/gears/basic_machinery"},
+    { "predicate": { "custom_model_data": 15 }, "model": "ap-rm_portalgun:item/gears/advanced_machinery"},
+  
+    { "predicate": { "custom_model_data": 16 }, "model": "ap-rm_portalgun:item/portal_gun/broken_gun/portal_gun"},
+    { "predicate": { "custom_model_data": 17 }, "model": "ap-rm_portalgun:item/coords_device/broken_coords_device"},
+
+    { "predicate": { "custom_model_data": 18 }, "model": "ap-rm_portalgun:item/ricks_hair"},
+    { "predicate": { "custom_model_data": 19 }, "model": "ap-rm_portalgun:item/laboratory"},
+
+    { "predicate": { "custom_model_data": 20 }, "model": "ap-rm_portalgun:item/capsules/mining_capsule"}
+ 
 	]
 }

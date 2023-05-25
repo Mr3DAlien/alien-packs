@@ -1,0 +1,33 @@
+{
+    "name": "ap-rm_portalgun:warped_world/small_house/cellar_station",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "ap-rm_portalgun:warped_world/small_house/enchanting_table",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "location": "ap-rm_portalgun:warped_world/small_house/blast_furnace",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 3,
+            "element": {
+                "location": "ap-rm_portalgun:warped_world/small_house/barrel",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        }
+    ]
+}

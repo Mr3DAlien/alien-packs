@@ -1,0 +1,11 @@
+execute in ap-rm_portalgun:35-c run forceload remove all
+execute in ap-rm_portalgun:bee_world run forceload remove all
+execute in ap-rm_portalgun:chess_world run forceload remove all
+execute in ap-rm_portalgun:desert_world run forceload remove all
+execute in ap-rm_portalgun:doopidoo_dimension run forceload remove all
+execute in ap-rm_portalgun:endless_forest run forceload remove all
+execute in ap-rm_portalgun:froopyland run forceload remove all
+execute in ap-rm_portalgun:glass_world run forceload remove all
+execute in ap-rm_portalgun:hell_world run forceload remove all
+execute in ap-rm_portalgun:village_world run forceload remove all
+execute in ap-rm_portalgun:warped_world run forceload remove all

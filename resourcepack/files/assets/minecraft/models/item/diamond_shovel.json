@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_shovel"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "ap-base:item/nothing"},
+		{ "predicate": { "custom_model_data": 2 }, "model": "ap-rm_portalgun:gui/liquid_filler"},
+    { "predicate": { "custom_model_data": 3 }, "model": "ap-rm_portalgun:gui/portal_placer"}
+	]
+}

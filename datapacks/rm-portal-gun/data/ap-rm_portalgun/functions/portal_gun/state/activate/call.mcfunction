@@ -1,0 +1,2 @@
+execute if predicate ap-rm_portalgun:portal_gun/types/mainhand/type_01 run function ap-rm_portalgun:portal_gun/state/activate/portal_fluid
+execute if predicate ap-rm_portalgun:portal_gun/types/mainhand/type_03 run function ap-rm_portalgun:portal_gun/state/activate/mining_fluid

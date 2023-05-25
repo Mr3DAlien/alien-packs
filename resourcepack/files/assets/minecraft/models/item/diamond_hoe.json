@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_hoe"
+  },
+  "overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "ap-rm_portalgun:misc/portal"},
+    { "predicate": { "custom_model_data": 2 }, "model": "ap-rm_portalgun:block/liquid_filler"},
+    { "predicate": { "custom_model_data": 3 }, "model": "ap-rm_portalgun:misc/blue_portal"},
+    { "predicate": { "custom_model_data": 4 }, "model": "ap-rm_portalgun:misc/purple_portal"},
+    { "predicate": { "custom_model_data": 5 }, "model": "ap-rm_portalgun:misc/blue_portal_facing_down"},
+    { "predicate": { "custom_model_data": 6 }, "model": "ap-rm_portalgun:block/portal_placer"},
+    { "predicate": { "custom_model_data": 7 }, "model": "ap-rm_portalgun:block/capsule_filler"},
+    { "predicate": { "custom_model_data": 8 }, "model": "ap-rm_portalgun:misc/yellow_portal"},
+    { "predicate": { "custom_model_data": 9 }, "model": "ap-rm_portalgun:block/portal_placer_empty"}
+	]
+}

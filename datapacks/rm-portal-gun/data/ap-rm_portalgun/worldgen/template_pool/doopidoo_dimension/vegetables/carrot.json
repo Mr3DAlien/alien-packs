@@ -1,0 +1,16 @@
+{
+    "name": "ap-rm_portalgun:doopidoo_dimension/vegetables/carrot",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "ap-rm_portalgun:doopidoo_dimension/vegetables/carrot",
+          "processors": "minecraft:empty"
+        }
+      }
+    ]
+  }
+  

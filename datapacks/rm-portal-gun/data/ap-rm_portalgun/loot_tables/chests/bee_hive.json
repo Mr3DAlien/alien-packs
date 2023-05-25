@@ -1,0 +1,79 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 5,
+        "max": 10
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:honeycomb"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "name": "minecraft:honey_bottle"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "bonus_rolls": 3,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "name": "minecraft:bee_nest",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{BlockEntityTag:{Bees:[{MinOccupationTicks: 600, TicksInHive: 608, EntityData: {HasStung: 0b, Health: 10.0f, HasNectar: 0b, Attributes: [{Base: 0.30000001192092896d, Name: \"minecraft:generic.movement_speed\"}, {Base: 48.0d, Modifiers: [{Operation: 1, UUID: [I; -1745159383, 1120291561, -1285960212, -1355354253], Amount: -0.0624608243763637d, Name: \"Random spawn bonus\"}], Name: \"minecraft:generic.follow_range\"}], Invulnerable: 0b, ForcedAge: 0, AbsorptionAmount: 0.0f, InLove: 0, PersistenceRequired: 0b, id: \"minecraft:bee\", Age: 0, AngerTime: 0}}]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:bee_nest",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{BlockEntityTag:{Bees:[{MinOccupationTicks: 600, TicksInHive: 1146, EntityData: {HasStung: 0b, Health: 10.0f, HasNectar: 0b, Attributes: [{Base: 0.30000001192092896d, Name: \"minecraft:generic.movement_speed\"}, {Base: 48.0d, Modifiers: [{Operation: 1, UUID: [I; -1745159383, 1120291561, -1285960212, -1355354253], Amount: -0.0624608243763637d, Name: \"Random spawn bonus\"}], Name: \"minecraft:generic.follow_range\"}], Invulnerable: 0b, ForcedAge: 0, AbsorptionAmount: 0.0f, InLove: 0, PersistenceRequired: 0b, id: \"minecraft:bee\", Age: 0, AngerTime: 0}}, {MinOccupationTicks: 600, TicksInHive: 118, EntityData: {HasStung: 0b, Health: 10.0f, HasNectar: 0b, Attributes: [{Base: 0.30000001192092896d, Name: \"minecraft:generic.movement_speed\"}, {Base: 48.0d, Modifiers: [{Operation: 1, UUID: [I; -1878149767, -211271204, -1763122528, 1860295211], Amount: -0.09513838361888186d, Name: \"Random spawn bonus\"}], Name: \"minecraft:generic.follow_range\"}], Invulnerable: 0b, ForcedAge: 0, AbsorptionAmount: 0.0f, InLove: 0, PersistenceRequired: 0b, id: \"minecraft:bee\", Age: 0, AngerTime: 0}}]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:bee_nest",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{BlockEntityTag:{Bees:[{MinOccupationTicks: 600, TicksInHive: 1751, EntityData: {HasStung: 0b, Health: 10.0f, HasNectar: 0b, Attributes: [{Base: 0.30000001192092896d, Name: \"minecraft:generic.movement_speed\"}, {Base: 48.0d, Modifiers: [{Operation: 1, UUID: [I; -1745159383, 1120291561, -1285960212, -1355354253], Amount: -0.0624608243763637d, Name: \"Random spawn bonus\"}], Name: \"minecraft:generic.follow_range\"}], Invulnerable: 0b, ForcedAge: 0, AbsorptionAmount: 0.0f, InLove: 0, PersistenceRequired: 0b, id: \"minecraft:bee\", Age: 0, AngerTime: 0}}, {MinOccupationTicks: 600, TicksInHive: 723, EntityData: {HasStung: 0b, Health: 10.0f, HasNectar: 0b, Attributes: [{Base: 0.30000001192092896d, Name: \"minecraft:generic.movement_speed\"}, {Base: 48.0d, Modifiers: [{Operation: 1, UUID: [I; -1878149767, -211271204, -1763122528, 1860295211], Amount: -0.09513838361888186d, Name: \"Random spawn bonus\"}], Name: \"minecraft:generic.follow_range\"}], Invulnerable: 0b, ForcedAge: 0, AbsorptionAmount: 0.0f, InLove: 0, PersistenceRequired: 0b, id: \"minecraft:bee\", Age: 0, AngerTime: 0}}, {MinOccupationTicks: 600, TicksInHive: 31, EntityData: {HasStung: 0b, Health: 10.0f, HasNectar: 0b, Attributes: [{Base: 0.30000001192092896d, Name: \"minecraft:generic.movement_speed\"}, {Base: 48.0d, Modifiers: [{Operation: 1, UUID: [I; 1795394698, 1222790147, -1801903518, 1885219225], Amount: -0.022492325054752925d, Name: \"Random spawn bonus\"}], Name: \"minecraft:generic.follow_range\"}], Invulnerable: 0b, ForcedAge: 0, AbsorptionAmount: 0.0f, InLove: 0, PersistenceRequired: 0b, id: \"minecraft:bee\", Age: 0, AngerTime: 0}}]}}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 50
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 25,
+          "name": "ap-cj_customjukebox:chests/rm_portalgun/toybox"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_helmet",
+      "nbt": "{CustomModelData:1}"
+    },
+    "title": {
+      "translate": "advancements.alien-packs.rm_portalgun.get_ricks_hair.title"
+    },
+    "description": {
+      "translate": "advancements.alien-packs.rm_portalgun.get_ricks_hair.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "ap-rm_portalgun:portal_gun/visit_citadel",
+  "criteria": {
+    "get_ricks_hair": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:iron_helmet"
+            ],
+            "nbt": "{CustomModelData:1}"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "get_ricks_hair"
+    ]
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "ap-rm_portalgun:gui/icons/silk_touch"
+  }
+}

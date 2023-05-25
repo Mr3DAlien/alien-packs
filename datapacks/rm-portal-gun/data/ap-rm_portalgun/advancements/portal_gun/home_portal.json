@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond_hoe",
+      "nbt": "{CustomModelData:3}"
+    },
+    "title": {
+      "translate": "advancements.alien-packs.rm_portalgun.home_portal.title"
+    },
+    "description": {
+      "translate": "advancements.alien-packs.rm_portalgun.home_portal.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "ap-rm_portalgun:portal_gun/activate_gun",
+  "criteria": {
+    "home_portal": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "home_portal"
+    ]
+  ]
+}

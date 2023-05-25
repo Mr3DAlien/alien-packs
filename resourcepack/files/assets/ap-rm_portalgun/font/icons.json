@@ -1,0 +1,58 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "ap-rm_portalgun:gui/icons/overworld.png",
+            "ascent": 10,
+            "height": 15,
+            "chars": [
+                "\uEff1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ap-rm_portalgun:gui/icons/council.png",
+            "ascent": 9,
+            "height": 13,
+            "chars": [
+                "\uEff2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ap-rm_portalgun:gui/icons/random.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uEff3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ap-rm_portalgun:gui/icons/silk_touch.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uEff4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ap-rm_portalgun:gui/icons/fortune.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uEff5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ap-rm_portalgun:gui/icons/instant_damage.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uEff6"
+            ]
+        }
+    ]
+}

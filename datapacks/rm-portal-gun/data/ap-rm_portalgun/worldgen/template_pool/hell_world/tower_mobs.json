@@ -1,0 +1,24 @@
+{
+    "name": "ap-rm_portalgun:hell_world/tower_mobs",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 2,
+            "element": {
+                "location": "ap-rm_portalgun:hell_world/tower_piglin_brute",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "location": "ap-rm_portalgun:hell_world/tower_empty",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        }
+    ]
+}

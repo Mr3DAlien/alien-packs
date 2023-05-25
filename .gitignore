@@ -13,3 +13,6 @@
 /session.lock
 /poi/*
 /generated/*
+/dimensions/*
+/serverconfig/*
+*.db

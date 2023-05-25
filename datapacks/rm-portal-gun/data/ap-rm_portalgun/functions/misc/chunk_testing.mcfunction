@@ -1,0 +1,14 @@
+execute in minecraft:overworld store result score %OVERWORLD ap-rm_chunk_testing run forceload query
+execute in minecraft:the_nether store result score %THE_NETHER ap-rm_chunk_testing run forceload query
+execute in minecraft:the_end store result score %THE_END ap-rm_chunk_testing run forceload query
+execute in ap-rm_portalgun:35-c store result score %35-c ap-rm_chunk_testing run forceload query
+execute in ap-rm_portalgun:bee_world store result score %bee_world ap-rm_chunk_testing run forceload query
+execute in ap-rm_portalgun:chess_world store result score %chess_world ap-rm_chunk_testing run forceload query
+execute in ap-rm_portalgun:desert_world store result score %desert_world ap-rm_chunk_testing run forceload query
+execute in ap-rm_portalgun:doopidoo_dimension store result score %doopidoo_dimension ap-rm_chunk_testing run forceload query
+execute in ap-rm_portalgun:endless_forest store result score %endless_forest ap-rm_chunk_testing run forceload query
+execute in ap-rm_portalgun:froopyland store result score %froopyland ap-rm_chunk_testing run forceload query
+execute in ap-rm_portalgun:glass_world store result score %glass_world ap-rm_chunk_testing run forceload query
+execute in ap-rm_portalgun:hell_world store result score %hell_world ap-rm_chunk_testing run forceload query
+execute in ap-rm_portalgun:village_world store result score %village_world ap-rm_chunk_testing run forceload query
+execute in ap-rm_portalgun:warped_world store result score %warped_world ap-rm_chunk_testing run forceload query

@@ -1,0 +1,23 @@
+{
+    "structures": [
+      {
+        "structure": "ap-rm_portalgun:doopidoo_dimension/vegetables/wheat",
+        "weight": 1
+      },
+      {
+        "structure": "ap-rm_portalgun:doopidoo_dimension/vegetables/potato",
+        "weight": 1
+      },
+      {
+        "structure": "ap-rm_portalgun:doopidoo_dimension/vegetables/carrot",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 253616250,
+      "spacing": 15,
+      "separation": 10
+    }
+  }
+  

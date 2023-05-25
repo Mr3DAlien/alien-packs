@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+      "#ap-rm_portalgun:ores",
+      "#ap-rm_portalgun:mushroom_blocks",
+      "#minecraft:logs",
+      "minecraft:mangrove_roots"
+    ]
+  }

@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:marker,nbt={data:{CJMarker:1b}}] run data modify entity @s data.CJMarker set value 2b

@@ -1,0 +1,3 @@
+execute as @e[tag=ap-rm_capsule_filler_marker] at @s run function ap-rm_portalgun:capsule_filler/create/call 
+execute as @e[tag=ap-rm_capsule_filler,sort=random,limit=1] at @s if block ~ ~ ~ minecraft:barrel{Items:[{tag:{RMLiquidCapsule:3b}}]} if entity @e[tag=ap-rm_portal_placer,tag=ap-rm_empty,limit=1,distance=..15] run function ap-rm_portalgun:capsule_filler/fill
+execute as @e[tag=ap-rm_capsule_filler] at @s unless block ~ ~ ~ minecraft:barrel run function ap-rm_portalgun:capsule_filler/destroy 

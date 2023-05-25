@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:warped_fungus_on_a_stick",
+      "nbt": "{CustomModelData:49}"
+    },
+    "title": {
+      "translate": "advancements.alien-packs.rm_portalgun.fill_mining_gun.title"
+    },
+    "description": {
+      "translate": "advancements.alien-packs.rm_portalgun.fill_mining_gun.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "ap-rm_portalgun:portal_gun/repair_portal_gun",
+  "criteria": {
+    "fill_mining_gun": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:warped_fungus_on_a_stick"
+            ],
+            "nbt": "{RMPortalGun:3b,RMFuelLevel:3b}"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "fill_mining_gun"
+    ]
+  ]
+}

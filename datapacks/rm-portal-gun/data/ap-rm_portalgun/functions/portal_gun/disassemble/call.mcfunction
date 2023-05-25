@@ -1,0 +1,3 @@
+execute if predicate ap-rm_portalgun:portal_gun/types/offhand/type_01 run function ap-rm_portalgun:portal_gun/disassemble/portal_fluid
+execute if predicate ap-rm_portalgun:portal_gun/types/offhand/type_02 run function ap-rm_portalgun:portal_gun/disassemble/laser_fluid
+execute if predicate ap-rm_portalgun:portal_gun/types/offhand/type_03 run function ap-rm_portalgun:portal_gun/disassemble/mining_fluid

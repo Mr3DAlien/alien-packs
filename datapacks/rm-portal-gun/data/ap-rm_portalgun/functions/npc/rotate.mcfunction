@@ -1,0 +1,1 @@
+execute as @e[tag=ap-rm_npc] at @s if entity @a[distance=..300] run tp @s ~ ~ ~ facing entity @p

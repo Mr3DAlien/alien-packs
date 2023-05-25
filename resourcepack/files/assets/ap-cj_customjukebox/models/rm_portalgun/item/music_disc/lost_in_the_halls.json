@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ap-cj_customjukebox:rm_portalgun/item/music_disc/lost_in_the_halls"
+  }
+}

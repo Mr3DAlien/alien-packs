@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CJDisc: 12b, HideFlags: 63, display: {Lore: ['{\"text\":\"BartTheBart - What could have been\",\"color\":\"gray\",\"italic\":false}']}, CustomModelData: 12}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

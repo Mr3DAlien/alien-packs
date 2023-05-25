@@ -1,0 +1,12 @@
+{
+    "type": "ap-rm_portalgun:endless_forest",
+    "generator": {
+      "type": "minecraft:noise",
+      "settings": "minecraft:overworld",
+      "biome_source": {
+        "type": "minecraft:fixed",
+        "biome": "ap-rm_portalgun:endless_forest"
+      }
+    }
+  }
+  

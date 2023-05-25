@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:snowball",
+      "nbt": "{CustomModelData:2}"
+    },
+    "title": {
+      "translate": "advancements.alien-packs.rm_portalgun.get_globe.title"
+    },
+    "description": {
+      "translate": "advancements.alien-packs.rm_portalgun.get_globe.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "ap-rm_portalgun:portal_gun/visit_citadel",
+  "criteria": {
+    "get_globe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:snowball"
+            ],
+            "nbt": "{RMGlobe:0}"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "get_globe"
+    ]
+  ]
+}

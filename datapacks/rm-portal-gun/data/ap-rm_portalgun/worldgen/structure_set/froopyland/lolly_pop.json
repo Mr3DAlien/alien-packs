@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "ap-rm_portalgun:froopyland/lolly_pop",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1674398953,
+    "spacing": 100,
+    "separation": 50
+  }
+}

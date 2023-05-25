@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "ap-base:advancement/mr3dalien_animated"
+  }
+}

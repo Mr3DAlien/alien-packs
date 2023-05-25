@@ -1,0 +1,92 @@
+{
+    "item.lightsaber.activate": {
+        "subtitle": "Lightsaber Ignite",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "ap-ls_lightsabers:lightsaber",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "item.lightsaber.deactivate": {
+        "subtitle": "Lightsaber turned off",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "ap-ls_lightsabers:lightsaber_turn_off",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "item.kylo_lightsaber.activate": {
+        "subtitle": "Kylo Ren Lightsaber Ignite",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "ap-ls_lightsabers:lightsaber_kylo",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "item.kylo_lightsaber.deactivate": {
+        "subtitle": "Kylo Ren Lightsaber turned off",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "ap-ls_lightsabers:lightsaber_kylo_turn_off",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "entity.player.vader_helmet.breathing": {
+        "subtitle": "Darth Vader Breathing",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "ap-ls_lightsabers:vader_breathing",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "entity.player.vader_helmet.broken_breathing": {
+        "subtitle": "Darth Vader Broken Breathing",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "ap-ls_lightsabers:vader_broken_breathing",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    }
+}

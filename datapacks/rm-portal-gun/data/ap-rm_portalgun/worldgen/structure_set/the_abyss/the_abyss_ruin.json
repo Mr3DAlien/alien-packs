@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "ap-rm_portalgun:the_abyss/the_abyss_ruin",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 2048073669,
+    "spacing": 20,
+    "separation": 10
+  }
+}

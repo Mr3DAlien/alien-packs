@@ -1,0 +1,40 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "ap-rm_portalgun:gui/overheating_levels/cold.png",
+            "ascent": 0,
+            "height": 20,
+            "chars": [
+                "\uEff1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ap-rm_portalgun:gui/overheating_levels/medium.png",
+            "ascent": 0,
+            "height": 20,
+            "chars": [
+                "\uEff2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ap-rm_portalgun:gui/overheating_levels/hot.png",
+            "ascent": 0,
+            "height": 20,
+            "chars": [
+                "\uEff3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ap-rm_portalgun:gui/overheating_levels/overheated.png",
+            "ascent": 0,
+            "height": 20,
+            "chars": [
+                "\uEff4"
+            ]
+        }
+    ]
+}

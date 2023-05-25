@@ -1,0 +1,215 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:music_disc_11",
+      "nbt": "{CustomModelData:4}"
+    },
+    "title": {
+      "translate": "advancements.alien-packs.cj_customjukebox.rm_portalgun.get_all_discs.title"
+    },
+    "description": {
+      "translate": "advancements.alien-packs.cj_customjukebox.rm_portalgun.get_all_discs.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "ap-cj_customjukebox:rm_portalgun/get_what_could_have_been",
+  "criteria": {
+    "get_strange_occurance": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:music_disc_11"
+            ],
+            "nbt": "{CJDisc:1b}"
+          }
+        ]
+      }
+    },
+    "get_toybox": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:music_disc_11"
+            ],
+            "nbt": "{CJDisc:2b}"
+          }
+        ]
+      }
+    },
+    "get_shivers": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:music_disc_11"
+            ],
+            "nbt": "{CJDisc:3b}"
+          }
+        ]
+      }
+    },
+    "get_at_the_end_of_the_day": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:music_disc_11"
+            ],
+            "nbt": "{CJDisc:4b}"
+          }
+        ]
+      }
+    },
+    "get_foreign_fields": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:music_disc_11"
+            ],
+            "nbt": "{CJDisc:5b}"
+          }
+        ]
+      }
+    },
+    "get_house_of_madness": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:music_disc_11"
+            ],
+            "nbt": "{CJDisc:6b}"
+          }
+        ]
+      }
+    },
+    "get_howling_peaks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:music_disc_11"
+            ],
+            "nbt": "{CJDisc:7b}"
+          }
+        ]
+      }
+    },
+    "get_lost_in_the_halls": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:music_disc_11"
+            ],
+            "nbt": "{CJDisc:8b}"
+          }
+        ]
+      }
+    },
+    "get_that_day": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:music_disc_11"
+            ],
+            "nbt": "{CJDisc:9b}"
+          }
+        ]
+      }
+    },
+    "get_the_bliss_of_the_past": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:music_disc_11"
+            ],
+            "nbt": "{CJDisc:10b}"
+          }
+        ]
+      }
+    },
+    "get_the_source": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:music_disc_11"
+            ],
+            "nbt": "{CJDisc:11b}"
+          }
+        ]
+      }
+    },
+    "get_what_could_have_been": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:music_disc_11"
+            ],
+            "nbt": "{CJDisc:12b}"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "get_strange_occurance"
+    ],
+    [
+      "get_toybox"
+    ],
+    [
+      "get_shivers"
+    ],
+    [
+      "get_at_the_end_of_the_day"
+    ],
+    [
+      "get_foreign_fields"
+    ],
+    [
+      "get_house_of_madness"
+    ],
+    [
+      "get_howling_peaks"
+    ],
+    [
+      "get_lost_in_the_halls"
+    ],
+    [
+      "get_that_day"
+    ],
+    [
+      "get_the_bliss_of_the_past"
+    ],
+    [
+      "get_the_source"
+    ],
+    [
+      "get_what_could_have_been"
+    ]
+  ]
+}

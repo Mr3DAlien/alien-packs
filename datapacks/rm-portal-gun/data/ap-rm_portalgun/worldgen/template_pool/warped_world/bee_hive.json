@@ -1,0 +1,15 @@
+{
+    "name": "ap-rm_portalgun:bee_hive",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "ap-rm_portalgun:bee_hive_01",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "structures": [
+      {
+        "structure": "ap-rm_portalgun:village_world/village",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 740466035,
+      "spacing": 12,
+      "separation": 6
+    }
+  }
+  

@@ -1,0 +1,2 @@
+execute if predicate ap-rm_portalgun:portal_gun/state/deactive run function ap-rm_portalgun:portal_gun/state/activate/call
+execute if predicate ap-rm_portalgun:portal_gun/state/active run function ap-rm_portalgun:portal_gun/state/deactivate/call

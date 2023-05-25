@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/netherite_sword"
   },
   "overrides": [
-		{ "predicate": { "custom_model_data": 1 }, "model": "custom/alien-packs/light_sabers/item/vader_helmet"},
-    { "predicate": { "custom_model_data": 2 }, "model": "custom/alien-packs/light_sabers/item/vader_helmet_damaged"}
+		{ "predicate": { "custom_model_data": 1 }, "model": "ap-ls_lightsabers:item/vader_helmet"},
+    { "predicate": { "custom_model_data": 2 }, "model": "ap-ls_lightsabers:item/vader_helmet_damaged"}
 	]
 }
