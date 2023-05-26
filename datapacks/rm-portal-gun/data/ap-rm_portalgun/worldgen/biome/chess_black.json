@@ -1,48 +1,46 @@
 {
-    "temperature": 0.8,
-    "downfall": 0.4,
-    "precipitation": "rain",
-    "category": "desert",
-    "effects": {
-      "sky_color": 3815994,
-      "fog_color": 3815994,
-      "water_color": 3815994,
-      "water_fog_color": 3815994,
-      "grass_color": 3815994,
-      "foliage_color": 3815994,
-      "music": {
-        "sound": "ap-rm_portalgun:music.the_bliss_of_the_past",
-        "min_delay": 12000,
-        "max_delay": 24000,
-        "replace_current_music": false
-      }
-    },
-    "spawners": {},
-    "spawn_costs": {},
-    "carvers": {},
-    "features": [
-      [
-        "minecraft:trees_savanna"
-      ],
-      [
-        "minecraft:patch_grass_normal",
-        "minecraft:flower_default"
-      ],
-      [
-        "minecraft:ore_coal_lower",
-        "minecraft:ore_coal_upper",
-        "minecraft:ore_emerald"
-      ],
-      [
-        "minecraft:underwater_magma",
-        "minecraft:spring_water",
-        "minecraft:glow_lichen",
-        "minecraft:weeping_vines",
-        "minecraft:glowstone"
-      ],
-      [
-        "minecraft:amethyst_geode"
-      ]
+  "temperature": 0.8,
+  "downfall": 0.4,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 3815994,
+    "fog_color": 3815994,
+    "water_color": 3815994,
+    "water_fog_color": 3815994,
+    "grass_color": 3815994,
+    "foliage_color": 3815994,
+    "music": {
+      "sound": "ap-rm_portalgun:music.the_bliss_of_the_past",
+      "min_delay": 12000,
+      "max_delay": 24000,
+      "replace_current_music": false
+    }
+  },
+  "spawners": {},
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [
+      "minecraft:trees_savanna"
+    ],
+    [
+      "minecraft:patch_grass_normal",
+      "minecraft:flower_default"
+    ],
+    [
+      "minecraft:ore_coal_lower",
+      "minecraft:ore_coal_upper",
+      "minecraft:ore_emerald"
+    ],
+    [
+      "minecraft:underwater_magma",
+      "minecraft:spring_water",
+      "minecraft:glow_lichen",
+      "minecraft:weeping_vines",
+      "minecraft:glowstone"
+    ],
+    [
+      "minecraft:amethyst_geode"
     ]
-  }
-  
+  ]
+}
