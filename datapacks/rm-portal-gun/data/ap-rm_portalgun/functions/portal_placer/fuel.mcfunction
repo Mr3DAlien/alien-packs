@@ -4,8 +4,8 @@ execute if block ~ ~ ~ minecraft:barrel{Items:[{Slot:11b,tag:{RMLiquidCapsule:3b
 
 playsound ap-rm_portalgun:entity.projectile.portal_fluid neutral @a
 execute if block ~ ~ ~ minecraft:barrel[facing=up] positioned ~ ~1 ~ unless entity @e[type=minecraft:armor_stand,tag=ap-rm_portal,distance=..0.5,limit=1,sort=nearest] run function ap-rm_portalgun:portal_placer/direction/up
-execute if block ~ ~ ~ minecraft:barrel[facing=down] positioned ~ ~-4.5 ~ unless entity @e[type=minecraft:armor_stand,tag=ap-rm_portal,distance=..0.5,limit=1,sort=nearest] run function ap-rm_portalgun:portal_placer/direction/down
-execute if block ~ ~ ~ minecraft:barrel[facing=north] positioned ~ ~ ~-1.5 unless entity @e[type=minecraft:armor_stand,tag=ap-rm_portal,distance=..0.5,limit=1,sort=nearest] run function ap-rm_portalgun:portal_placer/direction/north
-execute if block ~ ~ ~ minecraft:barrel[facing=east] positioned ~1.5 ~ ~ unless entity @e[type=minecraft:armor_stand,tag=ap-rm_portal,distance=..0.5,limit=1,sort=nearest] run function ap-rm_portalgun:portal_placer/direction/east
-execute if block ~ ~ ~ minecraft:barrel[facing=south] positioned ~ ~ ~1.5 unless entity @e[type=minecraft:armor_stand,tag=ap-rm_portal,distance=..0.5,limit=1,sort=nearest] run function ap-rm_portalgun:portal_placer/direction/south
-execute if block ~ ~ ~ minecraft:barrel[facing=west] positioned ~-1.5 ~ ~ unless entity @e[type=minecraft:armor_stand,tag=ap-rm_portal,distance=..0.5,limit=1,sort=nearest] run function ap-rm_portalgun:portal_placer/direction/west
+execute if block ~ ~ ~ minecraft:barrel[facing=down] positioned ~ ~-5 ~ unless entity @e[type=minecraft:armor_stand,tag=ap-rm_portal,distance=..0.5,limit=1,sort=nearest] run function ap-rm_portalgun:portal_placer/direction/down
+execute if block ~ ~ ~ minecraft:barrel[facing=north] positioned ~ ~-0.5 ~-1.5 unless entity @e[type=minecraft:armor_stand,tag=ap-rm_portal,distance=..0.5,limit=1,sort=nearest] run function ap-rm_portalgun:portal_placer/direction/north
+execute if block ~ ~ ~ minecraft:barrel[facing=east] positioned ~1.5 ~-0.5 ~ unless entity @e[type=minecraft:armor_stand,tag=ap-rm_portal,distance=..0.5,limit=1,sort=nearest] run function ap-rm_portalgun:portal_placer/direction/east
+execute if block ~ ~ ~ minecraft:barrel[facing=south] positioned ~ ~-0.5 ~1.5 unless entity @e[type=minecraft:armor_stand,tag=ap-rm_portal,distance=..0.5,limit=1,sort=nearest] run function ap-rm_portalgun:portal_placer/direction/south
+execute if block ~ ~ ~ minecraft:barrel[facing=west] positioned ~-1.5 ~-0.5 ~ unless entity @e[type=minecraft:armor_stand,tag=ap-rm_portal,distance=..0.5,limit=1,sort=nearest] run function ap-rm_portalgun:portal_placer/direction/west
