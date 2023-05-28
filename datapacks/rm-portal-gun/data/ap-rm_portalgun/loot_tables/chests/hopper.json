@@ -9,7 +9,7 @@
             "functions": [
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{RMLiquidCapsule:0b,Unbreakable:1b,HideFlags:63,CustomModelData:4,display:{Name:'{\"translate\":\"item.alien-packs.rm_portalgun.liquid_capsule.name\"}',Lore:['{\"translate\":\"item.alien-packs.rm_portalgun.liquid_capsule.description.empty\"}']},AttributeModifiers:[{}]}"
+                "tag": "{RMLiquidCapsule:0b,Unbreakable:1b,HideFlags:63,CustomModelData:4,display:{Name:'{\"translate\":\"item.alien-packs.rm_portalgun.liquid_capsule.name\",\"color\":\"white\",\"italic\":false}',Lore:['{\"translate\":\"item.alien-packs.rm_portalgun.liquid_capsule.description.empty\",\"color\":\"white\",\"italic\":false}']},AttributeModifiers:[{}]}"
               },
               {
                 "function": "minecraft:set_count",
