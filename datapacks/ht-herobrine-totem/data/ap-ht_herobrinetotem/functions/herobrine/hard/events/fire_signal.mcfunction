@@ -1,0 +1,2 @@
+execute if block ~ ~ ~ minecraft:air if block ~ ~2 ~ minecraft:air run setblock ~ ~ ~ minecraft:soul_sand replace
+execute if block ~ ~ ~ minecraft:soul_sand if block ~ ~2 ~ minecraft:air run setblock ~ ~2 ~ minecraft:soul_fire replace

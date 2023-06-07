@@ -1,0 +1,1 @@
+summon minecraft:armor_stand ~ ~ ~ {Invisible:1b,ArmorItems:[{},{},{},{id:"minecraft:golden_hoe",Count:1b,tag:{CustomModelData:1}}],Tags:["ap-ht_herobrine"]}

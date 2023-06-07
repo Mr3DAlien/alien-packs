@@ -1,0 +1,32 @@
+{
+    "music_disc.its_herobrine": {
+        "subtitle": "The Source Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-ht_herobrinetotem:music_disc/its_herobrine",
+                "volume": 0.6,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 66,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "music_disc.see_herobrine": {
+        "subtitle": "Lost in the Halls Music - by BartTheBart",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "ap-ht_herobrinetotem:music_disc/see_herobrine",
+                "volume": 0.6,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 66,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    }
+}

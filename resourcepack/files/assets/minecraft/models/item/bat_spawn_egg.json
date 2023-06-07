@@ -3,6 +3,9 @@
   
   "overrides": [
 		{ "predicate": { "custom_model_data": 1 }, "model": "ap-rm_portalgun:item/capsule_filler"},
-    { "predicate": { "custom_model_data": 2 }, "model": "ap-rm_portalgun:item/portal_placer"}
+    { "predicate": { "custom_model_data": 2 }, "model": "ap-rm_portalgun:item/portal_placer"},
+
+    { "predicate": { "custom_model_data": 3 }, "model": "ap-ht_herobrinetotem:block/herobrine_totem"},
+    { "predicate": { "custom_model_data": 4 }, "model": "ap-ht_herobrinetotem:block/herobrine_totem_activated"}
 	]
 }

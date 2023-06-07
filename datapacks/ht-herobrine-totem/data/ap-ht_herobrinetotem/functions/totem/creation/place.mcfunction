@@ -1,0 +1,8 @@
+execute if entity @e[distance=..0.5,tag=!ap-ht_totem_marker,type=!minecraft:item] run give @a[sort=nearest,limit=1,scores={ap-ht_place=1},gamemode=!creative] minecraft:bat_spawn_egg{EntityTag: {Tags: ["ap-ht_marker", "ap-ht_totem_marker"], id: "minecraft:marker"}, CustomModelData: 3, display: {Name: '{"translate":"block.alien-packs.ht_herobrine_totem.herobrine_totem.name","italic":false}'}} 1
+execute positioned ~ ~-1 ~ if entity @a[distance=..0.5] run give @a[sort=nearest,limit=1,scores={ap-ht_place=1},gamemode=!creative] minecraft:bat_spawn_egg{EntityTag: {Tags: ["ap-ht_marker", "ap-ht_totem_marker"], id: "minecraft:marker"}, CustomModelData: 3, display: {Name: '{"translate":"block.alien-packs.ht_herobrine_totem.herobrine_totem.name","italic":false}'}} 1
+execute unless block ~ ~ ~ #minecraft:replaceable_plants unless block ~ ~ ~ minecraft:air run give @a[sort=nearest,limit=1,scores={ap-ht_place=1},gamemode=!creative] minecraft:bat_spawn_egg{EntityTag: {Tags: ["ap-ht_marker", "ap-ht_totem_marker"], id: "minecraft:marker"}, CustomModelData: 3, display: {Name: '{"translate":"block.alien-packs.ht_herobrine_totem.herobrine_totem.name","italic":false}'}} 1
+
+execute unless entity @e[distance=..0.5,tag=!ap-ht_totem_marker,type=!minecraft:item] positioned ~ ~-1 ~ unless entity @a[distance=..0.5] positioned ~ ~1 ~ if block ~ ~ ~ minecraft:air run function ap-ht_herobrinetotem:totem/creation/create
+execute unless entity @e[distance=..0.5,tag=!ap-ht_totem_marker,type=!minecraft:item] positioned ~ ~-1 ~ unless entity @a[distance=..0.5] positioned ~ ~1 ~ if block ~ ~ ~ #minecraft:replaceable_plants run function ap-ht_herobrinetotem:totem/creation/create
+
+kill @s

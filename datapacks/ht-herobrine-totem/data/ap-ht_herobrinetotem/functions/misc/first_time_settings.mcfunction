@@ -1,0 +1,2 @@
+execute unless score %difficulty ap-ht_behavior matches 1..2 run function ap-ht_herobrinetotem:misc/difficulty
+execute if score @s ap-ht_difficulty matches 1..2 run scoreboard players reset @a ap-ht_difficulty

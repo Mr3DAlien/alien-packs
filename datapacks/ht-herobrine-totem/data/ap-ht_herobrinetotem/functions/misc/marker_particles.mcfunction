@@ -1,0 +1,1 @@
+execute as @e[tag=ap-ht_marker,nbt={data:{ShowMarker:1b}}] at @s run particle minecraft:dust 0.294 0.157 0.004 1 ~ ~ ~ 0.1 0.1 0.1 1 10 normal

@@ -1,0 +1,2 @@
+data merge entity @e[type=minecraft:item,sort=nearest,limit=1,distance=..0.5,nbt={Item:{id:"minecraft:netherrack"}}] {Item:{id:"minecraft:bat_spawn_egg",Count:1b,tag:{EntityTag: {Tags: ["ap-ht_marker", "ap-ht_totem_marker"], id: "minecraft:marker"}, CustomModelData: 3, display: {Name: '{"translate":"block.alien-packs.ht_herobrine_totem.herobrine_totem.name","italic":false}'}}}}
+kill @s

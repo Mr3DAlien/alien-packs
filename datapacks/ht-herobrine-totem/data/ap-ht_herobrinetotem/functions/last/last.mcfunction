@@ -1,0 +1,1 @@
+function ap-ht_herobrinetotem:last/place_score

@@ -1,0 +1,1 @@
+execute as @e[tag=ap-ht_marker] run data modify entity @s data.ShowMarker set value 0b

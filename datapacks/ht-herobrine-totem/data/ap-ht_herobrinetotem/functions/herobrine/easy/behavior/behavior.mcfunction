@@ -1,0 +1,2 @@
+execute if entity @a[distance=..25] run function ap-ht_herobrinetotem:herobrine/easy/behavior/despawn
+execute if predicate ap-ht_herobrinetotem:01_percent run function ap-ht_herobrinetotem:herobrine/easy/events/select

@@ -1,0 +1,2 @@
+execute if block ~ ~ ~ minecraft:air if block ~ ~1 ~ minecraft:air run setblock ~ ~1 ~ minecraft:structure_block{metadata: "", mirror: "NONE", ignoreEntities: 1b, powered: 0b, seed: 0L, author: "Mr3DAlien", rotation: "NONE", posX: 0, mode: "LOAD", posY: -1, sizeX: 1, posZ: 0, integrity: 1.0f, showair: 0b, name: "ap-ht_herobrinetotem:soul_fire", id: "minecraft:structure_block", sizeY: 2, sizeZ: 1, showboundingbox: 1b}
+execute if block ~ ~ ~ minecraft:air if block ~ ~1 ~ minecraft:structure_block run setblock ~ ~ ~ minecraft:redstone_block
