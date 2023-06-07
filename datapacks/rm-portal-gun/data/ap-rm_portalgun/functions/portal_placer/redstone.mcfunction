@@ -73,7 +73,6 @@ execute if block ~1 ~1 ~ minecraft:lever[powered=true,face=wall,facing=east] run
 execute if block ~-1 ~1 ~ minecraft:lever[powered=true,face=wall,facing=west] run scoreboard players set %portalPlacer ap-rm_settings 1
 execute if block ~ ~2 ~ minecraft:lever[powered=true,face=floor] run scoreboard players set %portalPlacer ap-rm_settings 1
 
-
-execute if score %portalPlacer ap-rm_settings matches 1.. if entity @s[tag=!ap-rm_placer_powered] run function ap-rm_portalgun:portal_placer/fuel
+execute if score %portalPlacer ap-rm_settings matches 1 if entity @s[tag=!ap-rm_placer_powered] run function ap-rm_portalgun:portal_placer/fuel
 tag @s remove ap-rm_placer_powered
-execute if score %portalPlacer ap-rm_settings matches 1.. run tag @s add ap-rm_placer_powered
+execute if score %portalPlacer ap-rm_settings matches 1 run tag @s add ap-rm_placer_powered
