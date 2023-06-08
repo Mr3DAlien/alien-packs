@@ -1,4 +1,88 @@
 {
+    "entity.rick.burp": {
+        "subtitle": "Rick Burping",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:burps/burp_01",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            },
+            {
+                "name": "ap-rm_portalgun:burps/burp_02",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            },
+            {
+                "name": "ap-rm_portalgun:burps/burp_03",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            },
+            {
+                "name": "ap-rm_portalgun:burps/burp_04",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            },
+            {
+                "name": "ap-rm_portalgun:burps/burp_05",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "entity.morty.geez": {
+        "subtitle": "Rick Burping",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "ap-rm_portalgun:geez/geez_01",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            },
+            {
+                "name": "ap-rm_portalgun:geez/geez_02",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            },
+            {
+                "name": "ap-rm_portalgun:geez/geez_03",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
     "entity.projectile.portal_fluid": {
         "subtitle": "Portal Projectile",
         "replace": false,
