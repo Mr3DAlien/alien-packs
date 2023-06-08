@@ -1,90 +1,89 @@
 {
-    "condition": "minecraft:alternative",
-    "terms": [
-      {
-        "condition": "minecraft:location_check",
-        "predicate": {
-          "dimension": "ap-rm_portalgun:froopyland"
-        }
-      },
-      {
-        "condition": "minecraft:location_check",
-        "predicate": {
-          "dimension": "ap-rm_portalgun:chess_world"
-        }
-      },
-      {
-        "condition": "minecraft:location_check",
-        "predicate": {
-          "dimension": "ap-rm_portalgun:glass_world"
-        }
-      },
-      {
-        "condition": "minecraft:location_check",
-        "predicate": {
-          "dimension": "ap-rm_portalgun:desert_world"
-        }
-      },
-      {
-        "condition": "minecraft:location_check",
-        "predicate": {
-          "dimension": "ap-rm_portalgun:endless_forest"
-        }
-      },
-      {
-        "condition": "minecraft:location_check",
-        "predicate": {
-          "dimension": "ap-rm_portalgun:bee_world"
-        }
-      },
-      {
-        "condition": "minecraft:location_check",
-        "predicate": {
-          "dimension": "ap-rm_portalgun:35-c"
-        }
-      },
-      {
-        "condition": "minecraft:location_check",
-        "predicate": {
-          "dimension": "ap-rm_portalgun:doopidoo_dimension"
-        }
-      },
-      {
-        "condition": "minecraft:location_check",
-        "predicate": {
-          "dimension": "ap-rm_portalgun:hell_world"
-        }
-      },
-      {
-        "condition": "minecraft:location_check",
-        "predicate": {
-          "dimension": "ap-rm_portalgun:warped_world"
-        }
-      },
-      {
-        "condition": "minecraft:location_check",
-        "predicate": {
-          "dimension": "ap-rm_portalgun:village_world"
-        }
-      },
-      {
-        "condition": "minecraft:location_check",
-        "predicate": {
-          "dimension": "ap-rm_portalgun:the_abyss"
-        }
-      },
-      {
-        "condition": "minecraft:location_check",
-        "predicate": {
-          "dimension": "minecraft:the_nether"
-        }
-      },
-      {
-        "condition": "minecraft:location_check",
-        "predicate": {
-          "dimension": "minecraft:the_end"
-        }
+  "condition": "minecraft:any_of",
+  "terms": [
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "dimension": "ap-rm_portalgun:froopyland"
       }
-    ]
-  }
-  
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "dimension": "ap-rm_portalgun:chess_world"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "dimension": "ap-rm_portalgun:glass_world"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "dimension": "ap-rm_portalgun:desert_world"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "dimension": "ap-rm_portalgun:endless_forest"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "dimension": "ap-rm_portalgun:bee_world"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "dimension": "ap-rm_portalgun:35-c"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "dimension": "ap-rm_portalgun:doopidoo_dimension"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "dimension": "ap-rm_portalgun:hell_world"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "dimension": "ap-rm_portalgun:warped_world"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "dimension": "ap-rm_portalgun:village_world"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "dimension": "ap-rm_portalgun:the_abyss"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "dimension": "minecraft:the_nether"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "dimension": "minecraft:the_end"
+      }
+    }
+  ]
+}
