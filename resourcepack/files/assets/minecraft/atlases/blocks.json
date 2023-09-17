@@ -62,7 +62,11 @@
         },
         {
             "type": "single",
-            "resource": "ap-ht_herobrinetotem:entity/herobrine"
+            "resource": "minecraft:entity/player/wide/steve"
+        },
+        {
+            "type": "single",
+            "resource": "ap-ht_herobrinetotem:entity/herobrine_eyes"
         },
         {
             "type": "single",
