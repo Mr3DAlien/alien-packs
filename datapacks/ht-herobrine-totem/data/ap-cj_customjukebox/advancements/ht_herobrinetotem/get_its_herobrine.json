@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:music_disc_11",
+      "nbt": "{CustomModelData:13}"
+    },
+    "title": {
+      "translate": "advancements.alien-packs.cj_customjukebox.ht_herobrinetotem.get_its_herobrine.title"
+    },
+    "description": {
+      "translate": "advancements.alien-packs.cj_customjukebox.ht_herobrinetotem.get_its_herobrine.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "ap-cj_customjukebox:root",
+  "criteria": {
+    "get_its_herobrine": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:music_disc_11"
+            ],
+            "nbt": "{CJDisc:13b}"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "get_its_herobrine"
+    ]
+  ]
+}

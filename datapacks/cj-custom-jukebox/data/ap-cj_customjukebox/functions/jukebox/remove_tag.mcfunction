@@ -10,5 +10,7 @@ tag @s[tag=ap-cj_hears_disc_09] remove ap-cj_hears_disc_09
 tag @s[tag=ap-cj_hears_disc_10] remove ap-cj_hears_disc_10
 tag @s[tag=ap-cj_hears_disc_11] remove ap-cj_hears_disc_11
 tag @s[tag=ap-cj_hears_disc_12] remove ap-cj_hears_disc_12
+tag @s[tag=ap-cj_hears_disc_11] remove ap-cj_hears_disc_13
+tag @s[tag=ap-cj_hears_disc_12] remove ap-cj_hears_disc_14
 
 scoreboard players reset @s ap-cj_leave

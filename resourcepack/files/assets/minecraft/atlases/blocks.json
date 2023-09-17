@@ -14,6 +14,14 @@
         },
         {
             "type": "single",
+            "resource": "ap-cj_customjukebox:ht_herobrinetotem/item/music_disc/its_herobrine"
+        },
+        {
+            "type": "single",
+            "resource": "ap-cj_customjukebox:ht_herobrinetotem/item/music_disc/see_herobrine"
+        },
+        {
+            "type": "single",
             "resource": "ap-cj_customjukebox:rm_portalgun/item/music_disc/at_the_end_of_the_day"
         },
         {

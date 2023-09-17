@@ -15,5 +15,8 @@ execute if block ~ ~ ~ minecraft:jukebox{RecordItem:{tag:{CJDisc:10b}}} as @a[di
 execute if block ~ ~ ~ minecraft:jukebox{RecordItem:{tag:{CJDisc:11b}}} as @a[distance=..66] run function ap-cj_customjukebox:jukebox/play/rm_portalgun/the_source
 execute if block ~ ~ ~ minecraft:jukebox{RecordItem:{tag:{CJDisc:12b}}} as @a[distance=..66] run function ap-cj_customjukebox:jukebox/play/rm_portalgun/what_could_have_been
 
+execute if block ~ ~ ~ minecraft:jukebox{RecordItem:{tag:{CJDisc:13b}}} as @a[distance=..66] run function ap-cj_customjukebox:jukebox/play/ht_herobrinetotem/its_herobrine
+execute if block ~ ~ ~ minecraft:jukebox{RecordItem:{tag:{CJDisc:14b}}} as @a[distance=..66] run function ap-cj_customjukebox:jukebox/play/ht_herobrinetotem/see_herobrine
+
 # Stores the Disc value in the IsPlaying value to later check which song has to be stopped 
 data modify entity @s data.CJIsPlaying set from block ~ ~ ~ RecordItem.tag.CJDisc

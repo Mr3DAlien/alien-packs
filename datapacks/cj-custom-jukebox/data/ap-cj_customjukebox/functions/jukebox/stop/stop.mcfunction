@@ -11,5 +11,8 @@ execute as @s[nbt={data:{CJIsPlaying:9b}}] as @a[tag=ap-cj_hears_disc_09] run fu
 execute as @s[nbt={data:{CJIsPlaying:10b}}] as @a[tag=ap-cj_hears_disc_10] run function ap-cj_customjukebox:jukebox/stop/rm_portalgun/the_bliss_of_the_past
 execute as @s[nbt={data:{CJIsPlaying:11b}}] as @a[tag=ap-cj_hears_disc_11] run function ap-cj_customjukebox:jukebox/stop/rm_portalgun/the_source
 execute as @s[nbt={data:{CJIsPlaying:12b}}] as @a[tag=ap-cj_hears_disc_12] run function ap-cj_customjukebox:jukebox/stop/rm_portalgun/what_could_have_been
+
+execute as @s[nbt={data:{CJIsPlaying:13b}}] as @a[tag=ap-cj_hears_disc_13] run function ap-cj_customjukebox:jukebox/stop/ht_herobrinetotem/its_herobrine
+execute as @s[nbt={data:{CJIsPlaying:14b}}] as @a[tag=ap-cj_hears_disc_14] run function ap-cj_customjukebox:jukebox/stop/ht_herobrinetotem/see_herobrine
 # Sets the IsPlaying value to false
 data modify entity @s data.CJIsPlaying set value 0b

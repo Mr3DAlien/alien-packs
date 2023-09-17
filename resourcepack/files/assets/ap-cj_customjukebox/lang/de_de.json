@@ -29,6 +29,11 @@
     "advancements.alien-packs.cj_customjukebox.rm_portalgun.get_all_discs.title": "Music Master of Dimensions ♪",
     "advancements.alien-packs.cj_customjukebox.rm_portalgun.get_all_discs.description": "Finde alle \u00a76Portal Gun\u00a75 Schallplatten",
 
+    "advancements.alien-packs.cj_customjukebox.ht_herobrinetotem.get_its_herobrine.title": "It's Herobrine ♪",
+    "advancements.alien-packs.cj_customjukebox.ht_herobrinetotem.get_its_herobrine.description": "Finde die \u00a76It's Herobrine\u00a7a Schallplatte",
+    "advancements.alien-packs.cj_customjukebox.ht_herobrinetotem.get_see_herobrine.title": "See Herobrine ♪",
+    "advancements.alien-packs.cj_customjukebox.ht_herobrinetotem.get_see_herobrine.description": "Finde die \u00a76See Herobrine\u00a7a Schallplatte",
+
     "commands.alien-packs.cj_customjukebox.reload_message": "\u00a76Custom Jukebox\u00a7b neu geladen!",
     "commands.alien-packs.cj_customjukebox.deinstall_message": "\u00a76Custom Jukebox\u00a74 De-Installiert!"
 }
