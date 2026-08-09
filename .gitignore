@@ -6,6 +6,8 @@
 /playerdata/*
 /region/*
 /stats/*
+/players/*
+/dimensions/*
 /icon.png
 /level.dat
 /level.dat_old
